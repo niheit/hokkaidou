@@ -1,3 +1,7 @@
-``hokkaido'' is a game that displays the dictionary of Hokkaido island on a terminal emulator. (Ver 7.0)<br><br>
-How to use:<br>
+``hokkaido'' is a game that displays a dictionary of place names in Hokkaido
+island. It runs on a terminal emulator. The version (7.0) covers the southern   
+part of Hokkaido.<BR>
+<BR> 
+How To Use<BR>
 gcc h7.c -o h7 && ./h7
+
