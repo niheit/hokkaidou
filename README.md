@@ -1,4 +1,4 @@
-``hokkaidou'' is a game that displays dictionaries of place names in Hokkaidou
+``hokkaidou'' is a game that displays dictionaries of place names in Hokkaido
 island. It runs on a terminal emulator. The version (7.0) covers the southern 
 part of the island. : )<BR>
 <BR>
