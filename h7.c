@@ -6,13 +6,13 @@ int a;
 FILE *fp = fopen("7", "r");   /* Original HTTP://2242.MOOO.COM/HOKKAIDO/7 */
 //char line[256];
 /* Set these values after `%!fold -w80' with vi ; as of 250302 */
-int oshima = 173, hiyama = 228, matsumae = 302, fukushima = 460; 
-int shiriuchi = 558, kikonai = 654, hokuto = 745, hakodate = 852, nanae = 1105;
-int shikabe = 1230, mori = 1289, yakumo = 1429, oshamambe = 1546; 
-int kaminokuni = 1676, esashi = 1815, assabu = 1971, otobe = 2081; 
-int okushiri = 2181, setana = 2247, imakane = 2408, eof = 2508;
+int oshima = 191, hiyama = 250, matsumae = 332, fukushima = 513; 
+int shiriuchi = 622, kikonai = 727, hokuto = 828, hakodate = 953, nanae = 1224;
+int shikabe = 1369, mori = 1436, yakumo = 1579, oshamambe = 1706; 
+int kaminokuni = 1839, esashi = 1980, assabu = 2139, otobe = 2252; 
+int okushiri = 2354, setana = 2421, imakane = 2581, eof = 2683;
 
-/* Original https://stackoverflow.com/questions/36853463 ; 
+/* Original https://stackoverflow.com/questions/36853463  
    Some functions do not work */
 enum { MAXL = 20, MAXC = 256000 }; 
 int c, i=0, idx = 0, pgsz = MAXL, line = 0;
