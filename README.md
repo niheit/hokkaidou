@@ -1,6 +1,10 @@
-``hokkaidou'' is a game that displays dictionaries of place names in Hokkaido
-island. It runs on a terminal emulator. The version (7.0) covers the southern 
-part of the island. : )<BR>
+``hokkaidou'' is a game to check geography in Hokkaido island. It runs on a 
+terminal emulator.
 <BR>
-How To Start<BR>
-gcc h7.c -o h7 && ./h7
+How To Use (Ver 7.1-Oshima & Hiyama sub-prefectures)<BR>
+cc h7.c -o h7 && ./h7
+
+
+
+
+
