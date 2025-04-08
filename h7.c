@@ -6,11 +6,11 @@ int a;
 FILE *fp = fopen("7", "r");   /* Original HTTP://2242.MOOO.COM/HOKKAIDO/7 */
 //char line[256];
 /* Set these values after `%!fold -w80' with vi ; as of 250302 */
-int oshima = 191, hiyama = 250, matsumae = 332, fukushima = 513; 
-int shiriuchi = 622, kikonai = 727, hokuto = 828, hakodate = 953, nanae = 1224;
-int shikabe = 1369, mori = 1436, yakumo = 1579, oshamambe = 1706; 
-int kaminokuni = 1839, esashi = 1980, assabu = 2139, otobe = 2252; 
-int okushiri = 2354, setana = 2421, imakane = 2581, eof = 2683;
+int oshima = 191, hiyama = 250, matsumae = 332, fukushima = 514; 
+int shiriuchi = 623, kikonai = 728, hokuto = 829, hakodate = 954, nanae = 1225;
+int shikabe = 1370, mori = 1437, yakumo = 1590, oshamambe = 1719; 
+int kaminokuni = 1864, esashi = 2015, assabu = 2174, otobe = 2287; 
+int okushiri = 2389, setana = 2456, imakane = 2616, eof = 2718;
 
 /* Original https://stackoverflow.com/questions/36853463  
    Some functions do not work */
