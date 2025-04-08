@@ -1,4 +1,4 @@
-``hokkaidou'' is a game to check geography in Hokkaidoiu island. It runs on a
+``hokkaidou'' is a game to check geography in Hokkaidou island. It runs on a
 <BR>
 terminal emulator.<BR>
 <BR>
