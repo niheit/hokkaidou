@@ -7,10 +7,10 @@ FILE *fp = fopen("7", "r");   /* Original HTTP://2242.MOOO.COM/HOKKAIDO/7 */
 //char line[256];
 /* Set these values after `%!fold -w80' with vi ; as of 250302 */
 int oshima = 191, hiyama = 250, matsumae = 332, fukushima = 514; 
-int shiriuchi = 623, kikonai = 728, hokuto = 829, hakodate = 954, nanae = 1225;
-int shikabe = 1370, mori = 1437, yakumo = 1590, oshamambe = 1719; 
-int kaminokuni = 1864, esashi = 2015, assabu = 2174, otobe = 2287; 
-int okushiri = 2389, setana = 2456, imakane = 2616, eof = 2718;
+int shiriuchi = 622, kikonai = 727, hokuto = 828, hakodate = 952, nanae = 1223;
+int shikabe = 1368, mori = 1435, yakumo = 1588, oshamambe = 1718; 
+int kaminokuni = 1863, esashi = 2016, assabu = 2193, otobe = 2320; 
+int okushiri = 2437, setana = 2503, imakane = 2672, eof = 2785;
 
 /* Original https://stackoverflow.com/questions/36853463  
    Some functions do not work */
