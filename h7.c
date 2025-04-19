@@ -6,11 +6,11 @@ int a;
 FILE *fp = fopen("7", "r");   /* Original HTTP://2242.MOOO.COM/HOKKAIDO/7 */
 //char line[256];
 /* Set these values after `%!fold -w80' with vi ; as of 250302 */
-int oshima = 191, hiyama = 250, matsumae = 332, fukushima = 514; 
-int shiriuchi = 622, kikonai = 727, hokuto = 828, hakodate = 952, nanae = 1223;
-int shikabe = 1368, mori = 1435, yakumo = 1588, oshamambe = 1718; 
-int kaminokuni = 1863, esashi = 2016, assabu = 2193, otobe = 2320; 
-int okushiri = 2437, setana = 2503, imakane = 2672, eof = 2785;
+int oshima = 190, hiyama = 249, matsumae = 331, fukushima = 513;
+int shiriuchi = 621, kikonai = 726, hokuto = 827, hakodate = 951, nanae = 1222;
+int shikabe = 1367, mori = 1434, yakumo = 1587, oshamambe = 1717;
+int kaminokuni = 1862, esashi = 2015, assabu = 2193, otobe = 2320;
+int okushiri = 2437, setana = 2508, imakane = 2678, eof = 2791;
 
 /* Original https://stackoverflow.com/questions/36853463  
    Some functions do not work */
@@ -21,7 +21,7 @@ char fname[MAXC];
 printf("Names: 1 Assabu, 2 Esashi, 3 Fukushima, 4 Hakodate, 5 Hiyama, \n"
  "6 Hokuto, 7 Imakane, 8 Kaminokuni, 9 Kikonai, 10 Matsumae, 11 Mori, \n"
  "12 Nanae, 13 Okushiri, 14 Oshamembe, 15 Oshima, 16 Otobe, 17 Setana, \n"
- "18 Shikabe, 19 Shiriuchi, 20 Yakumo. \nEnter No. or 'ctrl+c' to quit: ");
+ "18 Shikabe, 19 Shiriuchi, 20 Yakumo. \nEnter No. or 'ctrl+c' to quit; ");
 scanf("%d",&a);
  
 switch(a){
@@ -35,7 +35,7 @@ case 15:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -52,7 +52,7 @@ case 5:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -69,7 +69,7 @@ case 10:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -86,7 +86,7 @@ case 3:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -103,7 +103,7 @@ case 19:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -120,7 +120,7 @@ case 9:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -137,7 +137,7 @@ case 6:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -154,7 +154,7 @@ case 4:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -171,7 +171,7 @@ case 12:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -188,7 +188,7 @@ case 18:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -205,7 +205,7 @@ case 11:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -222,7 +222,7 @@ case 20:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -239,7 +239,7 @@ case 14:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -256,7 +256,7 @@ case 8:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -273,7 +273,7 @@ case 2:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -290,7 +290,7 @@ case 1:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -307,7 +307,7 @@ case 16:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -324,7 +324,7 @@ case 13:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -341,7 +341,7 @@ case 17:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
@@ -358,7 +358,7 @@ case 7:
       if (c == '\n') idx++;
       if (idx == pgsz){
          line += pgsz;
-         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit: ", line);
+         printf ("\n__line %d; Enter 'c' to next, 'ctrl-c' to quit; ", line);
          int ch;
          while ((ch = getchar() != '\n' && ch != EOF)) {}
          if ((ch = getchar()) == 'q') break;
