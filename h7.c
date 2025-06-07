@@ -3,14 +3,14 @@
 int main() {
 int a;
 //int i = 0;
-FILE *fp = fopen("7", "r");   /* Original HTTP://2242.MOOO.COM/HOKKAIDO/7 */
+FILE *fp = fopen("7", "r");   /* Original HTTP://2242.MOOO.COM/HOK/7 */
 //char line[256];
 /* Set these values after `%!fold -w80' with vi ; as of 250302 */
-int oshima = 190, hiyama = 249, matsumae = 331, fukushima = 513;
-int shiriuchi = 621, kikonai = 726, hokuto = 827, hakodate = 951, nanae = 1222;
-int shikabe = 1367, mori = 1434, yakumo = 1587, oshamambe = 1717;
-int kaminokuni = 1862, esashi = 2015, assabu = 2193, otobe = 2320;
-int okushiri = 2437, setana = 2508, imakane = 2678, eof = 2791;
+int oshima = 263, hiyama = 330, matsumae = 425, fukushima = 638;
+int shiriuchi = 762, kikonai = 886, hokuto = 997, hakodate = 1138;
+int nanae = 1461, shikabe = 1627, mori = 1694, yakumo = 1865, oshamambe = 2005;
+int kaminokuni = 2165, esashi = 2338, assabu = 2525, otobe = 2664;
+int okushiri = 2788, setana = 2863, imakane = 3049, eof = 3177;
 
 /* Original https://stackoverflow.com/questions/36853463  
    Some functions do not work */
