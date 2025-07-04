@@ -29,7 +29,7 @@ scanf("%d",&a);
 #define DISPLAY(X, Y) \
 while (getchar() != '\n' );  /* Retrieve the first enter key */ \
 while ((c = fgetc (fp)) != EOF) { \
-      /* import lines from A to B */ \
+      /* Import lines from A to B */ \
       if (c == '\n') i++; \
         if (i >= X-1 && i <= Y-1) {  \
            /* Display earch 20 lines */ \
