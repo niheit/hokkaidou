@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/* this is a game ``hokkaidou'' for checking dictionaries of hokkaidou. 
+/* This is a game ``hokkaidou'' for checking dictionaries of hokkaidou. 
    version 202507 */
 int main() {
 int a;
@@ -27,12 +27,12 @@ printf("Names: 1 Assabu, 2 Esashi, 3 Fukushima, 4 Hakodate, 5 Hiyama, \n"
 scanf("%d",&a);
 
 #define DISPLAY(X, Y) \
-while (getchar() != '\n' );  /* retrieve the first enter key */ \
+while (getchar() != '\n' );  /* Retrieve the first enter key */ \
 while ((c = fgetc (fp)) != EOF) { \
       /* import lines from A to B */ \
       if (c == '\n') i++; \
         if (i >= X-1 && i <= Y-1) {  \
-           /* display earch 20 lines */ \
+           /* Display earch 20 lines */ \
            if (c == '\n') idx++; \
            if (idx == pgsz){ \
                line += pgsz; \
@@ -45,7 +45,7 @@ while ((c = fgetc (fp)) != EOF) { \
            putchar (c); \
         } \
      } \
-     /* can these 3 lines be omitted? */ \
+     /* Can these 3 lines be omitted? */ \
      fclose (fp); \
      return 0; \
      break; 
