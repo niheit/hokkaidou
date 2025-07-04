@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/* this game ``hokkaidou'' is for checking dictionaries of hokkaidou. 
+/* this is a game ``hokkaidou'' for checking dictionaries of hokkaidou. 
    version 202507 */
 int main() {
 int a;
