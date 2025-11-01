@@ -101,6 +101,5 @@ case 49: DISPLAY(otobe, okushiri)
 case 42: DISPLAY(okushiri, setana)
 case 65: DISPLAY(setana, imakane)
 case 20: DISPLAY(imakane, eof)
-
  }
 }
