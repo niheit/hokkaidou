@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/* ``hokkaidou'' a game to check place names in hokkaidou. ver 2511 */
+/* ``hokkaidou'' a game to check place names in hokkaidou. ver 251104 */
 int main() {
 int a;
 //int i = 0;
@@ -9,12 +9,12 @@ FILE *fp = fopen("5.TXT", "r");  /* Original HTTP://2242.MOOO.COM/HOK/5.TXT */
 
 /* Set the first line (top of a box), eof = SOURSE */
 int oshima=165, hiyama=249, shiribeshi=0000, iburi=0000, hidaka=0000; 
-int ishikari=00000, matsumae=363, fukushima=618, shiriuchi=766, kikonai=910; 
-int hokuto=1044, hakodate=1221, nanae=1616, shikabe=1831, mori=1908; 
-int yakumo=2124, oshamambe=2296, kaminokuni=2489, esashi=2722, assabu=2978; 
-int otobe=3165, okushiri=3329, setana=3418, imakane=3648, shimamaki=0000; 
+int ishikari=00000, matsumae=363, fukushima=618, shiriuchi=767, kikonai=911; 
+int hokuto=1045, hakodate=1222, nanae=1619, shikabe=1834, mori=1910; 
+int yakumo=2128, oshamanbe=2300, kaminokuni=2493, esashi=2726, assabu=298; 
+int otobe=3169, okushiri=3333, setana=3421, imakane=3652, shimamaki=0000; 
 int kuromatsunai=0000, suttsu=0000, rankoshi=0000, niseko=0000, makkari=0000;
-int rusutsu=0000, kimobetsu=0000, kyougoku=0000, kutchan=0000, kyouwa=0000;
+int rusutsu=0000, kimobetsu=0000, kyougoku=0000, kucchan=0000, kyouwa=0000;
 int iwanai=0000, tomari=0000, kamoenai=0000, shakotan=0000, furubira=0000;
 int niki=0000, yoichi=0000, akaigawa=0000, otaru=0000, otaru_east=0000;
 int otaru_south=0000, otaru_west=0000, toyoura=0000, touyako=0000, date=0000;
@@ -40,9 +40,9 @@ printf (
 "11_Esashi 12_Fukushima xx_Furubira 14_Hakodate xx_Hidaka sub-prefecture \n"
 "xx_Hidaka_Town 17_Hiyama 18_Hokuto xx_Iburi 20_Imakane xx_Ishikari_City \n"
 "xx_Ishikari_sub-prefecture xx_Iwanai 24_Kaminokuni xx_Kamoenai 26_Kikonai \n"
-"xx_Kimobetsu xx_Kita-hiroshima xx_Kutchan xx_Kyougoku xx_Kyouwa xx_Makkari \n"
+"xx_Kimobetsu xx_Kita-hiroshima xx_Kucchan xx_Kyougoku xx_Kyouwa xx_Makkari \n"
 "33_Matsumae 34_Mori xx_Mukawa xx_Muroran 37_Nanae xx_Niikappu xx_Niki \n"
-"xx_Niseko xx_Noboribetsu 42_Okushiri 43_Oshamembe 44_Oshima xx_Otaru \n"
+"xx_Niseko xx_Noboribetsu 42_Okushiri 43_Oshamenbe 44_Oshima xx_Otaru \n"
 "xx_Otaru_east xx_Otaru_south xx_Otaru_west 49_Otobe xx_Rankoshi xx_Rusutsu \n"
 "xx_Samani xx_Sapporo xx_Sapporo_Atsubetsu, xx_Sapporo_Chuuou \n"
 "xx_Sapporo_Higashi xx_Sapporo_Kita xx_Sapporo_Kita_Hokkaidou_Univ \n"
@@ -91,8 +91,8 @@ case 14: DISPLAY(hakodate, nanae)
 case 37: DISPLAY(nanae, shikabe)
 case 67: DISPLAY(shikabe, mori)
 case 34: DISPLAY(mori, yakumo)
-case 82: DISPLAY(yakumo, oshamambe)
-case 43: DISPLAY(oshamambe, kaminokuni)
+case 82: DISPLAY(yakumo, oshamanbe)
+case 43: DISPLAY(oshamanbe, kaminokuni)
 
 case 24: DISPLAY(kaminokuni, esashi)
 case 11: DISPLAY(esashi, assabu)
