@@ -13,7 +13,7 @@ Copyright (c) 2021-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251101.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251103.
 ------------------------------------------------------------------------
  _________
 |         |
@@ -427,8 +427,8 @@ for Tate Castle).
 Prefecture governed the southern part of Hokkaidou. In 1872 (Meiji 5), 
 Matsumae office of the Hokkaidoou Development Commission (Kaitaku-shi) 
 was established.
-	In 1881 (Meiji 14), an administrative office of Matsumae county 
-(Matsumae gun-yakusho) was established, and Matsumae office of the 
+	In 1881 (Meiji 14), the administrative office of Matsumae 
+county (Matsumae gun-yakusho) was established. Matsumae office of the 
 Hokkaidou Development Commission was abolished. In 1897 (Meiji 30), 
 Matsumae sub-prefecture was established. The administrative office of 
 Matsumae county was abolished.
@@ -648,10 +648,11 @@ Catholic gold miners gathered on the mountain. #3
  	In the beginning of the Meiji period, the area belonged to the 
 Tate Domain. (The Matsumae domain renamed the Tate Domain.) (See 
 Matsumae Town in Oshima sub-prefecture for Tate Domain.) 
-	In 1879 (Meiji 12), two administrative office (kochou-yakuba) 
-were established; one was for two villages of Fukushima and Shirafu 
-[\u767D\u7B26] and the other was for three villages of Yoshioka 
-[\u5409\u5CA1], Reihige [\u793C\u9AED], and Miyanouta [\u5BAE\u6B4C].
+	In 1879 (Meiji 12), two administrative offices (kochou-yakuba) 
+were established; one was for two villages (Fukushima and Shirafu 
+[\u767D\u7B26]) and the other was for three villages (Yoshioka 
+[\u5409\u5CA1], Reihige [\u793C\u9AED], and Miyanouta [\u5BAE
+\u6B4C]).
 	In 1900 (Meiji 33), Fukushima Village (1st-class municipality) 
 was established by the merger of Fukushima village and Shirafu village. 
 (See the note of Matsumae Town for 1st-class and 2nd-class 
@@ -790,13 +791,13 @@ was the order of the Kamakura Shogunate.
 te]. It was one of the 12 forts that were built by the Andou clan from 
 Tsugaru (now Aomori Prefecture). During the Edo era, the land that is 
 now Shiriuchi was ruled by the Matsumae Domain. #2
-	After the Meiji period, an administrative office (kochou-
-yakuba) was established in 1871 (Meiji 4). It was a continuation of 
-village chief system from the Edo era.
-	In 1881 (Meiji 14), an administrative office (kochou-yakuba) of 
-Shiriuchi village was re-established. The office covered Kotaniishi 
-[\u5C0F\u8C37\u77F3] village (by ``Shin-Shiriuchi-choushi [new 
-Shiriuchi Town history]'' published in 2015).
+	After the Meiji period, in 1871 (Meiji 4), the administrative 
+office (kochou-yakuba) of Shiriuchi village was established. It was a 
+continuation of village chief system from the Edo era.
+	In 1881 (Meiji 14), the administrative office (kochou-yakuba) 
+of Shiriuchi village was re-established. It covered Kotaniishi [\u5C0F
+\u8C37\u77F3] village (by ``Shin-Shiriuchi-choushi [new Shiriuchi Town 
+history]'' published in 2015).
 	In 1906 (Meiji 39), Shiriuchi Village (2nd-class municipality) 
 was established by the merger of Shiriuchi village and Kotaniishi 
 village. (See the note of Matsumae Town for 2nd-class municipality). In 
@@ -931,7 +932,7 @@ of 12 forts in Ezo (old Hokkaidou), which was built by the Andou clan.
 the Edo era, the Matsumae Domain ruled the area. The name ``Kikonai'' 
 appears on the map of Ezo, which was drawn by the Matsumae Domain in 
 1624.
-	After the Meiji period, in 1879 (Meiji 12), an administrative 
+	After the Meiji period, in 1879 (Meiji 12), the administrative 
 office (kochou-yakuba) of Kikonai was established. In 1902 (Meiji 35), 
 Kikonai Village (2nd-class municipality) was established. At the time, 
 these four villages were merged; Kikonai, Kamatani [\u91DC\u8C37], 
@@ -1062,9 +1063,9 @@ built near the mouth of the Moheji River. (See Kaminokuni Town in
 Hiyama sub-prefecture for the old forts built in south Hokkaidou.) In 
 the Edo era, the area was ruled by the Matsumae Domain.
 	After the Meiji period, in 1880 (Meiji 13), two administrative 
-offices (kochou-yakuba) were established in Kamiiso and Oono villages. 
-In 1885 (Meiji 18), an administrative office was established in Moheji 
-[\u8302\u8FBA\u5730] village.
+offices (kochou-yakuba) were established in the villages of Kamiiso 
+and Oono. In 1885 (Meiji 18), an administrative office was established 
+in Moheji [\u8302\u8FBA\u5730] village.
 	In 1900 (Meiji 33), Kamiiso Village (1st-class municipality) 
 and Oono Village (1st-class municipality) were established. (See the 
 note of Matsumae Town for 1st-class and 2nd-class municipalities.)
@@ -1365,7 +1366,8 @@ place.'' It signified diatomite (``keisoudo'' in Japanese).
 recorded in Matsumae-tou-gou-chou (Matsumae island gazetteer) [\u677E
 \u524D\u5CF6\u90F7\u5E33], which was published in the Tenpou period 
 (1831-1845) in the Edo era. After the Meiji period, in 1879 (Meiji 12), 
-an administrative office (kochou-yakuba) of Toi was established.
+the administrative office (kochou-yakuba) of Toi village was 
+established.
 	In 1902 (Meiji 35), Toi Village (2nd-class municipality) was 
 established. In 1919 (Taishou 8), Toi Village (1st-class municipality) 
 was established. In 1968 (Shouwa 43), Toi Town was established. (See 
@@ -1381,10 +1383,10 @@ Hokkaidou since the 1990s.
  	The former Minami-kayabe [\u5357\u8305\u90E8] Town (now 
 Hakodate City) is located to the east of the Kameda Peninsula. (See 
 Mori Town in Oshima sub-prefecture for the name ``Kayabe.'')
-	In 1879 (Meiji 12), an administrative office (kochou-yakuba) 
-was established in Osatsube [\u5C3E\u672D\u90E8] village. In 1880 
+	In 1879 (Meiji 12), the administrative office (kochou-yakuba) 
+of Osatsube [\u5C3E\u672D\u90E8] village was established. In 1880 
 (Meiji 13), an administrative office was established in Usujiri [\u81FC
-\u5C3B] village. Those  villages had continued from the Edo era.
+\u5C3B] village. Those villages had continued from the Edo era.
 	In 1906 (Meiji 39), Osatsube Village (2nd-class municipality) 
 and Usujiri Village (2nd-class municipality) were established. In 1959 
 (Shouwa 39), Minami-kayabe Town was established by the merger of 
@@ -1403,9 +1405,9 @@ means ``head, stick out, place.'' It signified Mt. Esan (618 meters).
 Mt. Esan is an active volcano. The bare soil stands out from the 
 Pacific Ocean.
 	In the the Edo era, Shirikishinai [\u5C3B\u5CB8\u5185] village 
-was established. After the Meiji period, in 1872 (Meiji 5), an 
-administrative office (kochou-yakuba) was established in Shirikishinai 
-village. It was a continuation of village chief system from the Edo 
+was established. After the Meiji period, in 1872 (Meiji 5), the 
+administrative office (kochou-yakuba) of Shirikishinai village was 
+established. It was a continuation of village chief system from the Edo 
 era.
 	In 1879 (Meiji 12), the administrative office of Shirikishinai 
 village was re-established. In 1906 (Meiji 39), Shirikishinai Village 
@@ -1421,8 +1423,8 @@ as Atsubetsu Ward in Sapporo).
 language. It means ``mountain foot, under, place.'' It signified the 
 mountain foot of Mt. Esan.
 	In the Edo era, Todohokke was included in Osatsube village. 
-After the Meiji period, in 1880 (Meiji 13), an administrative office of 
-Todohokke village was established. In 1919 (Taishou 8), it became 
+After the Meiji period, in 1880 (Meiji 13), the administrative office 
+of Todohokke village was established. In 1919 (Taishou 8), it became 
 Todohokke Village (2nd-class municipality).
 
 #5  The Port of Hakodate was a natural port. Japanese people called it 
@@ -1496,13 +1498,14 @@ Kameda county [\u4E80\u7530\u90E1];
 	 (1) Shinori [\u5FD7\u82D4], Zenigame-zawa; (2) Kami-yukawa 
 [\u4E0A\u6E6F\u5DDD], Shimo-yukawa [\u4E0B\u6E6F\u5DDD], Kameo [\u4E80
 \u5C3E]; (3) Ishizaki [\u77F3\u5D0E]; (4) Akagawa [\u8D64\u5DDD], 
-Oonakayama, Kikyou [\u6854\u6897], Ishikawa [\u77F3\u5DDD]; (5) Nanae, 
-Ikusagawa [\u8ECD\u5DDD], Shiroyama [\u57CE\u5C71], 
-	(continued) --> Fujiyama [\u85E4\u5C71], Tougue-shita [\u5CE0
-\u4E0B], Tsuruno [\u9DB4\u91CE]; (6) Ippongui [\u4E00\u672C\u6728], 
-Chiyoda [\u5343\u4EE3\u7530], Fumizuki [\u6587\u6708], Ichino-watari 
-[\u5E02\u6E21], Oono, Hongou [\u672C\u90F7]; (7) Kameda, Kaji [\u935B
-\u51B6], and Kamiyama [u795E\u5C71]).
+Oonakayama, Kikyou [\u6854\u6897], Ishikawa [\u77F3\u5DDD]; 
+	(continued) --> (5) Nanae, Ikusagawa [\u8ECD\u5DDD], Shiroyama 
+[\u57CE\u5C71], Fujiyama [\u85E4\u5C71], Tougue-shita [\u5CE0
+\u4E0B], Tsuruno [\u9DB4\u91CE]; 
+	(continued) --> (6) Ippongui [\u4E00\u672C\u6728], Chiyoda 
+[\u5343\u4EE3\u7530], Fumizuki [\u6587\u6708], Ichino-watari [\u5E02
+\u6E21], Oono, Hongou [\u672C\u90F7]; (7) Kameda, Kaji [\u935B\u51B6], 
+and Kamiyama [u795E\u5C71]).
 	In 1902 (Meiji 23), Kameda Village (2nd-class municipality) was 
 established. At the time, the villages of Kameda, Kamiyama, Kaji, 
 Kikyou, and Ishikawa were merged. In 1919 (Taishou 8), Kameda Village 
@@ -1643,11 +1646,11 @@ Domain.
 government farm) was built by the Hokkaidou Development Commission. An 
 American advisor Edwin Dun instructed Western-style farming at the 
 government farm, including dairy farming and butter production. #1
- 	In 1879 (Meiji 12), an administrative office (kochou-yakuba) of 
-Nanae [\u4E03\u98EF] village was established by the merger of Nanae and 
-Iida [\u98EF\u7530] villages. An administrative office of Oonakayama 
-[\u5927\u4E2D\u5C71] village was established by the merger of Ookawa 
-[\u5927\u5DDD] and Nakajima [\u4E2D\u5CF6] villages.
+ 	In 1879 (Meiji 12), the administrative office (kochou-yakuba) 
+of Nanae [\u4E03\u98EF] village was established by the merger of Nanae 
+and Iida [\u98EF\u7530] villages. The administrative office of 
+Oonakayama [\u5927\u4E2D\u5C71] village was established by the merger 
+of Ookawa [\u5927\u5DDD] and Nakajima [\u4E2D\u5CF6] villages.
  	In 1885 (Meiji 18), Nanae village merged Oonakayama's village.  
 In 1902 (Meiji 35), Nanae Village (2nd-class municipality) was 
 established. Nanae Station on Hokkaidou Railway (now Hakodate Main 
@@ -1854,7 +1857,7 @@ carry their luggage. Both signified the mouth of the Shikabe River. #1
 Guen-gorou Itou, who came from Tsugaru (now Aomori Prefecture). He 
 found a deer (shika) that healed its wounds in the hot spring. It is 
 the origin of Shikabe Hot Spring. In the Edo era, fishermen emigrated.
-	After the Meiji period, in 1879 (Meiji 12), an administrative 
+	After the Meiji period, in 1879 (Meiji 12), the administrative 
 office (kochou-yakuba) of Shikabe village was established. In 1906 
 (Meiji 39), Shikabe Village (2nd-class municipality) was established. 
 In 1983 (Shouwa 58), Shikabe Town was established. (See the note of 
@@ -1936,19 +1939,20 @@ period;
 	OLD MORI TOWN; In 1880 (Meiji 13), an administrative office 
 (kochou-yakuba) was established in Washinoki [\u9DF2\u30CE\u6728] 
 village. It covered villages of Ebiya [\u86EF\u8C37] and Ishikura 
-[\u77F3\u5009]. In 1881 (Meiji 14), an administrative office was 
-established in Mori village. It covered villages of Oshironai [\u5C3E
-\u767D\u5185] and Shukunobe [\u5BBF\u91CE\u8FBA]. 
+[\u77F3\u5009]. In 1881 (Meiji 14), the administrative office of Mori 
+village was established. It covered villages of Oshironai [\u5C3E\u767D
+\u5185] and Shukunobe [\u5BBF\u91CE\u8FBA]. 
 	In 1899 (Meiji 22), Mori village merged Washinoki village. The 
-administrative office covered six villages (see above). In 1902 (Meiji 
-35), Mori Village (2nd-class municipality) was established. (See the 
-note of Matsumae Town for 1st-class and 2nd-class municipalities.) #4
+administrative office covered six villages (Mori, Oshironai, Shukunobe, 
+Washinoki, Ebiya, and Ishikura). In 1902 (Meiji 35), Mori Village (2nd-
+class municipality) was established. (See the note of Matsumae Town 
+for 1st-class and 2nd-class municipalities.) #4
 	In 1903 (Meiji 36), Mori Station on Hokkaidou Railway (now 
 Hakodate Main Line) opened. In 1907 (Meiji 40), Mori Village (1st-class 
 municipality) was established. In 1921 (Taishou 10), Mori Town was 
 established.
-	OLD SAWARA TOWN; In 1880 (Meiji 13), an administrative office 
-(kochou-yakuba) was established in Sawara [\u7802\u539F] village. It 
+	OLD SAWARA TOWN; In 1880 (Meiji 13), the administrative office 
+(kochou-yakuba) of Sawara [\u7802\u539F] village was established. It 
 covered Kakeruma [\u639B\u6F97] village. In 1906 (Meiji 39), Sawara 
 Village (2nd-class municipality) was established.
 	In 1927 (Shouwa 2), Sawara Station on Oshima-kaigan-tetsudou 
@@ -2305,13 +2309,13 @@ AREA 311 KM2 (2010), FOREST 232, CULTIVATED 18; COUNTY = YAMAKOSHI
 IRIS.
  
 Oshamanbe [o-sha-ma-n-be] [\u9577\u4E07\u90E8] is a town in Oshima 
-sub-prefecture, south Hokkaidou (dou-nan). It is located in the root of 
-the Oshima Peninsula. The area faces Uchiura Bay. The rivers of 
-Oshamanbe, Monbetsu, and Kun-nui flow. #1 #2 #3
+sub-prefecture, south Hokkaidou (dou-nan). (The official spelling is 
+``Oshamambe.'') It is located in the root of the Oshima Peninsula. The 
+area faces Uchiura Bay. The rivers of Oshamanbe, Monbetsu, and Kun-nui 
+flow. #1 #2 #3
 	The name ``Oshamanbe'' is derived from ``o-samam-pet'' in Ainu 
 language. It means ``river mouth, bend, river.'' Or, it is derived from 
 ``o-samampe'' in Ainu language. It means ``river mouth, flatfish.'' 
-(Threfore, the town uses the spelling ``Oshamambe.'') 
  	In 1669, during the Edo era, the Ainu forces led by Shakushain 
 advanced from Hidaka to Matsumae. They were defeated by the gun corps 
 of the Matsumae Domain along the Kun-nui River. In 1773, the Matsumae 
@@ -2871,7 +2875,7 @@ of lumberjacks.
 adzuki-beans in Ezo (old hokkaidou). They made sweet adzuki-bean paste 
 and presented it to the lord of the Matsumae Domain.
 
-#7  As for the former Tomari Village, an administrative office (kochou-
+#7  As for the former Tomari Village, the administrative office (kochou-
 yakuba) of Tomari village was built in 1878 (Meiji 11) (by ``2016 
 Esashi-chou-kyouiku-suishin-keikaku'' [2016 Esashi Town education 
 promotion plan]). In 1906 (Meiji 39), Tomari Village (2nd-class 
@@ -2914,7 +2918,7 @@ called ``Taba-kaze (Taba wind).'' It is a local wind in winter.
 sunken ship and cried, hitting the trunk of a pine tree. Later, a not 
 appeared on the pine tree and it was called ``Toshizou's fist.'' It is 
 the Pine of Lament (nageki-no-matsu) in front of the old administrative 
-office for Hiyama and Nishi counties. (See Hakodate City in Oshima sub-
+office of Hiyama and Nishi counties. (See Hakodate City in Oshima sub-
 prefecture for the Bohin War.)
 
 #10  As for the local wind ``Taba-kaze,'' which sank the battleship 
@@ -3004,17 +3008,17 @@ immigrated. After the Meiji period, in 1868 (Meiji 1), the Matsumae
 Domain established Tate Castle. The castle was located in the upper 
 reaches of the Assabu River. It was used during the Boshin War (1868-
 1869). #2 #3
-	In 1876 (Meiji 9), an administrative office (kochou-yakuba) of 
+	In 1876 (Meiji 9), the administrative office (kochou-yakuba) of 
 Gamushi [\u4FC4\u866B] village was established. It was a continuation 
 of village chief system from the Edo era. #4
-	In 1879 (Meiji 12), an administrative office was re-
-established. It covered four villages; Gamushi, Tsuchihashi [\u571F
+	In 1879 (Meiji 12), the administrative office of Gamushi was 
+re-established. It covered four villages; Gamushi, Tsuchihashi [\u571F
 \u6A4B], Mena [\u76EE\u540D], and Akanuma [\u8D64\u6CBC].
-	In 1800 (Meiji 13), the administrative office was re-
+	In 1800 (Meiji 13), the administrative office of Gamushi was re-
 established. It covered five villages; Gamushi, Tsuchihashi, Mena, 
 Akanuma, and An-noro [\u5B89 \u91CE\u5442]. Those five villages existed 
 in the Edo era for forestry. 
-	In 1801 (Meiji 14), the administrative office waas re-
+	In 1801 (Meiji 14), the administrative office of Gamush was re-
 established. It covered seven villages; Gamushi, Tsuchihashi, Mena, 
 Akanuma, An-noro, Tate [\u9928], and Uzura [\u9D89].
 	In 1906 (Meiji 39), Assabu Village (2nd-class municipality) was 
@@ -3138,14 +3142,14 @@ Station designated May-queen and Danshaku as recommended potato
 cultivars.
 	(Hiyama Agricultural Experiment Station was located in Gamushi 
 district, Assabu Village. See Imakane Town in Hiyama sub-prefecture and 
-Kutchan Town in Shiribeshi sub-prefecture for Danshaku potatoes.)
+Kucchan Town in Shiribeshi sub-prefecture for Danshaku potatoes.)
 	May-queen is a popular ingredient in Oden (winter pot dish) in 
 the Kansai region. (Kansai is located in the central part of Japan, 
 however, it is considered as ``western Japan [nishi-nihon].) May-queen 
 potatoes do not fall apart when they are soaked in hot soup for a long 
 time. I grew up in eastern Japan and have never seen potatoes in Oden.
 	* * *
-	Sapporo Shusei is a distilling company. Its headquarter is 
+	Sapporo Shusei is a distilling company. The head office is 
 located in Nishi Ward, Sapporo City, Ishikari sub-prefecture. A factory
 of Sapporo Shusei is located along the Assabu River.
 	Sapporo Shusei in Assabu makes Shouchuu (liquor). The liquor 
@@ -3189,9 +3193,9 @@ is recorded in a document written in 1704. #3
 Otobe in May 1869 (Meiji 2). They advanced to Esashi and to Hakodate, 
 and defeated the former Tokugawa Shogunate forces. The Boshin War 
 ended. (The Boshin War was a civil war.) #4
-	In 1879 (Meiji 12), an administrative office (kochou-yakuba) 
+	In 1879 (Meiji 12), the administrative office (kochou-yakuba) 
 of Otobe village was establised. It covered villages of Komonai [\u5C0F
-\u8302\u5185] and Toppu [\u7A81\u7B26]. An administrative office of 
+\u8302\u5185] and Toppu [\u7A81\u7B26]. The administrative office of 
 Mitsuya [\u4E09\u30C4\u8C37] village was established. It covered 
 Kabashira [\u868A\u67F1] village.
 	In 1902 (Meiji 35), Otobe Village (2nd-class municipality) was 
@@ -3218,7 +3222,7 @@ cucumbers).
 for other industries, a factory of CAC Cosmetics and Tomioka winery are 
 located. The founder of CAC Cosmetics was born in a pharmacy in Otobe. 
 	Tomioka winery was founded in 1976. A distilling company, 
-Sapporo-shusei, acquired Tomioka winery in 2008. The headquarters of 
+Sapporo-shusei, acquired Tomioka winery in 2008. The head office of 
 Sapporo-shusei is located in Nishi Ward, Sapporo City, Ishikari sub-
 prefecture.
 	As for sightseeing, Guen-na-dai Beach Park has been selected as 
@@ -3414,7 +3418,6 @@ rock), and (4) Muean-jima (lonely island).
 	The shape of Nabe-tsuru Rock was changed by a large earthquake 
 in 1993. It was restored. There are unique stories with the unique 
 rocks. Traveling to a remote island strongly fascinates some people. 
-It is like Jirou-ramen.
  __________________
 |                  |
 |      SETANA      |
@@ -3455,29 +3458,30 @@ Kita-hiyama Town).
 history of old towns.
 	OLD TAISEI TOWN; In 1872 (Meiji 5), Kudou office of the 
 Hokkaidou Development Commission was established. In 1880 (Meiji 13), 
-an administrative office (kochou-yakuba) was established in Issouma 
-[\u4E00\u8258\u6F97] village. It covered six villages;
-	Issouma, Oota [\u592A\u7530], Uekotan [\u4E0A\u53E4\u4E39], 
-Sansouma [\u4E09\u8258\u6F97], Hikata-tomari [\u65E5\u65B9\u6CCA], and 
-Yunoshiri [\u6E6F\u5C3B].
-	In the same year, an administrative office was established in 
-Hiratanai [\u5E73\u7530\u5185]. It covered tree villages; Hiratani, 
-Kaitorima and Nagaiso [\u9577\u78EF]. In 1881 (Meiji 14), an 
-administrative office of Kudou village was established by the merger 
-of Issouma, Sansouma, and Hikata-tomari.
+the administrative office (kochou-yakuba) of Issouma [\u4E00\u8258
+\u6F97] village was established.
+	The administrative office of Issouma covered six villages; 
+Issouma, Oota [\u592A\u7530], Uekotan [\u4E0A\u53E4\u4E39], Sansouma 
+[\u4E09\u8258\u6F97], Hikata-tomari [\u65E5\u65B9\u6CCA], and Yunoshiri 
+[\u6E6F\u5C3B].
+	In the same year, the administrative office of Hiratanai 
+[\u5E73\u7530\u5185] was established. It covered tree villages; 
+Hiratani, Kaitorima, and Nagaiso [\u9577\u78EF]. In 1881 (Meiji 14), 
+the administrative office of Kudou village was established by the 
+merger of Issouma, Sansouma, and Hikata-tomari.
 	In 1902 (Meiji 35), Kudou Village (2nd-class municipality) was 
-established by the merger of Oota, Uekotan, and Yunoshiri. (See the 
-note of Matsumae Town for 1st-class and 2nd-class municipalities). In 
+established by the merger of Kudou, Oota, Uekotan, and Yunoshiri. In 
 1923 (Taishou 12), Kaitorima Village (2nd-class municipality) was 
-established by the merger of Hiratanai and Nagaiso.
+established by the merger of Kaitorima, Hiratanai, and Nagaiso. (See 
+the note of Matsumae Town for 1st-class and 2nd-class municipalities). 
 	In 1955 (Shouwa 30), Taisei Village was established by the 
 merger of Kudou and Kaitorima. In 1966 (Shouwa 41), Taisei Town was 
 established.
 	OLD KITA-HIYAMA TOWN; In 1879 (Meiji 12), an administrative 
 office (kochou-yakuba) was established for four villages in Futoro 
-county. They were Futoro [\u592A\u6AD3], Gorota [\u53E4\u6AD3\u591A], 
-Raruishi [\u826F\u7460\u77F3], and Udomari [\u9D5C\u6CCA]).
-	In 1902 (Meiji 35), an administrative office of Higashi-setana 
+county; Futoro [\u592A\u6AD3], Gorota [\u53E4\u6AD3\u591A], Raruishi 
+[\u826F\u7460\u77F3], and Udomari [\u9D5C\u6CCA]).
+	In 1902 (Meiji 35), the administrative office of Higashi-setana 
 [\u6771\u702C \u68DA] village was established. It was separated from 
 Setana village.
  	In 1906 (Meiji 39), Futoro Village (2nd-class municipality) was 
@@ -3488,18 +3492,18 @@ established.
 1955 (Shouwa 30), Kita-hiyama Town was established by the merger of 
 Higashi-setana Town and Futoro Village.
 	OLD SETANA TOWN; In 1879 (Meiji 12), two administrative offices 
-(kochou-yakuba) were established for five villages in Setana county. 
-They were Setana, Baikatsu [\u6885\u82B1\u90FD], Nakauta [\u4E2D
-\u6B4C], Abura [\u867B\u7F85], and Shimauta [\u5CF6\u6B4C]).
+(kochou-yakuba) were established for five villages in Setana county; 
+Setana, Baikatsu [\u6885\u82B1\u90FD], Nakauta [\u4E2D\u6B4C], Abura 
+[\u867B\u7F85], and Shimauta [\u5CF6\u6B4C]).
 	In 1897 (Meiji 30), Toshibetsu village (now Imakane Town) was 
 separated from Setana village. In 1902 (Meiji 35), Setana Village (2nd-
 class municipality) was established by the merger of five villages in 
 Setana county.
 	In the same year, Higashi-setana village was separated from 
-Setana Village. (This means that an administrative office was 
-established in Higashi-setana village). In 1919 (Taishou 8), Setana 
-Village (1st-class municipality) was established. In 1921 (Taishou 10), 
-Setana Town was established.
+Setana Village. (This means that an administrative office was built in 
+Higashi-setana village). In 1919 (Taishou 8), Setana Village (1st-class 
+municipality) was established. In 1921 (Taishou 10), Setana Town was 
+established.
 	The town hall of Setana is located near the mouth of the 
 Toshibetsu River (Shiribeshi-toshibetsu River). It used to be the town 
 hall of Kita-hiyama Town. National Route 229 (Hiyama-kokudou) runs 
@@ -3670,8 +3674,8 @@ were agate and manganese mines.
 	After the Meiji period, in 1893 (Meiji 26), the two pioneers 
 settled in what is now Imakane district. In the same year, a group of 
 Christians (Kirisuto-kyou-dantai) settled in Immanuel district. #2
-	In 1897 (Meiji 30), an administrative office (kochou-yakuba) of 
-Toshibetsu [\u5229\u5225] village was established. The village was 
+	In 1897 (Meiji 30), the administrative office (kochou-yakuba) 
+of Toshibetsu [\u5229\u5225] village was established. The village was 
 separated from Setana village.
 	In 1906 (Meiji 39), Toshibetsu Village (2nd-class municipality) 
 was established. In 1929 (Shouwa 4), Toshibetsu Village (1st-class 
@@ -3777,11 +3781,11 @@ beans or wheat are cultivated after potatoes. The so-called stray
 potatoes are killed by the cold temperature. However, recently, not all 
 stray potatoes are killed because of climate change.
 	(See Shihoro Town in Tokachi sub-prefecture for potatoes; See 
-Kutchan Town in Shiribeshi sub-prefecture for Danshaku potatoes; See 
+Kucchan Town in Shiribeshi sub-prefecture for Danshaku potatoes; See 
 Assabu Town in Hiyama for May-queen potatoes.)
 
-#6  The width of Pirika Dam is 1480m. It is the longest concrete dam in 
-the country.
+#6  The width of Pirika Dam is 1,480 meters. It is the longest concrete 
+dam in the country.
 	The dam was constructed between 1975 and 1991 at the confluence 
 of the three rivers; the Shiribeshi-toshibetsu River, the Pirikabetsu
 River, and the Chuushibetsu River.
