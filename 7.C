@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/* ``hokkaidou'' a game to check place names in hokkaidou. ver 251104 */
+/* ``hokkaidou'' a game to check place names in hokkaidou. ver 251128 */
 int main() {
 int a;
 //int i = 0;
@@ -8,11 +8,11 @@ FILE *fp = fopen("5.TXT", "r");  /* Original HTTP://2242.MOOO.COM/HOK/5.TXT */
 //char line[256];
 
 /* Set the first line (top of a box), eof = SOURSE */
-int oshima=165, hiyama=249, shiribeshi=0000, iburi=0000, hidaka=0000; 
-int ishikari=00000, matsumae=363, fukushima=618, shiriuchi=767, kikonai=911; 
-int hokuto=1045, hakodate=1222, nanae=1619, shikabe=1834, mori=1910; 
-int yakumo=2128, oshamanbe=2300, kaminokuni=2493, esashi=2726, assabu=298; 
-int otobe=3169, okushiri=3333, setana=3421, imakane=3652, shimamaki=0000; 
+int oshima=173, hiyama=257, shiribeshi=0000, iburi=0000, hidaka=0000; 
+int ishikari=00000, matsumae=371, fukushima=626, shiriuchi=775, kikonai=919; 
+int hokuto=1053, hakodate=1229, nanae=1627, shikabe=1841, mori=1917; 
+int yakumo=2135, oshamanbe=2307, kaminokuni=2500, esashi=2733, assabu=2989; 
+int otobe=3176, okushiri=3340, setana=3428, imakane=3659, shimamaki=0000; 
 int kuromatsunai=0000, suttsu=0000, rankoshi=0000, niseko=0000, makkari=0000;
 int rusutsu=0000, kimobetsu=0000, kyougoku=0000, kucchan=0000, kyouwa=0000;
 int iwanai=0000, tomari=0000, kamoenai=0000, shakotan=0000, furubira=0000;
@@ -51,7 +51,7 @@ printf (
 "xx_Shin-shinotsu xx_Shin-hidaka xx_Shin-hidaka_Hokkaidou_Univ_Ranch \n"
 "xx_Shiraoi xx_Shiribeshi 73_Shiriuchi xx_Soubetsu xx_Suttsu xx_Tomakomai \n"
 "xx_Tomari xx_Toubetsu xx_Touyako xx_Toyoura xx_Urakawa 82_Yakumo xx_Yoichi \n"
-"--> Enter No. --> ");
+"Enter No. --> ");
 scanf("%d",&a);
 
 #define DISPLAY(X, Y) \
