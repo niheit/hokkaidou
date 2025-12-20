@@ -8,26 +8,26 @@ FILE *fp = fopen("5.TXT", "r");  /* Original HTTP://2242.MOOO.COM/HOK/5.TXT */
 //char line[256];
 
 /* Set the first line (top of a box), eof = SOURSE */
-int oshima=173, hiyama=257, shiribeshi=0000, iburi=0000, hidaka=0000; 
-int ishikari=00000, matsumae=371, fukushima=626, shiriuchi=775, kikonai=919; 
-int hokuto=1053, hakodate=1229, nanae=1627, shikabe=1841, mori=1917; 
-int yakumo=2135, oshamanbe=2307, kaminokuni=2500, esashi=2733, assabu=2989; 
-int otobe=3176, okushiri=3340, setana=3428, imakane=3659, shimamaki=0000; 
-int kuromatsunai=0000, suttsu=0000, rankoshi=0000, niseko=0000, makkari=0000;
-int rusutsu=0000, kimobetsu=0000, kyougoku=0000, kucchan=0000, kyouwa=0000;
-int iwanai=0000, tomari=0000, kamoenai=0000, shakotan=0000, furubira=0000;
-int niki=0000, yoichi=0000, akaigawa=0000, otaru=0000, otaru_east=0000;
-int otaru_south=0000, otaru_west=0000, toyoura=0000, touyako=0000, date=0000;
-int muroran=0000, soubetsu=0000, noboribetsu=0000, shiraoi=0000; 
-int tomakomai=0000, abira=0000, atsuma=0000, mukawa=0000, biratori=0000;
-int erimo=0000, hidaka_town=0000, niikappu=0000, samani=0000, shin_hidaka=0000;
-int shin_hidaka_hokkaidou_univ_ranch=0000, urakawa=00000, kita_hiroshima=00000;
-int ishikari_city=00000, eniwa=00000, chitose=00000, toubetsu=00000; 
-int ebetsu=00000, shin_shinotsu=00000, sapporo=00000, sapporo_minami=00000; 
-int sapporo_teine=00000, sapporo_nishi=00000, sapporo_chuuou=00000; 
-int sapporo_toyohira=00000, sapporo_kiyota=00000, sapporo_kita=00000; 
-int sapporo_kita_hokkaidou_univ=00000, sapporo_higashi=00000; 
-int sapporo_shiroishi=00000, sapporo_atsubetsu=00000, eof=3801;
+int OSHIMA=178, HIYAMA=262, SHIRIBESHI=0000, IBURI=0000, HIDAKA=0000; 
+int ISHIKARI=00000, MATSUMAE=376, FUKUSHIMA=631, SHIRIUCHI=778, KIKONAI=922; 
+int HOKUTO=1057, HAKODATE=1233, NANAE=1639, SHIKABE=1851, MORI=1927; 
+int YAKUMO=2146, OSHAMANBE=2320, KAMINOKUNI=2513, ESASHI=2746, ASSABU=3005; 
+int OTOBE=3192, OKUSHIRI=3355, SETANA=3443, IMAKANE=3674, SHIMAMAKI=0000; 
+int KUROMATSUNAI=0000, SUTTSU=0000, RANKOSHI=0000, NISEKO=0000, MAKKARI=0000;
+int RUSUTSU=0000, KIMOBETSU=0000, KYOUGOKU=0000, KUCCHAN=0000, KYOUWA=0000;
+int IWANAI=0000, TOMARI=0000, KAMOENAI=0000, SHAKOTAN=0000, FURUBIRA=0000;
+int NIKI=0000, YOICHI=0000, AKAIGAWA=0000, OTARU=0000, OTARU_EAST=0000;
+int OTARU_SOUTH=0000, OTARU_WEST=0000, TOYOURA=0000, TOUYAKO=0000, DATE=0000;
+int MURORAN=0000, SOUBETSU=0000, NOBORIBETSU=0000, SHIRAOI=0000; 
+int TOMAKOMAI=0000, ABIRA=0000, ATSUMA=0000, MUKAWA=0000, BIRATORI=0000;
+int ERIMO=0000, HIDAKA_TOWN=0000, NIIKAPPU=0000, SAMANI=0000, SHIN_HIDAKA=0000;
+int SHIN_HIDAKA_HOKKAIDOU_UNIV_RANCH=0000, URAKAWA=00000, KITA_HIROSHIMA=00000;
+int ISHIKARI_CITY=00000, ENIWA=00000, CHITOSE=00000, TOUBETSU=00000; 
+int EBETSU=00000, SHIN_SHINOTSU=00000, SAPPORO=00000, SAPPORO_MINAMI=00000; 
+int SAPPORO_TEINE=00000, SAPPORO_NISHI=00000, SAPPORO_CHUUOU=00000; 
+int SAPPORO_TOYOHIRA=00000, SAPPORO_KIYOTA=00000, SAPPORO_KITA=00000; 
+int SAPPORO_KITA_HOKKAIDOU_UNIV=00000, SAPPORO_HIGASHI=00000; 
+int SAPPORO_SHIROISHI=00000, SAPPORO_ATSUBETSU=00000, SOURCE=3827;
 
 /* Original http://stackoverflow.com/questions/36853463 */
 enum { MAXL = 20, MAXC = 256000 }; 
@@ -79,27 +79,27 @@ while ((c = fgetc (fp)) != EOF) { \
      break; 
 
 switch(a){
-case 44: DISPLAY(oshima, hiyama)
-case 17: DISPLAY(hiyama, matsumae)
+case 44: DISPLAY(OSHIMA, HIYAMA)
+case 17: DISPLAY(HIYAMA, MATSUMAE)
 
-case 33: DISPLAY(matsumae, fukushima)
-case 12: DISPLAY(fukushima, shiriuchi)
-case 73: DISPLAY(shiriuchi, kikonai)
-case 26: DISPLAY(kikonai, hokuto)
-case 18: DISPLAY(hokuto, hakodate)
-case 14: DISPLAY(hakodate, nanae)
-case 37: DISPLAY(nanae, shikabe)
-case 67: DISPLAY(shikabe, mori)
-case 34: DISPLAY(mori, yakumo)
-case 82: DISPLAY(yakumo, oshamanbe)
-case 43: DISPLAY(oshamanbe, kaminokuni)
+case 33: DISPLAY(MATSUMAE, FUKUSHIMA)
+case 12: DISPLAY(FUKUSHIMA, SHIRIUCHI)
+case 73: DISPLAY(SHIRIUCHI, KIKONAI)
+case 26: DISPLAY(KIKONAI, HOKUTO)
+case 18: DISPLAY(HOKUTO, HAKODATE)
+case 14: DISPLAY(HAKODATE, NANAE)
+case 37: DISPLAY(NANAE, SHIKABE)
+case 67: DISPLAY(SHIKABE, MORI)
+case 34: DISPLAY(MORI, YAKUMO)
+case 82: DISPLAY(YAKUMO, OSHAMANBE)
+case 43: DISPLAY(OSHAMANBE, KAMINOKUNI)
 
-case 24: DISPLAY(kaminokuni, esashi)
-case 11: DISPLAY(esashi, assabu)
-case  3: DISPLAY(assabu, otobe)
-case 49: DISPLAY(otobe, okushiri)
-case 42: DISPLAY(okushiri, setana)
-case 65: DISPLAY(setana, imakane)
-case 20: DISPLAY(imakane, eof)
+case 24: DISPLAY(KAMINOKUNI, ESASHI)
+case 11: DISPLAY(ESASHI, ASSABU)
+case  3: DISPLAY(ASSABU, OTOBE)
+case 49: DISPLAY(OTOBE, OKUSHIRI)
+case 42: DISPLAY(OKUSHIRI, SETANA)
+case 65: DISPLAY(SETANA, IMAKANE)
+case 20: DISPLAY(IMAKANE, SOURCE)
  }
 }
