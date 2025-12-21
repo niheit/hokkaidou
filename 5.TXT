@@ -110,33 +110,33 @@ Map 4  Sapporo = HTTP://2242.MOOO.COM/HOK/M4.TIF (Nihei lab 2021a)
     (nine ninety nine, nine nine nine).
 (7) Statistics of beans, grains, pasture, potatoes, and orchards for
     sale (alphabet order, English and Japanese) = 
-    adzuki beans (``shouzu in Hokkaidou or ``azuki'' in Honshuu island) 
-       [\u5C0F\u8C46],
-    barley (``oomugui'') [\u5927\u9EA6],
-    buckwheat (``soba''] [\u854E\u9EA6], 
-    fodder (fodder crops, ``shiryou-sakumotsu'') 
-       [\u98FC\u6599\u4F5C\u7269], 
-    orchards (``juen-chi'') [\u6A39\u5712\u5730], 
-    paddy rice (``suitou'' or ``kome'') [\u6C34\u7A32], 
-    pasture (pasture land, ``bokusou-chi'') [\u7267\u8349\u5730], 
-    potatoes (``bareisho'' or ``imo'') [\u99AC\u9234\u85AF or \u85AF], 
-    soybeans (``daizu'') [\u5927\u8C46], 
-    sweet potatoes (``satsuma-imo,'' ``imo,'' or ``kansho'') 
-       [\u85A9\u6469\u828B, \u828B, or \u7518\u85AF] 
-       (``kansha'' [\u7518\u8517] is an old word for sugarcane), and
-    wheat (``komugui'') [\u5C0F\u9EA6].
+    adzuki beans (``shouzu in Hokkaidou or ``azuki'' in Honshuu island  
+       [\u5C0F\u8C46]),
+    barley (``oomugui'' [\u5927\u9EA6]),
+    buckwheat (``soba'' [\u854E\u9EA6]), 
+    fodder (fodder crops, ``shiryou-sakumotsu'' 
+       [\u98FC\u6599\u4F5C\u7269]), 
+    orchards (``juen-chi'' [\u6A39\u5712\u5730]), 
+    paddy rice (``suitou'' [\u6C34\u7A32] or ``kome'' [\u7C73]), 
+    pasture (pasture land, ``bokusou-chi'' [\u7267\u8349\u5730]), 
+    potatoes (``bareisho'' [\u99AC\u9234\u85AF] or ``imo'' [\u85AF]), 
+    soybeans (``daizu'' [\u5927\u8C46]), 
+    sweet potatoes (``satsuma-imo'' [\u85A9\u6469\u828B], ``imo'' 
+       [\u828B], or ``kansho''[\u7518\u85AF]) (``kansha'' [\u7518
+       \u8517] is an old word for sugarcane), and
+    wheat (``komugui'' [\u5C0F\u9EA6]).
 (8) Statistics of fruits and vegetables for sale (alphabet order, 
     English and Japanese) = 
-    apples (``ringo'') [\u6797\u6A8E for Western varieties after the 
-       Meiji period] [\u82F9\u679C for traditional varieties], 
+    apples (``ringo'' [\u6797\u6A8E for Western varieties after the 
+       Meiji period] [\u82F9\u679C for traditional varieties]), 
     broccoli (``brokkorii''), 
     cabbage (``kyabetsu'' or ``kanran'' [\u7518\u85CD]), 
-    carrots (``ninjin'') [\u4EBA\u53C2], 
+    carrots (``ninjin'' [\u4EBA\u53C2]), 
     cherries (``sakuranbo'' or ``outou'' [\u685C\u6843]), 
     chestnuts (``kuri'' [\u6817]), 
     Chinese cabbage (``hakusai'' [\u767D\u83DC]), 
     cucumbers (``kyuuri'' [\u80E1\u74DC]), 
-    grapes (``budou'') [\u8461\u8404], 
+    grapes (``budou'' [\u8461\u8404]), 
     green onions (white scallions, leek, ``negui'' [\u8471]), 
     lettuce (``retasu''), 
     melons (``meron''), 
@@ -158,8 +158,8 @@ Map 4  Sapporo = HTTP://2242.MOOO.COM/HOK/M4.TIF (Nihei lab 2021a)
     peppermints (``hakka'' [\u8584\u8377]), 
     rapeseed (``natane'' [\u83DC\u7A2E]), 
     sugar beets (``tensai,'' ``satou-daikon,'' or ``beeto''
-       [\u751C\u83DC, \u7802\u7CD6\u5927\u6839], and 
-    sunflowers (``himawari'') [\u5411\u65E5\u8475].
+       [\u751C\u83DC, \u7802\u7CD6\u5927\u6839]), and 
+    sunflowers (``himawari'' [\u5411\u65E5\u8475]).
 (10) Statistics of other crops for sale (alphabet order, English and 
      Japanese) = 
      asparagus (``asparagas''), 
@@ -183,11 +183,11 @@ Map 4  Sapporo = HTTP://2242.MOOO.COM/HOK/M4.TIF (Nihei lab 2021a)
      olive flounder/right-eye flounder (including flatfish, dab, 
         halibut, and sole) (``hirame'' and ``karei'' [\u9B83/\u9C08]), 
      Pacific cod (``tara'' or ``madara'' [\u9C48, \u771F\u9C48]), 
-     Pacific saury (``sanma'') [\u79CB\u5200\u9B5A]), 
+     Pacific saury (``sanma'' [\u79CB\u5200\u9B5A]), 
      puffer fish (``fugu'' [\u6CB3\u8C5A]), 
      red seabream (``tai'' or ``madai'' [\u9BDB, \u771F\u9BDB]), 
-     salmon/sea trout (caught in the sea) (``sake'' or ``masu'' 
-        [\u9BAD/\u9C52]), 
+     salmon/sea trout (caught in the sea) (``sake'' [\u9BAD] and  
+        ``masu'' [\u9C52]), 
      sand lance (``ikanago''), 
      sardines (``iwashi'' [\u9C2F]), 
      sharks (``sa-me'' [\u9BAB]), 
@@ -209,7 +209,7 @@ Map 4  Sapporo = HTTP://2242.MOOO.COM/HOK/M4.TIF (Nihei lab 2021a)
      scallops (``hotate'' [\u5E06\u7ACB]), 
      sea urchins (``uni'' [\u96F2\u4E39]), 
      seaweed (``kaisou'' [\u6D77\u85FB]), 
-     shellfish (``kai'' [\u8C9D], 
+     shellfish (``kai'' [\u8C9D]), 
      shrimp/prawns (``ebi'' [\u86EF]), 
      snow crabs (``zuwai-gani'' [zuwai-\u87F9]), and 
      squid (``ika'' [\u70CF\u8CCA]).
