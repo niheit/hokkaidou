@@ -13,7 +13,7 @@ Copyright (c) 2021-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251214.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251215.
 ------------------------------------------------------------------------
  _________
 |         |
@@ -47,8 +47,8 @@ HIYAMA GAZETTEER (Alphabet Order)
 	SETANA ..................................... [ok] 
 SHIRIBESHI GAZETTEER ............................... [!!] Not Finished 
 IBURI GAZETTEER .................................... [!!]
-HIDAKA GAZETTEER ................................... [!!]
 ISHIKARI GAZEEER ................................... [!!]
+HIDAKA GAZETTEER ................................... [!!]
 CONCLUSION ......................................... [!!]
 SOURCE ............................................. [ok] 
 BIBLIOGRAPHY ....................................... [ok] 
@@ -62,7 +62,7 @@ excursions. This file is made based on my excursion notes at the time.
 (by T. Nihei)
 	Place names are written as they are pronounced, for example, 
 Hokkaido --> Hokkaidou. This is because this file is for oral 
-explanations (Nihei lab 2025). #1 #2
+explanation (Nihei lab 2025). #1 #2
  
 #1  Some place names are displayed in UTF codes. To convert UTF codes 
 to characters on a terminal emulator, use this command;
@@ -84,15 +84,15 @@ about the old life in Sapporo.
 |  MAP  |
 |       |
  -------
-Map 1 = Nihei lab 2021. Map 1 Hokkaidou, Map 2 Oshima, Hiyama, 
-	Shiribeshi, Map 3 Iburi, Ishikari, Hidaka, & Map 4 Sapporo. 
-	``Hokkaidou Atlas & Gazetteer'' No. 3
-	HTTP://2242.MOOO.COM/HOK/3.TXT
-  
-Map 2 = Nihei lab 2021. Map 1 Hokkaidou, Map 2 Oshima, Hiyama, 
-	Shiribeshi, Map 3 Iburi, Ishikari, Hidaka, & Map 4 Sapporo. 
-	``Hokkaidou Atlas & Gazetteer'' No. 3
-	HTTP://2242.MOOO.COM/HOK/3.TXT
+Map 1  Hokkaidou = HTTP://2242.MOOO.COM/HOK/M1.PNG (Nihei lab 2021a)
+
+Map 2  Oshima, Hiyama, Shiribeshi = 
+       HTTP://2242.MOOO.COM/HOK/M2.PNG (Nihei lab 2021a)
+
+Map 3  Iburi, Ishikari, & Hidaka = 
+       HTTP://2242.MOOO.COM/HOK/M3.PNG (Nihei lab 2021a)
+
+Map 4  Sapporo = HTTP://2242.MOOO.COM/HOK/M4.TIF (Nihei lab 2021a)
  _________________
 |                 |
 |  PRONUNCIATION  |
@@ -104,77 +104,123 @@ Map 2 = Nihei lab 2021. Map 1 Hokkaidou, Map 2 Oshima, Hiyama,
     point eight seven minutes north (latitude).
 (4) 9.1* [* = \u00B0] C = nine point one degrees Celsius.
 (5) National Route 228 = national route two hundred twenty eight (two 
-    wenty eight).
+    twenty eight).
 (6) Prefectural Route 999 = prefectural route nine hundred ninety nine 
     (nine ninety nine, nine nine nine).
 (7) Statistics of beans, grains, pasture, potatoes, and orchards for
-    sale (Alphabet Order) = adzuki beans [shouzu in Hokkaidou or azuki  
-    in Honshuu island] [\u5C0F\u8C46], barley [oomugui] [\u5927\u9EA6],
-    buckwheat [soba] [\u854E\u9EA6], fodder (fodder crops) [shiryou-
-    sakumotsu] [\u98FC\u6599\u4F5C\u7269], orchards [juen-chi] [\u6A39
-    \u5712\u5730], paddy rice [suitou] [\u6C34\u7A32], pasture (pasture
-    land) [bokusou-chi] [\u7267\u8349\u5730], potatoes [bareisho or 
-    imo] [\u99AC\u9234\u85AF or \u85AF], soybeans [daizu] [\u5927
-    \u8C46], sweet potatoes [satsuma-imo, imo, or kansho] [\u85A9\u6469 
-    \u828B, \u828B, or \u7518\u85AF] (``kansha'' [\u7518\u8517] is an 
-    old word for sugarcane), and wheat [komugui] [\u5C0F\u9EA6].
-(8) Statistics of fruits ad vegetables sale (Alphabet Order) = apples 
-    [ringo] [\u6797\u6A8E for Western varieties after the Meiji period] 
-    [\u82F9\u679C for traditional varieties], broccoli, cabbage 
-    [kyabetsu or kanran] [\u7518\u85CD], carrots [ninjin] [\u4EBA
-    \u53C2], cherries [sakuranbo or outou] [\u685C\u6843], chestnuts 
-    [kuri] [\u6817], Chinese cabbage [hakusai] [\u767D\u83DC], 
-    cucumbers [kyuuri] [\u80E1\u74DC], grapes [budou] [\u8461\u8404], 
-    green onions (white scallions, leek) [negui] [\u8471], lettuce 
-    [retasu], melons, watermelons [suika] [\u897F\u74DC], onions [tama-
-    negui] [\u7389\u8471], plums [sumomo] [\u674E], radishes [daikon] 
-    [\u5927\u6839], spinach [hourensou], strawberries [ichigo] 
-    [\u82FA], tomatoes, ume plums [ume] [\u6885], and yams [yamaimo] 
-    [\u5C71\u828B]. (Strawberries and yams are categorized in 
-    vegetables in Japanese statistics.)
-(9) Statistics of industrial crops [kouguei-sakumotsu] (Alphabet Order)
-    = green perilla [aojiso] [\u9752\u7D2B\u8607], hops [hoppu], 
-    peppermints [hakka] [\u8584\u8377], rapeseed [natane] [\u83DC
-    \u7A2E], sugar beets [tensai, satou-daikon, or beet] [\u751C\u83DC,
-    \u7802\u7CD6\u5927\u6839], and sunflowers [himawari] [\u5411\u65E5
-    \u8475].
-(10) Statistics of other crops for sale (Alphabet Order) = asparagus, 
-     burdocks [gobou] [\u725B\u84A1], Chinese chive or gynmigit [nira] 
-     [\u97EE], immature soybeans [eda-mame] [\u679D\u8C46], pumpkins 
-     [kabocha] [\u5357\u74DC], snow peas [kinu-saya], and sweet corn 
-     [tou-morokoshi].
-(11) Statistics of marine fisheries for sale; fish (Alphabet Order) = 
-     atka mackerel [hokke] [`\u9B5A\u82B1'], anchovy [katakuchi-iwashi] 
-     [\u7247\u53E3\u9C2F], congers [anago] [\u7A74\u5B50], Hatahata 
-     (sailfin sandfish), herring [nishin] [\u9C0A], horse mackerel 
-     [aji] [\u9C3A], Kichiji (broadbanded thornyhead), mackerel [saba] 
-     [\u9BD6], marbled flounder [mako-garei] [mako-\u9C08], olive 
-     flounder/right-eye flounder (including flatfish, dab, halibut, and 
-     sole) [hirame/karei] [\u9B83/\u9C08], Pacific cod [tara, madara] 
-     [\u9C48, \u771F\u9C48], Pacific saury [sanma] [\u79CB\u5200
-     \u9B5A], puffer fish [fugu] [\u6CB3\u8C5A], red seabream [tai, 
-     madai] [\u9BDB, \u771F\u9BDB], salmon/sea trout (caught in the 
-     sea) [sake/masu] [\u9BAD/\u9C52], sand lance [ikanago], sardines 
-     [iwashi] [\u9C2F], sharks [sa-me] [\u9BAB], tuna [maguro] 
-     [\u9BAA], walleye pollock [sukesou-dara, suketou-dara] [sukesou-
-     \u9C48], and yellowtail (amberjack) [buri] [\u9C24].
+    sale (alphabet order, English and Japanese) = 
+    adzuki beans (``shouzu in Hokkaidou or ``azuki'' in Honshuu island) 
+       [\u5C0F\u8C46],
+    barley (``oomugui'') [\u5927\u9EA6],
+    buckwheat (``soba''] [\u854E\u9EA6], 
+    fodder (fodder crops, ``shiryou-sakumotsu'') 
+       [\u98FC\u6599\u4F5C\u7269], 
+    orchards (``juen-chi'') [\u6A39\u5712\u5730], 
+    paddy rice (``suitou'' or ``kome'') [\u6C34\u7A32], 
+    pasture (pasture land, ``bokusou-chi'') [\u7267\u8349\u5730], 
+    potatoes (``bareisho'' or ``imo'') [\u99AC\u9234\u85AF or \u85AF], 
+    soybeans (``daizu'') [\u5927\u8C46], 
+    sweet potatoes (``satsuma-imo,'' ``imo,'' or ``kansho'') 
+       [\u85A9\u6469\u828B, \u828B, or \u7518\u85AF] 
+       (``kansha'' [\u7518\u8517] is an old word for sugarcane), and
+    wheat (``komugui'') [\u5C0F\u9EA6].
+(8) Statistics of fruits and vegetables for sale (alphabet order, 
+    English and Japanese) = 
+    apples (``ringo'') [\u6797\u6A8E for Western varieties after the 
+       Meiji period] [\u82F9\u679C for traditional varieties], 
+    broccoli (``brokkorii''), 
+    cabbage (``kyabetsu'' or ``kanran'' [\u7518\u85CD]), 
+    carrots (``ninjin'') [\u4EBA\u53C2], 
+    cherries (``sakuranbo'' or ``outou'' [\u685C\u6843]), 
+    chestnuts (``kuri'' [\u6817]), 
+    Chinese cabbage (``hakusai'' [\u767D\u83DC]), 
+    cucumbers (``kyuuri'' [\u80E1\u74DC]), 
+    grapes (``budou'') [\u8461\u8404], 
+    green onions (white scallions, leek, ``negui'' [\u8471]), 
+    lettuce (``retasu''), 
+    melons (``meron''), 
+    watermelons (``suika'' [\u897F\u74DC]), 
+    onions (``tama-negui'' [\u7389\u8471]), 
+    plums (``sumomo'' [\u674E]), 
+    radishes (``daikon''[\u5927\u6839]), 
+    spinach (``hourensou''), 
+    strawberries (``ichigo'' [\u82FA]), 
+    tomatoes (``tomato''), 
+    ume plums (``ume'' [\u6885]), and 
+    yams (``yamaimo'' [\u5C71\u828B]). 
+    (Strawberries and yams are categorized in vegetables in Japanese 
+     statistics.)
+(9) Statistics of industrial crops (``kouguei-sakumotsu'') (alphabet 
+    order, English and Japanese) = 
+    green perilla (``aojiso'' [\u9752\u7D2B\u8607]), 
+    hops (``hoppu''), 
+    peppermints (``hakka'' [\u8584\u8377]), 
+    rapeseed (``natane'' [\u83DC\u7A2E]), 
+    sugar beets (``tensai,'' ``satou-daikon,'' or ``beeto''
+       [\u751C\u83DC, \u7802\u7CD6\u5927\u6839], and 
+    sunflowers (``himawari'') [\u5411\u65E5\u8475].
+(10) Statistics of other crops for sale (alphabet order, English and 
+     Japanese) = 
+     asparagus (``asparagas''), 
+     burdocks (``gobou'' [\u725B\u84A1]), 
+     Chinese chive or gynmigit (``nira'' [\u97EE]), 
+     immature soybeans (``eda-mame'' [\u679D\u8C46]), 
+     pumpkins (``kabocha'' [\u5357\u74DC]), 
+     snow peas (``kinu-saya''), and 
+     sweet corn (``tou-morokoshi'').
+(11) Statistics of marine fisheries for sale; fish (alphabet order, 
+     English and Japanese) = 
+     atka mackerel (``hokke'' [`\u9B5A\u82B1']), 
+     anchovy (``katakuchi-iwashi'' [\u7247\u53E3\u9C2F]), 
+     congers (``anago'' [\u7A74\u5B50]), 
+     Hatahata (sailfin sandfish), 
+     herring (``nishin'' [\u9C0A]), 
+     horse mackerel (``aji'' [\u9C3A]), 
+     Kichiji (broadbanded thornyhead), 
+     mackerel (``saba'' [\u9BD6]), 
+     marbled flounder (``mako-garei'' [mako-\u9C08]), 
+     olive flounder/right-eye flounder (including flatfish, dab, 
+        halibut, and sole) (``hirame'' and ``karei'' [\u9B83/\u9C08]), 
+     Pacific cod (``tara'' or ``madara'' [\u9C48, \u771F\u9C48]), 
+     Pacific saury (``sanma'') [\u79CB\u5200\u9B5A]), 
+     puffer fish (``fugu'' [\u6CB3\u8C5A]), 
+     red seabream (``tai'' or ``madai'' [\u9BDB, \u771F\u9BDB]), 
+     salmon/sea trout (caught in the sea) (``sake'' or ``masu'' 
+        [\u9BAD/\u9C52]), 
+     sand lance (``ikanago''), 
+     sardines (``iwashi'' [\u9C2F]), 
+     sharks (``sa-me'' [\u9BAB]), 
+     tuna (``maguro'' [\u9BAA]), 
+     walleye pollock (``sukesou-dara'' or ``suketou-dara'' 
+        [sukesou-\u9C48]), and 
+     yellowtail (amberjack, ``buri'' [\u9C24]).
 (12) Statistics of marine fisheries for sale; marine animals, and
-     seaweed (Alphabet Order) = abalone [awabi] [\u9B91], crabs [kani]
-     [\u87F9], flying squid [surume-ika] [surume-\u70CF\u8CCA],
-     Hanasaki crabs [hanasaki-gani] [\u82B1\u54B2\u87F9], horsehair
-     crabs [kegani] [\u6BDB\u87F9], Konbu kelp [\u6606\u5E03], octopus
-     [tako] [\u86F8], oysters [kaki] [\u7261\u86CE], red king crabs
-     [taraba-gani] [\u9C48\u5834\u87F9], scallops [hotate] [\u5E06
-     \u7ACB], sea urchins [uni] [\u96F2\u4E39], seaweed [kaisou]
-     [\u6D77\u85FB], shellfish [kai] [\u8C9D], shrimp/prawns [ebi] 
-     [\u86EF], snow crabs [zuwai-gani] [zuwai-\u87F9], and squid [ika] 
-     [\u70CF\u8CCA].
-(13) Statistics of fisheries for sale; others (Alphabet Order) = 
-     capelin [shishamo] [\u67F3\u8449\u9B5A], mactra (cockles) [ezo-
-     baka-gai or sakura-gai], Manila clam [asari] [\u870A], sakhalin 
-     surf clam [hokki] [\u5317\u5BC4], sea cucumbers [namako] [\u6D77
-     \u9F20], smelt [wakasagui] [\u516C\u9B5A], and whelks [tsubu] 
-     [\u87BA].
+     seaweed (alphabet order, English and Japanese) = 
+     abalone (``awabi'' [\u9B91]), 
+     crabs (``kani'' [\u87F9]), 
+     flying squid (``surume-ika'' [surume-\u70CF\u8CCA]),
+     Hanasaki crabs (``hanasaki-gani'' [\u82B1\u54B2\u87F9]), 
+     horsehair crabs (``kegani'' [\u6BDB\u87F9]), 
+     Konbu kelp (``konbu'' [\u6606\u5E03]), 
+     octopus (``tako'' [\u86F8]), 
+     oysters (``kaki'' [\u7261\u86CE]), 
+     red king crabs (``taraba-gani'' [\u9C48\u5834\u87F9]), 
+     scallops (``hotate'' [\u5E06\u7ACB]), 
+     sea urchins (``uni'' [\u96F2\u4E39]), 
+     seaweed (``kaisou'' [\u6D77\u85FB]), 
+     shellfish (``kai'' [\u8C9D], 
+     shrimp/prawns (``ebi'' [\u86EF]), 
+     snow crabs (``zuwai-gani'' [zuwai-\u87F9]), and 
+     squid (``ika'' [\u70CF\u8CCA]).
+(13) Statistics of fisheries for sale; others (alphabet order, English 
+     and Japanese) = 
+     capelin (``shishamo'' [\u67F3\u8449\u9B5A]), 
+     mactra (cockles, ``ezo-baka-gai'' or ``sakura-gai''), 
+     Manila clam (``asari'' [\u870A]), 
+     sakhalin surf clam (``hokki'' [\u5317\u5BC4] or ``hokki-gai''),
+     sea cucumbers (``namako'' [\u6D77\u9F20]), 
+     smelt (``wakasagui'' [\u516C\u9B5A]), and 
+     whelks (``tsubu'' [\u87BA]).
  _________________
 |                 |
 |      OSHIMA     |
