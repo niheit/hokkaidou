@@ -1,13 +1,13 @@
 #include<stdio.h>
 
-/* ``hokkaidou'' a game to check place names in hokkaidou. ver 251221 */
+/* ``hokkaidou'' is a game to check gazetteer in hokkaidou island. ver 251221 */
 int main() {
 int a;
 //int i = 0;
 FILE *fp = fopen("5.TXT", "r");  /* Original HTTP://2242.MOOO.COM/HOK/5.TXT */
 //char line[256];
 
-/* Set the first line (top of a box), eof = SOURSE */
+/* Set the first line (top of a box) */
 int OSHIMA=225, HIYAMA=309, SHIRIBESHI=0000, IBURI=0000, HIDAKA=0000; 
 int ISHIKARI=00000, MATSUMAE=423, FUKUSHIMA=678, SHIRIUCHI=825, KIKONAI=969; 
 int HOKUTO=1104, HAKODATE=1280, NANAE=1686, SHIKABE=1898, MORI=1974; 
