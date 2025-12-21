@@ -13,45 +13,46 @@ Copyright (c) 2021-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251215.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251216.
 ------------------------------------------------------------------------
  _________
 |         |
 |  TABLE  |
 |         |
  ---------
-INTRODUCTION ....................................... [ok] Copy & Search 
-MAP ................................................ [ok] 
-PRONUNCIATION ...................................... [ok] 
+INTRODUCTION ........................................ [ok]   Searchable 
+MAP ................................................. [ok]   Searchable
+PRONUNCIATION ....................................... [ok]   Searchable 
 OSHIMA GAZETTEER (Alphabet Order)
-	FUKUSHIMA .................................. [ok] 
-	HAKODATE ................................... [ok] 
-	HOKUTO ..................................... [ok] 
-	KIKONAI .................................... [ok] 
-	MATSUMAE ................................... [ok] 
-	MORI ....................................... [ok] 
-	NANAE ...................................... [ok] 
-	OSHAMANBE .................................. [ok] 
-	OSHIMA ..................................... [ok] 
-	SHIKABE .................................... [ok] 
-	SHIRIUCHI .................................. [ok] 
-	YAKUMO ..................................... [ok]
+	FUKUSHIMA ................................... [ok]   Searchable 
+	HAKODATE .................................... [ok]   Searchable 
+	HOKUTO ...................................... [ok]   Searchable 
+	KIKONAI ..................................... [ok]   Searchable 
+	MATSUMAE .................................... [ok]   Searchable 
+	MORI ........................................ [ok]   Searchable 
+	NANAE ....................................... [ok]   Searchable 
+	OSHAMANBE ................................... [ok]   Searchable 
+	OSHIMA ...................................... [ok]   Searchable 
+	SHIKABE ..................................... [ok]   Searchable 
+	SHIRIUCHI ................................... [ok]   Searchable 
+	YAKUMO ...................................... [ok]   Searchable
 HIYAMA GAZETTEER (Alphabet Order)
-	ASSABU ..................................... [ok] 
-	ESASHI ..................................... [ok] 
-	HIYAMA ..................................... [ok] 
-	IMAKANE .................................... [ok] 
-	KAMINOKUNI ................................. [ok] 
-	OKUSHIRI ................................... [ok] 
-	OTOBE ...................................... [ok] 
-	SETANA ..................................... [ok] 
-SHIRIBESHI GAZETTEER ............................... [!!] Not Finished 
-IBURI GAZETTEER .................................... [!!]
-ISHIKARI GAZEEER ................................... [!!]
-HIDAKA GAZETTEER ................................... [!!]
-CONCLUSION ......................................... [!!]
-SOURCE ............................................. [ok] 
-BIBLIOGRAPHY ....................................... [ok] 
+	ASSABU ...................................... [ok]   Searchable 
+	ESASHI ...................................... [ok]   Searchable 
+	HIYAMA ...................................... [ok]   Searchable 
+	IMAKANE ..................................... [ok]   Searchable 
+	KAMINOKUNI .................................. [ok]   Searchable 
+	OKUSHIRI .................................... [ok]   Searchable 
+	OTOBE ....................................... [ok]   Searchable 
+	SETANA ...................................... [ok]   Searchable 
+SHIRIBESHI GAZETTEER ................................ [!!] Not Finished 
+IBURI GAZETTEER ..................................... [!!] Not Finished
+ISHIKARI GAZEEER .................................... [!!] Not Finished
+HIDAKA GAZETTEER .................................... [!!] Not Finished
+CONCLUSION .......................................... [!!] Not Finished
+DONATE .............................................. [!!] Not Finished
+SOURCE .............................................. [ok]   Searchable 
+BIBLIOGRAPHY ........................................ [ok]   Searchable 
  ________________ 
 |                | 
 |  INTRODUCTION  | 
