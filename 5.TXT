@@ -13,7 +13,7 @@ Copyright (c) 2021-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251216.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251217.
 ------------------------------------------------------------------------
  _________
 |         |
@@ -1406,7 +1406,7 @@ central business district (CBD) of Hakodate was located on tombolo.
 Station in the Shouwa period, and to the front of Goryoukaku [Go-ryou-
 kaku] Castle in the Heisei period. When I visited Hakodate in 2013, I 
 saw many ``For Rent'' signs on the second floor of buildings near 
-Hakodate Station. 
+Hakodate Station.
 
 #3  The Tsugaru Strait has two necks. (A neck is a narrow part of the 
 sea). The east neck is located between the Kameda Peninsula in Hakodate 
@@ -1602,15 +1602,18 @@ takes 4 hours by express train, 4 hours by expressway, and 5.5 hours by
 bus. The route goes around the bay (Volcano Bay).
 
 #9  The Exclusive Economic Zone (EEZ, a 200 nautical mile zone) was 
-activated in the 1980s. It ended North Ocean Fishing (deep-sea 
-fishing, ``hokuyou-gyogyou'' in Japanese). In the past, the ports of 
-Hakodate, Kushiro, and Nemuro were the bases of North Ocean Fishing. 
-(Other ports for North Ocean Fishing were Otaru, Rumoi, Wakkanai, 
-Monbetsu, Abashiri, and Furubira.)
+activated in the 1980s. (200 nautical mile is about 370 kilometers.) It 
+ended North Ocean Fishing (deep-sea fishing, ``hokuyou-gyogyou'' in 
+Japanese).
+	In the past, the ports of Hakodate, Kushiro, and Nemuro were 
+the bases of North Ocean Fishing. (Also, ports of Otaru, Rumoi, 
+Wakkanai, Monbetsu, Abashiri, and Furubira were for North Ocean 
+Fishing.)
 	Groups of ships departed the ports to catch salmon near Russian 
-and US Alaskan waters. Hakodate was a base for mother-ship (bosen) type 
-fishing. Kushiro and Nemuro were bases for mother-port (bokou) type 
-fishing. The mother-ship equipped a factory to make canned salmon.
+and US Alaskan waters. Hakodate was a base for mother-ship (``bosen'') 
+type fishing. Kushiro and Nemuro were bases for mother-port 
+(``bokou'') type fishing. The mother-ship equipped a factory to make 
+canned salmon.
 	Incidentally, there is ``mother'' in the word ``sea'' in 
 French (``mer'' and ``mere [m\u00E8re]'') and in Japanese (``haha 
 [\u6BCD]'' and ``umi [\u6D77]'').
@@ -1653,6 +1656,7 @@ the Matsumae Domain in 1653. In the hot spring area, there was a nice
 and inexpensive hotel that we stayed during excursions. Nowadays, it is 
 difficult to stay at the hotel, because it became popular with foreign 
 tourists.
+	* * *
 	Local foods of Hakodate include Lucky Pierrot hamburgers, 
 Madalena cookies of Trappistine Monastery, curry and rice, and grilled-
 chicken lunch-box of Hasegawa Store. The restaurant Gotouken opened in 
@@ -1683,6 +1687,16 @@ soup was cooked so that all family members could eat curry.
 intestines]'' on Saturdays and Wednesdays. In Japan, people ate curry 
 and rice on Saturdays. Those were special dishes for labors. (I ate
 leftoever curry on Sundays.)
+	* * *
+	I do not watch TV drama and Movies at home. I watch them on a 
+small display on the plane. When I went to Vancouver, I watched the TV 
+drama ``Shin-ya-shokudou (Midnight Dinner).''
+    There is a story about butter rice and Hakodate City in the TV 
+drama. Butter rice is rice topped with butter and soy sauce. Professor 
+Tooru Ikeda at Department of Regional Science, Hokkaidou University, 
+also recommended it.   He is from Hokkaidou and butter rice is popular 
+in Hokkadou. http://ja.wikipedia.org/wiki/
+%E3%83%90%E3%82%BF%E3%83%BC%E3%81%94%E9%A3%AF
  _________________
 |                 |
 |      NANAE      |
