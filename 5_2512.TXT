@@ -13,7 +13,7 @@ Copyright (c) 2021-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251217.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251218.
 ------------------------------------------------------------------------
  _________
 |         |
