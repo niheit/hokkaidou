@@ -13,7 +13,7 @@ Copyright (c) 2021-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251218.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251219.
 ------------------------------------------------------------------------
  _________
 |         |
@@ -590,7 +590,7 @@ comes from to Matsudaira (Tokugawa's family name) and Maeda. (The
 Tokugawa Shogunate, whose capital was set in Edo [now Tokyo], 
 continued from 1903 to 1867. The Edo era ended in 1868.)
 
-#4  In Hokkaidou, 1st-class (ikkyuu) and 2nd-class (nikyuu) 
+#4  In Hokkaidou, 1st-class (``ikkyuu'') and 2nd-class (``nikyuu'') 
 municipalities were designated from 1899 to 1943. The Hokkaidou 
 government subsidized 2nd-class municipalities. Those were pioneering 
 years.

@@ -1,8 +1,8 @@
 ________________________________________________________________________
 
-  SORACHI
+   SORACHI
 
-  ``Hokkaidou Atlas & Gazetteer,'' No. 6
+   ``Hokkaidou Atlas & Gazetteer,'' No. 6
 ------------------------------------------------------------------------
         \   ^__^
          \  (oo)\_______
@@ -13,7 +13,7 @@ Copyright (c) 2023-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251207.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251208.
 ------------------------------------------------------------------------
  _________
 |         |
@@ -368,9 +368,9 @@ lake'' is called ``mikazuki-ko [crescent moon lake]'' in Japanese.)
 The watercourse of the Ishikari River was straghtened to prevent flood 
 damages.
 
-#2  In Hokkaidou, there were 1st-class (ikkyuu) and 2nd-class (nikyuu) 
-municipalities from 1899 to 1943. The Hokkaidou government subsidized 
-2nd-class municipalities. It was a pioneering period.
+#2  In Hokkaidou, there were 1st-class (``ikkyuu'') and 2nd-class 
+(``nikyuu'') municipalities from 1899 to 1943. The Hokkaidou government 
+subsidized 2nd-class municipalities. It was a pioneering period.
 
 #3  In 1962, the name was changed from Horomui to Minami-horo, because 
 there was the same name ``Horomui'' in Iwamizawa City. Horomui still 
