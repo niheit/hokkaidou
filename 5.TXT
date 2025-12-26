@@ -13,7 +13,7 @@ Copyright (c) 2021-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251219.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251220.
 ------------------------------------------------------------------------
  _________
 |         |
@@ -432,7 +432,7 @@ AREA 293 KM2 (2010), FOREST 256, CULTIVATED 4; COUNTY = MATSUMAE [\u677E
  
 Matsumae [ma-tsu-ma-e] [\u677E\u524D] is a town in Oshima sub-
 prefecture, south Hokkaidou (``dou-nan''). The area is located in the 
-southwest of the Oshima Peninsula. The part is also called Matsumae 
+southwest of the Oshima Peninsula. The part is also called the Matsumae 
 Peninsula.
 	Matsumae is the southernmost municipality in Hokkaidou. The 
 area faces the Tsugaru Strait and the Sea of Japan. It includes islands 
@@ -834,7 +834,7 @@ SHINKANSEN, OYSTER, & NIRA GIRL.
 
 Shiriuchi [shi-ri-u-chi] [\u77E5\u5185] is a town in Oshima sub-
 prefecture, south Hokkaidou (``dou-nan''). It is located in the 
-southwest of the Oshima Peninsula. The part is called Matsumae 
+southwest of the Oshima Peninsula. The part is called the Matsumae 
 Peninsula. The area of Shiriuchi faces the Tsugaru Strait to the east. 
 Forests cover 87 percent of the area.
 	The name ``Shiriuchi`` comes from ``cir-ot-i'' in Ainu 
@@ -978,7 +978,7 @@ AREA 222 KM2 (2010), FOREST 196, CULTIVATED 7; COUNTY = KAMIISO [\u4E0A
 
 Kikonai [ki-ko-na-i] [\u6728\u53E4\u5185] is a town in Oshima sub-
 prefecture, south Hokkaidou (``dou-nan''). It is located in the 
-southwest of the Oshima Peninsula. The part is also called Matsumae 
+southwest of the Oshima Peninsula. The part is also called the Matsumae 
 Peninsula. The area of Kikonai faces the Tsugaru Strait. Forests cover 
 88 percent of the area.
 	The name ``Kikonai'' comes from ``rir-o-nay'' in Ainu language. 
@@ -1291,7 +1291,7 @@ AREA 678 KM2 (2010), FOREST 549, CURLTIVATED 15; POP 279,127 (2010),
 Hakodate [ha-ko-da-te] [\u51FD\u9928] is a city in Oshima sub-
 prefecture, south Hokkaidou (``dou-nan''). The area faces Hakodate Bay, 
 Tsugaru Strait, and the Pacific Ocean. It occupies the southeast of the 
-Oshima Peninsula. The part is called Kameda Peninsula.
+Oshima Peninsula. The part is also called the Kameda Peninsula.
 	Mt. Hakodate stands from Hakodate Bay. The height is 334 
 meters. (Tokyo Tower is 333 meters.) The area of Hakodate was newly 
 formed in 2004 by the merger of Hakodate City, Toi Town, Minami-kayabe 
