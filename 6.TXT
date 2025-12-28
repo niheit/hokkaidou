@@ -13,7 +13,7 @@ Copyright (c) 2023-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251208.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251212.
 ------------------------------------------------------------------------
  _________
 |         |
@@ -764,11 +764,11 @@ concreted. It is not natural. It is a pity.''
 from South Asia, including the mouths of the Gungis and Bramaputra 
 (Jamuna), admired the concreted riverbanks and cliffs.
 
-#4  The name ``Yarikirenai'' sounds ``I cannot stand it any more!'' in 
-Japanese. Young students like it because they know it. An old proverb 
-says, ``Young people sorrow (Die Leiden der Jugend; Nayameru-
-wakamono).'' (I edited a book about sorrow; T. Nihei ed. 2017. ``People 
-sorrow.'' Hokkaidou University Press. ISBN 9784832934009)
+#4  The name ``Yarikirenai'' sounds like ``I cannot stand it any 
+more!'' in Japanese. Young students like the phrase. An old proverb 
+says, ``Young people worry (Nayameru-wakamono).'' I edited a book 
+about worry (T. Nihei ed. 2017. ``People worry.'' Hokkaidou University 
+Press. ISBN 9784832934009). Worrying is the privilege of young people.
 	The pioneers near the Yarikirenai River suffered from flood 
 damages. They were disappointed and called it ``Yarikirenai'' (by Yuni 
 Town's web-page).
@@ -1437,7 +1437,7 @@ Yuubari is composed of volcanic ash. Soil temperature rises in summer
 both in upland fields and paddy fields. Drainage is good. (Melons has 
 been cultivated in paddy fields after the enactment of the rice 
 reduction policy [``guentan-seisaku''].)
-	Yuubari is sorrounded by mountainous and the temperature 
+	Yuubari is surrounded by mountainous and the temperature 
 decreases at night. Melons become sweeter. (At cool nights, crops 
 sleep without consuming the sugars they produced during the day.)
 
@@ -2193,6 +2193,7 @@ offices.''
 festivals. An associate professor at the faculty of letters (me) eats 
 150-yen instant yakisoba for lunch. Yakisoba-bentou of Seicomart 
 (convenience stores in Hokkaidou) comes with powder for making soup.
+The hot water to make yakisoba can be reused.
  
 #5  As for power generation, Naie Power Station of Hokkaidou Electric 
 Power is located along the Ishikari River. It has chimneys with red 
@@ -3793,7 +3794,7 @@ was the owner of Kikutei Farm.)
 Sapporo Agricultural College, purchased the uncultivated land of 
 Kikutei Farm and started reclamation. The area was included in Fukagawa 
 village at the time.
-	In 1898 (Meiji 31), Moseusi Station opened on the Governmental 
+	In 1898 (Meiji 31), Moseushi Station opened on the Governmental 
 Hokkaidou Railway (Hokkaidou-kansetsu-tetsudou, now the Hakodate Main 
 Line). In 1923 (Taishou 12), Moseushi Village (1st-class municipality) 
 was established. It was separated from Fukagawa Town. In 1952 (Shouwa 
@@ -3807,7 +3808,7 @@ paddy rice 2,387 hectares in 2015, wheat 490, beans (soybeans 89,
 adzuki beans 11), buckwheat 26, flowers 20, onions 5, other vegetables 
 10+X, and other grains 5; dairy cow X (concealed) head in 2015. #3
  	As for sports, curling is popular. In the past, women's 
-volleyball team at Moseusi Commercial High School was famous.
+volleyball team at Moseushi Commercial High School was famous.
 	 When the volleyball team won the national championship in 
 1978, the newspaper reported; ``A town of 6,000 people, minus 25 
 degrees in winter, pushed away handicaps.'' In 2009, due to decreases 
@@ -3833,7 +3834,7 @@ culture.)
 Aoso is Karamushi. It is in the same family as Irakusa (hairy nettle). 
 Japanese people made mosquito nets and clothes from Aoso.
  
-#2  According to the ``Moseushi-chou-shi (Moseusi Town history)'' 
+#2  According to the ``Moseushi-chou-shi (Moseushi Town history)'' 
 published in 1979, the Rumoi Line of the Governmental Ralway 
 (Kansetsu-tetsudou) opened in 1910 (Meiji 43). The population of 
 Fukagawa Village increased. In 1918 (Taishou 7), Fukagawa Town was 
@@ -3842,7 +3843,7 @@ established.
 opined on the need to divide the municipality. In 1923 (Taishou 12), 
 the rural area of Fukagawa Town was separated as Moseushi Village.
  
-#3  According to the ``Moseushi-chou-shi (Moseusi Town history)'' 
+#3  According to the ``Moseushi-chou-shi (Moseushi Town history)'' 
 published in 1979; ``Agriculture suffered from floods, cold weather, 
 diseases, and insect pests. Through indescribable hardships, 
 agriculture shifted from upland field farming to paddy field farming.
@@ -4056,9 +4057,9 @@ made about 2,000 years ago.
 	In Honshuu island, 2,000 years ago was the Yayoi era (1,000 BC 
 to the middle of the 3rd century AD). Yayoi was the era of paddy rice. 
 In Hokkaidou, the Joumon era continued. It is also called the Zoku-
-joumon era, which means ``a continuation of the Joumon era.'' The 
-climate was too cold to grow paddy rice. (See Otaru City and Yoichi 
-Town in Shiribeshi sub-prefecture for ruins from Zoku-joumon era.)
+joumon era, which means ``the post Joumon era.'' The climate was too 
+cold to grow paddy rice. (See Otaru City and Yoichi Town in Shiribeshi 
+sub-prefecture for ruins from Zoku-joumon era.)
 	* * *
 	There was a military settlers' colony (Tonden-heison) near the 
 gorge Kamui-kotan. It was Otoe-hei-son. Although cutting down trees was 
