@@ -13,7 +13,7 @@ Copyright (c) 2023-2025 Nihei lab. Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies. THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251213.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY. VERSION 251215.
 ------------------------------------------------------------------------
  _________
 |         |
@@ -66,9 +66,9 @@ BIBLIOGRAPHY ........................................ [ok]   Searchable
 |  INTRODUCTION  |
 |                |
  ----------------
-When I worked for Hokkaidou University from 2010 to 2021, I guided many 
-bus excursions. This file is made based on my excursion notes at the 
-time. (by T. Nihei)
+When I worked for Hokkaidou University (from 2010 to 2021), I guided 
+many bus excursions. This file is made based on my excursion notes at 
+the time. (by T. Nihei)
 	Place names are written as they are pronounced, for example, 
 Hokkaido --> Hokkaidou. This is because this file is for oral 
 explanation (Nihei lab 2025). #1 #2
@@ -112,7 +112,7 @@ Map 9  Hokkaidou in Japan =
 (2) 2006 = two thousand and six.
 (3) 41* [* = \u00B0] 23.87' North = forty one degrees, twenty three 
     point eight seven minutes north (latitude).
-(4) 9.1* [* = \u00B0] C = nine point one degrees Celsius.
+(4) 9.1* [* = \u00B0] C = nine point one degrees Celsius.  
 (5) National Route 228 = national route two hundred twenty eight (two 
     twenty eight).
 (6) Prefectural Route 999 = prefectural route nine hundred ninety nine 
@@ -121,116 +121,117 @@ Map 9  Hokkaidou in Japan =
     sale (alphabet order, English and Japanese) = 
     adzuki beans (``shouzu in Hokkaidou or ``azuki'' in Honshuu island  
        [\u5C0F\u8C46]),
-    barley (``oomugui'' [\u5927\u9EA6]),
-    buckwheat (``soba'' [\u854E\u9EA6]), 
-    fodder (fodder crops, ``shiryou-sakumotsu'' 
-       [\u98FC\u6599\u4F5C\u7269]), 
-    orchards (``juen-chi'' [\u6A39\u5712\u5730]), 
-    paddy rice (``suitou'' [\u6C34\u7A32] or ``kome'' [\u7C73]), 
-    pasture (pasture land, ``bokusou-chi'' [\u7267\u8349\u5730]), 
-    potatoes (``bareisho'' [\u99AC\u9234\u85AF] or ``imo'' [\u85AF]),
-    soybeans (``daizu'' [\u5927\u8C46]), 
-    sweet potatoes (``satsuma-imo'' [\u85A9\u6469\u828B], ``imo'' 
-       [\u828B], or ``kansho''[\u7518\u85AF]) (``kansha'' [\u7518
-       \u8517] is an old word for sugarcane), and
-    wheat (``komugui'') [\u5C0F\u9EA6]).
+    barley (``oomugui [\u5927\u9EA6]''),
+    buckwheat (``soba [\u854E\u9EA6]''), 
+    fodder (fodder crops, ``shiryou-sakumotsu [\u98FC\u6599\u4F5C
+       \u7269]''), 
+    orchards (``juen-chi' [\u6A39\u5712\u5730]''), 
+    paddy rice (``suitou [\u6C34\u7A32]'' or ``kome [\u7C73]''), 
+    pasture (pasture land, ``bokusou-chi [\u7267\u8349\u5730]''), 
+    potatoes (``bareisho [\u99AC\u9234\u85AF]'' or ``imo [\u85AF]''),
+    soybeans (``daizu [\u5927\u8C46]''), 
+    sweet potatoes (``satsuma-imo [\u85A9\u6469\u828B],'' ``imo 
+       [\u828B],'' or ``kansho [\u7518\u85AF]'') (``kansha [\u7518
+       \u8517]'' is an old word for sugarcane), and
+    wheat (``komugui [\u5C0F\u9EA6]''). @
 (8) Statistics of fruits and vegetables for sale (alphabet order, 
     English and Japanese) = 
-    apples (``ringo'' [\u6797\u6A8E for Western varieties after the 
-       Meiji period] [\u82F9\u679C for traditional varieties]), 
+    apples (``ringo [\u6797\u6A8E]'' for Western varieties after the 
+       Meiji period or ``ringo [\u82F9\u679C]'' for traditional 
+       varieties), 
     broccoli (``brokkorii''), 
-    cabbage (``kyabetsu'' or ``kanran'' [\u7518\u85CD]), 
-    carrots (``ninjin'' [\u4EBA\u53C2]), 
+    cabbage (``kyabetsu'' or ``kanran [\u7518\u85CD]''), 
+    carrots (``ninjin [\u4EBA\u53C2]''), 
     cherries (``sakuranbo'' or ``outou'' [\u685C\u6843]), 
-    chestnuts (``kuri'' [\u6817]), 
-    Chinese cabbage (``hakusai'' [\u767D\u83DC]), 
-    cucumbers (``kyuuri'' [\u80E1\u74DC]), 
-    grapes (``budou'' [\u8461\u8404]), 
-    green onions (white scallions, leek, ``negui'' [\u8471]), 
+    chestnuts (``kuri [\u6817]''), 
+    Chinese cabbage (``hakusai [\u767D\u83DC]''), 
+    cucumbers (``kyuuri [\u80E1\u74DC]''), 
+    grapes (``budou [\u8461\u8404]''), 
+    green onions (white scallions, leek, ``negui [\u8471]''), 
     lettuce (``retasu''), 
     melons (``meron''), 
-    watermelons (``suika'' [\u897F\u74DC]), 
-    onions (``tama-negui'' [\u7389\u8471]), 
-    plums (``sumomo'' [\u674E]), 
-    radishes (``daikon''[\u5927\u6839]), 
+    watermelons (``suika [\u897F\u74DC]''), 
+    onions (``tama-negui [\u7389\u8471]''), 
+    plums (``sumomo [\u674E]''), 
+    radishes (``daikon [\u5927\u6839]''), 
     spinach (``hourensou''), 
-    strawberries (``ichigo'' [\u82FA]), 
+    strawberries (``ichigo [\u82FA]''), 
     tomatoes (``tomato''), 
-    ume plums (``ume'' [\u6885]), and 
-    yams (``yamaimo'' [\u5C71\u828B]). 
-    (Strawberries and yams are categorized in vegetables in Japanese 
-     statistics.)
+    ume plums (``ume [\u6885]''), and 
+    yams (``yamaimo [\u5C71\u828B]''). (Strawberries and yams are 
+       categorized in vegetables in Japanese statistics.)
 (9) Statistics of industrial crops (``kouguei-sakumotsu'') (alphabet 
     order, English and Japanese) = 
-    green perilla (``aojiso'' [\u9752\u7D2B\u8607]), 
+    green perilla (``aojiso [\u9752\u7D2B\u8607]''), 
     hops (``hoppu''), 
-    peppermints (``hakka'' [\u8584\u8377]), 
-    rapeseed (``natane'' [\u83DC\u7A2E]), 
-    sugar beets (``tensai,'' ``satou-daikon,'' or ``beeto''
-       [\u751C\u83DC, \u7802\u7CD6\u5927\u6839]), and 
-    sunflowers (``himawari'' [\u5411\u65E5\u8475]).
+    peppermints (``hakka [\u8584\u8377]''), 
+    rapeseed (``natane [\u83DC\u7A2E]''), 
+    sugar beets (``tensai [\u751C\u83DC],'' ``satou-daikon [\u7802
+       \u7CD6\u5927\u6839],'' or ``beeto''), and 
+    sunflowers (``himawari [\u5411\u65E5\u8475]'').
 (10) Statistics of other crops for sale (alphabet order, English and 
      Japanese) = 
      asparagus (``asparagas''), 
-     burdocks (``gobou'' [\u725B\u84A1]), 
-     Chinese chive or gynmigit (``nira'' [\u97EE]), 
-     immature soybeans (``eda-mame'' [\u679D\u8C46]), 
-     pumpkins (``kabocha'' [\u5357\u74DC]), 
+     burdocks (``gobou [\u725B\u84A1]''), 
+     Chinese chive or gynmigit (``nira [\u97EE]''), 
+     immature soybeans (``eda-mame [\u679D\u8C46]''), 
+     pumpkins (``kabocha [\u5357\u74DC]''), 
      snow peas (``kinu-saya''), and 
      sweet corn (``tou-morokoshi'').
 (11) Statistics of marine fisheries for sale; fish (alphabet order, 
-     English and Japanese) = 
-     atka mackerel (``hokke'' [`\u9B5A\u82B1']), 
-     anchovy (``katakuchi-iwashi'' [\u7247\u53E3\u9C2F]), 
-     congers (``anago'' [\u7A74\u5B50]), 
+     English and Japanese) =  
+     atka mackerel (``hokke [`\u9B5A\u82B1']''), 
+     anchovy (``katakuchi-iwashi [\u7247\u53E3\u9C2F]''), 
+     congers (``anago [\u7A74\u5B50]''), 
      Hatahata (sailfin sandfish), 
-     herring (``nishin'' [\u9C0A]), 
-     horse mackerel (``aji'' [\u9C3A]), 
+     herring (``nishin [\u9C0A]''), 
+     horse mackerel (``aji [\u9C3A]''), 
      Kichiji (broadbanded thornyhead), 
-     mackerel (``saba'' [\u9BD6]), 
-     marbled flounder (``mako-garei'' [mako-\u9C08]), 
+     mackerel (``saba [\u9BD6]''), 
+     marbled flounder (``mako-garei [mako-\u9C08]''), 
      olive flounder/right-eye flounder (including flatfish, dab, 
-        halibut, and sole) (``hirame'' and ``karei'' [\u9B83/\u9C08]), 
-     Pacific cod (``tara'' or ``madara'' [\u9C48, \u771F\u9C48]), 
-     Pacific saury (``sanma'' [\u79CB\u5200\u9B5A]), 
-     puffer fish (``fugu'' [\u6CB3\u8C5A]), 
-     red seabream (``tai'' or ``madai'' [\u9BDB, \u771F\u9BDB]), 
-     salmon/sea trout (caught in the sea) (``sake'' [\u9BAD] and 
-         ``masu'' [\u9C52]), 
+        halibut, and sole) (``hirame [\u9B83]'' and ``karei 
+        [\u9C08]''), 
+     Pacific cod (``tara [\u9C48]'' or ``madara [\u771F\u9C48]''), 
+     Pacific saury (``sanma [\u79CB\u5200\u9B5A]''), 
+     puffer fish (``fugu [\u6CB3\u8C5A]''), 
+     red seabream (``tai [\u9BDB]'' or ``madai [\u771F\u9BDB]''), 
+     salmon/sea trout (caught in the sea) (``sake [\u9BAD]'' and 
+        ``masu [\u9C52]''), 
      sand lance (``ikanago''), 
-     sardines (``iwashi'' [\u9C2F]), 
-     sharks (``sa-me'' [\u9BAB]), 
-     tuna (``maguro'' [\u9BAA]), 
-     walleye pollock (``sukesou-dara'' or ``suketou-dara'' 
-        [sukesou-\u9C48]), and 
-     yellowtail (amberjack, ``buri'' [\u9C24]).
+     sardines (``iwashi [\u9C2F]''), 
+     sharks (``sa-me [\u9BAB]''), 
+     tuna (``maguro [\u9BAA]''), 
+     walleye pollock (``sukesou-dara [sukesou-\u9C48]'' or ``suketou-
+        dara [sukesou-\u9C48]''), and 
+     yellowtail (amberjack, ``buri [\u9C24]'').
 (12) Statistics of marine fisheries for sale; marine animals, and
      seaweed (alphabet order, English and Japanese) = 
-     abalone (``awabi'' [\u9B91]), 
-     crabs (``kani'' [\u87F9]), 
-     flying squid (``surume-ika'' [surume-\u70CF\u8CCA]),
-     Hanasaki crabs (``hanasaki-gani'' [\u82B1\u54B2\u87F9]), 
-     horsehair crabs (``kegani'' [\u6BDB\u87F9]), 
-     Konbu kelp (``konbu'' [\u6606\u5E03]), 
-     octopus (``tako'' [\u86F8]), 
-     oysters (``kaki'' [\u7261\u86CE]), 
-     red king crabs (``taraba-gani'' [\u9C48\u5834\u87F9]), 
-     scallops (``hotate'' [\u5E06\u7ACB]), 
-     sea urchins (``uni'' [\u96F2\u4E39]), 
-     seaweed (``kaisou'' [\u6D77\u85FB]), 
-     shellfish (``kai'' [\u8C9D]), 
-     shrimp/prawns (``ebi'' [\u86EF]), 
-     snow crabs (``zuwai-gani'' [zuwai-\u87F9]), and 
-     squid (``ika'' [\u70CF\u8CCA]).
+     abalone (``awabi [\u9B91]''), 
+     crabs (``kani [\u87F9]''), 
+     flying squid (``surume-ika [surume-\u70CF\u8CCA]''),
+     Hanasaki crabs (``hanasaki-gani [\u82B1\u54B2\u87F9]''), 
+     horsehair crabs (``kegani [\u6BDB\u87F9]''), 
+     Konbu kelp (``konbu [\u6606\u5E03]''), 
+     octopus (``tako [\u86F8]''), 
+     oysters (``kaki [\u7261\u86CE]''), 
+     red king crabs (``taraba-gani [\u9C48\u5834\u87F9]''), 
+     scallops (``hotate [\u5E06\u7ACB]''), 
+     sea urchins (``uni [\u96F2\u4E39]''), 
+     seaweed (``kaisou [\u6D77\u85FB]''), 
+     shellfish (``kai [\u8C9D]''), 
+     shrimp/prawns (``ebi [\u86EF]''), 
+     snow crabs (``zuwai-gani [zuwai-\u87F9]''), and 
+     squid (``ika [\u70CF\u8CCA]'').
 (13) Statistics of fisheries for sale; others (alphabet order, English 
      and Japanese) = 
-     capelin (``shishamo'' [\u67F3\u8449\u9B5A]), 
+     capelin (``shishamo [\u67F3\u8449\u9B5A]''), 
      mactra (cockles, ``ezo-baka-gai'' or ``sakura-gai''), 
-     Manila clam (``asari'' [\u870A]), 
-     sakhalin surf clam (``hokki'' [\u5317\u5BC4] or ``hokki-gai''),
-     sea cucumbers (``namako'' [\u6D77\u9F20]), 
-     smelt (``wakasagui'' [\u516C\u9B5A]), and 
-     whelks (``tsubu'' [\u87BA]).
+     Manila clam (``asari [\u870A]''), 
+     sakhalin surf clam (``hokki [\u5317\u5BC4]'' or ``hokki-gai''),
+     sea cucumbers (``namako [\u6D77\u9F20]''), 
+     smelt (``wakasagui [\u516C\u9B5A]''), and 
+     whelks (``tsubu [\u87BA]'').
  _________________
 |                 |
 |     SORACHI     |
@@ -240,7 +241,7 @@ Map 9  Hokkaidou in Japan =
 Sorachi [so-ra-chi] [\u7A7A\u77E5] is a sub-prefecture (``sougou-
 shinkou-kyouku'') in central Hokkaidou (``dou-ou''). The area 
 corresponds to the middle reaches of the Ishikari River. It is an 
-inland sub-prefecture.
+inland sub-prefecture. @
  	The name ``Sorachi'' comes from ``so-rapci-pet'' in Ainu 
 language. It means ``waterfall, fall many, river.'' It signified the 
 waterfall of the Sorachi River. #1
@@ -1045,10 +1046,10 @@ association (suiri-kumiai) was established. It became a model for paddy
 rice cultivation in Hokkaidou. As for manufacturing, shipments of 
 wooden products and earthenware are large.
 	As for sightseeing, Kobayashi brewery (Kobayashi-shuzou) is 
-located along the Yuubari River. The old buildings including rice wine
-warehouses are designated as Tangible Cultural Properties (Yuukei-
+located along the Yuubari River. The old buildings, including rice wine
+warehouses, are designated as Tangible Cultural Properties (Yuukei-
 bunkazai). Neighboring farmers cultivate brewery rice in summer and 
-work for the brewery to make rice wine in winter. #4
+work for the brewery in winter to make rice wine. #4
 
 #1  As for chestnut, the wood is hard and water resistant. Therefore, 
 the wood of chestnut was used to make chests. In Japan, the wood of 
@@ -1099,70 +1100,72 @@ walk, looking upwards).'' He died in a jet plane crash in 1984. He
 worked with facilities for people with disabilities in Kuriyama Town 
 and Kuromatsunai Town.
 
-#4  Kobayashi brewery uses brewery rice varieties cultivated in 
-Kuriyama Town. The names are Guin-puu (``poem, wind'' in Japanese), 
-Suisei (comet), and Kita-shizuku (north, dew). Those were bred in 
-Hokkaidou.
-	The brewery also use ordinal rice variety ``Kirara 397.'' (The 
-``ordinal rice'' means the one sold at supermarkets; See Setana Town 
+#4  Kobayashi brewery uses brewery rice cultivated in Kuriyama Town. 
+The varieties of the brewery rice are (1) Guin-puu (which means ``poem, 
+wind'' in Japanese), (2) Suisei (comet), and (3) Kita-shizuku (north, 
+dew). Those varieties were bred in Hokkaidou.
+ 	The brewery also uses the ordinary rice variety ``Kirara 397.'' 
+(``Ordinary rice'' means that sold in supermarkets; See Setana Town 
 in Hiyama sub-prefecture for brewery rice; See Uryuu Town and Pippu 
 Town in Sorachi sub-prefecture for Kirara 397.)
-	In the past, Kobayashi brewery was located in Sapporo. The 
-address was Minami-2, Nishi-4. (Today, the address is a race horse 
-ticket shop of JRA [Japan Racing Association].) In 1900 (Meiji 33), 
-Kobayashi brewery moved to Kuriayama due to the prosperity of coal 
+	In the past, Kobayashi brewery was in Sapporo. The address was 
+Minami-2, Nishi-4. Today, the address is a race horse ticket shop of 
+JRA (Japan Racing Association). In 1900 (Meiji 33), the brewery moved 
+to Kakuta village (now Kuriayama Town) due to the prosperity of coal 
 mining in the Yuubari Mountains.
-	The warehouses in Kobayashi brewery, which are designated as 
-Tangible Cultural Properties, are made of Sapporo soft stone (Sapporo-
-nanseki, welded tuff) and bricks. The rice wine stored in brick i
+	The warehouses in Kobayashi brewery are designated as Tangible 
+Cultural Properties. They are made of Sapporo soft stone (Sapporo-
+nanseki, welded tuff) and bricks. The rice wine stored in brick 
 warehouses does not freeze in winter.
-	When coal mines were in operation, Kobayashi brewery made 
-10,000 ``koku'' of rice wine per year. (One ``koku'' of rice wine is 
-180 liters). Today, the amount is 1,200 ``koku.'' (See Setana Town in 
-Hiyama sub-prefecture for one ``koku'' of rice; See Esashi Town in 
-Hiyama sub-prefecture for one ``koku'' of herring.)
-	In the past, breweries of rice wine hang a large cedar ball in 
-front of the shop. The cedar ball is called ``sugui-dama (cedar ball)'' 
-in Japanese. When the rice wine of the year was brewed, a cedar ball 
-was hung.
+	In the past, when coal mines were in operation, Kobayashi 
+brewery produced 10,000-koku of rice wine per year. (One ``koku'' of 
+rice wine is 180 liters). Today, the amount is 1,200-koku. (See Setana 
+Town in Hiyama sub-prefecture for one ``koku'' of rice; See Esashi Town 
+in Hiyama sub-prefecture for one ``koku'' of herring.)
+	In the past, rice wine breweries hung a large cedar balls in 
+front of their shop. The cedar ball is called ``sugui-dama (cedar 
+ball)'' in Japanese. When the rice wine of the year was produced, they 
+hung a cedar ball under the roof of the shop.
 	The color of the cedar ball slowly changed from green to brown. 
-People came to the shop when the cedar ball turned brown. The taste of 
-rice wine was matured.
-	(In 2014, I visited a brewery in Canada that sells apple soda 
-[apple soda wine]. It sells by weight in glass bottles. I remembered an 
-old custom in Japan. In the past, rice wine was sold by weight with 
-Tokkuri [pottery bottle for rice wine] [\u5FB3\u5229]. Old Tokkuri can 
-be found in old Japanese warehouses.)
+People came to the shop to buy rice wine when the cedar ball turned 
+brown. The taste of the rice wine matured.
+	* * *
+	In 2014, I visited a brewery in Canada. The brewery sells apple 
+soda (apple soda wine) by weight in glass bottles. I remembered an old 
+custom in Japan. In the past, rice wine was sold by weight in Tokkuri 
+([\u5FB3\u5229], pottery bottle). Old Tokkuri can be found in old 
+Japanese warehouses.
 	* * *
 	In the shop of Kobayashi brewery, the high-end rice wine is 
-10,000 yen per 1 shou (1.8 liters). It is brewed from the core of 
-brewery rice. The low-end rice wine is 1,700 yen per 1 shou. It is 
-brewed from Kirara 397, which is an ordinal rice variety. The low-end 
-rice wine retains the taste from the past.
+10,000 yen per 1-shou (1.8 liters). It is brewed from the core of 
+brewery rice. The low-end rice wine is 1,700 yen per 1-shou. It is 
+brewed from Kirara 397, which is an ordinary rice variety. I like 
+the low-end rice wine because it retains the taste from the past.
 	In the past, barrels were made of wood. The material was cedar 
 tree. The flavor of the wood was transferred to rice wine. Therefore, 
-the rice wine producers (touji) made it with a strong taste. It was 
-sweeter.
- 	Today, rice wine breweries including Kobayashi brewery use 
-enamel tanks (grass-lined steel tanks or ``Hourou tank'' in Japanese). 
-The taste is light. Japanese people prefer fresh one rather than 
-matured.
-	The water of Kobayashi brewery is tap water supplied by the 
-town. It is soft water. The hardness is about 30 mg/L (CaCo3, calcium 
-carbonate). The brewery used the well water. The hardness of the well 
-water was about 50 mg/L. This is another reason that they make light 
-tasting rice wine. 
+the rice wine producers (``touji'') made rice wine with a strong 
+taste. It was sweeter.
+ 	Today, rice wine breweries, including Kobayashi brewery, use 
+enamel tanks. (Enamel tanks are grass-lined steel tanks. They are 
+called ``Hourou tank'' in Japanese). The taste of today's rice wine is 
+light. Japanese people prefer fresh ones rather than matured ones. 
+(The expiration date for Christmas cakes in Japan is one day.)
+	* * *
+	The water Kobayashi brewery uses is tap water supplied by the 
+town. It is soft water. The hardness is about 30 mg/L. (Hardness of 
+water is measured as CaCo3 [calcium carbonate]). The brewery used to 
+use the well water. The hardness was about 50 mg/L. The water is 
+another reason that the brewery makes light tasting rice wine.
 	(See Kuromatsunai Town in Shiribeshi sub-prefecture for hard 
 water; See Asahikawa City in Sorachi sub-prefecture for rice wine.)
  	* * *
-	When I went to Brazil, I visited a small distillery of pinga. 
-(The word ``pinga'' is Portuguese. It means ``drip.'' It signifies 
-cachaca [cacha\u00E7a], which is a distilled spirit made from sugar 
-cane.)
-	The producer used plastic barrels for preserving pinga. He said 
-that plastic does not affect the taste. City residents in Sao Paulo 
-however insisted that wooden barrels were better. Wooden barrels could 
-be displayed at restaurants.
+	When I went to Brazil, I visited a small distillery of 
+``pinga.'' (``Pinga'' means ``drip'' in Portuguese. It signifies 
+``cachaca [cacha\u00E7a],'' a spirit made from sugar cane.) The 
+producer used plastic barrels for preserving the spirit.
+	The producer said that plastic does not affect the taste. City 
+residents in Sao Paulo however insisted that wooden barrels were 
+better. Wooden barrels could be displayed at restaurants.
  _________________
 |                 |
 |     YUUBARI     |
@@ -1289,6 +1292,8 @@ used to go through narrow valleys and reached Yuubari.
 (144,000 people), Otaru Ward (108,000), Sappro Ward (102,000), 
 Asahikawa Ward (61,000), Muroran Ward (56,000), Yuubari Town (51,000), 
 and Kusiro Ward (39,000).
+	Today, all of these municipalities except for Sapporo have 
+been depopulated. (See Otaru City in Shiribeshi sub-prefecture.)
 
 #6  In the newsletter of Hokaidou Geographical Society published in 
 1954 (http://doi.org/10.14917/hgs1951.1954.95), Kazuo Kameda explained 
@@ -2979,7 +2984,7 @@ poultry farming was discontinued. The vineyard was donated to the city.
 Hokutan. (Hokutan is a Mitsui group company.) Utashinai Kousan imports 
 glass from Saint Gobain [san-goban] in France and processes double-
 layered glass and triple-layered glass for homes and offices in 
-Hokkaidou.
+Hokkaidou. (See Otaru City in Shiribeshi sub-prefecture for grass.)
 	It is difficult for new companies to start manufacturing glass 
 in Japan. The top three companies occupy 90 percent of the market 
 share. They are AGC (Asahi Glass Co., a Mitsubishi group company), 
@@ -3684,7 +3689,7 @@ Route 275 (Sorachi-kokudou or Himawari-road) runs near the town hall.
 #3 #4
 	National Route 233 (Rumoi-kokudou) passes to the north. The 
 Sasshou Line ran until 1972. It was operated by Japanese National 
-Railways (``koku-tetsu'').
+Railways (``Koku-tetsu'').
  	Distinctive industries in Hokuryuu are agriculture and 
 sightseeing. STATISTICS OF AGRICULTURE = paddy rice 1,881 hectares in 
 2015, buckwheat 585, beans (soybeans 204, adzuki beans 23, other beans 
