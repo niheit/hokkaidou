@@ -1,13 +1,12 @@
 #include<stdio.h>
 
-/* ``hokkaidou'' is a game to check gazetteer in hokkaidou island. ver 251221 */
+/* ``hokkaidou'' is a game to check gazetteer in hokkaidou island. Ver 2601 */
+
 int main() {
 int a;
-//int i = 0;
 FILE *fp = fopen("5.TXT", "r");  /* Original HTTP://2242.MOOO.COM/HOK/5.TXT */
-//char line[256];
 
-/* Set the first line (top of a box) */
+/* Set the first line (top of a box) for these words in 5.TXT */
 int OSHIMA=226, HIYAMA=310, SHIRIBESHI=0000, IBURI=0000, HIDAKA=0000; 
 int ISHIKARI=00000, MATSUMAE=424, FUKUSHIMA=679, SHIRIUCHI=826, KIKONAI=970; 
 int HOKUTO=1105, HAKODATE=1281, NANAE=1701, SHIKABE=1917, MORI=1993; 
@@ -29,11 +28,6 @@ int SAPPORO_TOYOHIRA=00000, SAPPORO_KIYOTA=00000, SAPPORO_KITA=00000;
 int SAPPORO_KITA_HOKKAIDOU_UNIV=00000, SAPPORO_HIGASHI=00000; 
 int SAPPORO_SHIROISHI=00000, SAPPORO_ATSUBETSU=00000, SOURCE=3897;
 
-/* Original http://stackoverflow.com/questions/36853463 */
-enum { MAXL = 20, MAXC = 256000 }; 
-int c, i=0, idx = 0, pgsz = MAXL, line = 0;
-char fname[MAXC];
-
 printf (
 "Hokkaidou Gazetteer; South & Central --> x_Abira x_Akaigawa 3_Assabu \n" 
 "x_Atsuma x_Biratori x_Chitose x_Date x_Ebetsu x_Eniwa xx_Erimo \n"
@@ -54,6 +48,11 @@ printf (
 "Enter No. --> ");
 scanf("%d",&a);
 
+/* Original http://stackoverflow.com/questions/36853463 */
+enum { MAXL = 20, MAXC = 256000 }; 
+int c, i=0, idx = 0, pgsz = MAXL, line = 0;
+char fname[MAXC];
+
 #define DISPLAY(X, Y) \
 while (getchar() != '\n' );  /* Retrieve the first enter key */ \
 while ((c = fgetc (fp)) != EOF) { \
@@ -73,7 +72,6 @@ while ((c = fgetc (fp)) != EOF) { \
            putchar (c); \
         } \
      } \
-     /* Can these 3 lines be omitted? */ \
      fclose (fp); \
      return 0; \
      break; 
