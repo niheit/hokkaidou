@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/* ``hokkaidou'' is a game to check gazetteer in hokkaidou island. Ver 2601 */
+/* ``hokkaidou'' is a game to check gazetteer in hokkaidou island. Ver 2602 */
 
 int main() {
 int a;
