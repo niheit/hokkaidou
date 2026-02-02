@@ -7,11 +7,11 @@ int a;
 FILE *fp = fopen("5.TXT", "r");  /* Original HTTP://2242.MOOO.COM/HOK/5.TXT */
 
 /* Set the first line (top of a box) for these words in 5.TXT */
-int OSHIMA=226, HIYAMA=310, SHIRIBESHI=0000, IBURI=0000, HIDAKA=0000; 
-int ISHIKARI=00000, MATSUMAE=424, FUKUSHIMA=679, SHIRIUCHI=826, KIKONAI=970; 
-int HOKUTO=1105, HAKODATE=1281, NANAE=1701, SHIKABE=1917, MORI=1993; 
-int YAKUMO=2212, OSHAMANBE=2386, KAMINOKUNI=2579, ESASHI=2812, ASSABU=3071; 
-int OTOBE=3258, OKUSHIRI=3425, SETANA=3513, IMAKANE=3744, SHIMAMAKI=0000; 
+int OSHIMA=231, HIYAMA=329, SHIRIBESHI=0000, IBURI=0000, HIDAKA=0000; 
+int ISHIKARI=00000, MATSUMAE=460, FUKUSHIMA=755, SHIRIUCHI=924, KIKONAI=1093; 
+int HOKUTO=1268, HAKODATE=1480, NANAE=1954, SHIKABE=2206, MORI=2308; 
+int YAKUMO=2561, OSHAMANBE=2772, KAMINOKUNI=2997, ESASHI=3268, ASSABU=3561; 
+int OTOBE=3799, OKUSHIRI=4001, SETANA=4113, IMAKANE=4376, SHIMAMAKI=0000; 
 int KUROMATSUNAI=0000, SUTTSU=0000, RANKOSHI=0000, NISEKO=0000, MAKKARI=0000;
 int RUSUTSU=0000, KIMOBETSU=0000, KYOUGOKU=0000, KUCCHAN=0000, KYOUWA=0000;
 int IWANAI=0000, TOMARI=0000, KAMOENAI=0000, SHAKOTAN=0000, FURUBIRA=0000;
@@ -26,10 +26,10 @@ int EBETSU=00000, SHIN_SHINOTSU=00000, SAPPORO=00000, SAPPORO_MINAMI=00000;
 int SAPPORO_TEINE=00000, SAPPORO_NISHI=00000, SAPPORO_CHUUOU=00000; 
 int SAPPORO_TOYOHIRA=00000, SAPPORO_KIYOTA=00000, SAPPORO_KITA=00000; 
 int SAPPORO_KITA_HOKKAIDOU_UNIV=00000, SAPPORO_HIGASHI=00000; 
-int SAPPORO_SHIROISHI=00000, SAPPORO_ATSUBETSU=00000, SOURCE=3897;
+int SAPPORO_SHIROISHI=00000, SAPPORO_ATSUBETSU=00000, SOURCE=4555;
 
 printf (
-"Hokkaidou Gazetteer; South & Central --> x_Abira x_Akaigawa 3_Assabu \n" 
+"Hokkaidou Gazetteer; South & Central ---> x_Abira x_Akaigawa 3_Assabu \n" 
 "x_Atsuma x_Biratori x_Chitose x_Date x_Ebetsu x_Eniwa xx_Erimo \n"
 "11_Esashi 12_Fukushima xx_Furubira 14_Hakodate xx_Hidaka sub-prefecture \n"
 "xx_Hidaka_Town 17_Hiyama 18_Hokuto xx_Iburi 20_Imakane xx_Ishikari_City \n"
@@ -45,7 +45,7 @@ printf (
 "xx_Shin-shinotsu xx_Shin-hidaka xx_Shin-hidaka_Hokkaidou_Univ_Ranch \n"
 "xx_Shiraoi xx_Shiribeshi 73_Shiriuchi xx_Soubetsu xx_Suttsu xx_Tomakomai \n"
 "xx_Tomari xx_Toubetsu xx_Touyako xx_Toyoura xx_Urakawa 82_Yakumo xx_Yoichi \n"
-"Enter No. --> ");
+"Enter No. ---> ");
 scanf("%d",&a);
 
 /* Original http://stackoverflow.com/questions/36853463 */
@@ -63,7 +63,7 @@ while ((c = fgetc (fp)) != EOF) { \
            if (c == '\n') idx++; \
            if (idx == pgsz){ \
                line += pgsz; \
-               printf ("\n__ line %d, continue (Enter), quit (q)? ", line); \
+               printf ("\n ---> line %d, continue (Enter), quit (q)? ", line); \
                int ch; \
                if ((ch = getchar()) == 'q') break; \
                idx = 0; \
