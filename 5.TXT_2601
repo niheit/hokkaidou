@@ -1,6 +1,6 @@
 ________________________________________________________________________
 
-   OSHIMA & HIYAMA
+   OSHIMA, HIYAMA
 
    ``Hokkaidou Atlas & Gazetteer,'' No. 5
 ------------------------------------------------------------------------
@@ -13,7 +13,7 @@ Copyright (c) 2021-2026 Nihei lab.  Permission to use, copy, and modify
 this file for any purpose is hereby granted, provided that the 
 copyright notice and this permission notice appear in all copies.  THE
 FILE IS PROVIDED ``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY.  VERSION 260101.
+INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY.  VERSION 260102.
 ------------------------------------------------------------------------
  _________
 |         |
@@ -94,7 +94,7 @@ Map 1  Hokkaidou = HTTP://2242.MOOO.COM/HOK/M1.PNG
 Map 2  Oshima, Hiyama, Shiribeshi = 
        HTTP://2242.MOOO.COM/HOK/M2.PNG (Nihei lab 2021-2025a)
 
-Map 3  Iburi, Ishikari, & Hidaka = 
+Map 3  Iburi, Ishikari, Hidaka = 
        HTTP://2242.MOOO.COM/HOK/M3.PNG (Nihei lab 2021-2025a)
 
 Map 4  Sapporo = HTTP://2242.MOOO.COM/HOK/M4.TIF 
@@ -573,7 +573,7 @@ oyobe [\u4E0A\u53CA\u90E8].  #5
 In 1954 (Shouwa 29), Matsumae Town merged the villages of Ooshima, 
 Kojima, and Oosawa.
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Matsumae and Matsumae Castle (Fukuyama Castle) are 
 located near the mouth of the Oomatsumae River.  National Route 228 
@@ -586,7 +586,7 @@ kaidou.]
 Kikonai Town and Matsumae Town.  The terminal was Matsumae Station.  
 The population of Matsumae peaked at 20,072 in 1955.  #7
 
-INDUSTRY & CULTURE
+INDUSTRY, CULTURE
 
 Distinctive industries in Matsumae are fishery, food processing (mainly 
 Surume and Matsumae-zuke), and sightseeing.  STATISTICS OF AGRICULTURE 
@@ -813,7 +813,7 @@ was established by the merger of Yoshioka, Reihige, and Miyanouta
 villages.  In 1944 (Shouwa 19), Fukushima Town was established.  In 
 1955 (Shouwa 30), Fukushima Town and Yoshioka Village were merged.
  	
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Fukushima is located near the mouth of the Fukushima 
 River.  National Route 228 (Fukuyama-kaidou) runs.  #4
@@ -973,7 +973,7 @@ was established by the merger of Shiriuchi village and Kotaniishi
 village.  In 1967 (Shouwa 42), Shiriuchi Town was established.
 	[See the note of Matsumae Town for 2nd-class municipality.] 
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
  	The town hall of Shiriuchi is located near the mouth of the 
 Shiriuchi River.  National Route 228 (Fukuyama-kaidou) runs.  The name 
@@ -1139,7 +1139,7 @@ was established.  In 1942 (Shouwa 17), Kikonai Town was established.
 	[See the note of Matsumae Town for 1st-class and 2nd-class 
 municipalities.]
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Kikonai is located near the mouth of the Kikonai 
 River.  National Route 228 (Fukuyama-kaidou) runs.  Kikonai is a 
@@ -1156,7 +1156,7 @@ Governmental offices were located in the center of the town such as a
 summary court, a forestry office (``eirin-sho''), and a railway yard by 
 Japanese National Railways (``Koku-tetsu'').  #4
 
-INDUSTRY & CULTURE
+INDUSTRY, CULTURE
 
 Distinctive industries in Kikonai are fishery, agriculture, animal 
 husbandry (including Hakodate Wagyuu Beef), and forestry (including 
@@ -1319,7 +1319,7 @@ Oono Town was established.
 	[See the note of Matsumae Town for 1st-class and 2nd-class 
 municipalities.]
 
-CITY HALL, TRAFFIC, & POPULATION
+CITY HALL, TRAFFIC, POPULATION
 
 The city hall of Hokuto is located near the mouth of the Oono River.  
 It used to be the town hall of Kamiiso Town.  National Route 228 
@@ -1544,7 +1544,7 @@ municipality.]
 zawa was located around Hakodate Airport.  In 1973 (Shouwa 48), 
 Hakodate City merged Kameda [\u4E80\u7530] City.  #6
 
-CITY HALL, TRAFFIC, & PULATION
+CITY HALL, TRAFFIC, PULATION
   
 The city hall of Hakodate and the Port of Hakodate are located at the 
 foot of Mt. Hakodate.  National Route 5 and the Hakodate Main Line 
@@ -2018,7 +2018,7 @@ established.  In 1957 (Shouwa 32), Nanae Town was established.
 	[See the note of Matsumae Town for 1st-class and 2nd-class 
 municipalities.]
 
-TOWN HALL, TRAFFIC, & POPULATION
+TOWN HALL, TRAFFIC, POPULATION
 
 The town hall of Nanae is located on the south of the Hakodate Plain.  
 The part of the plain is called Oono Plain.  National Route 5 (Oonuma-
@@ -2251,7 +2251,7 @@ office (``kochou-yakuba'') of Shikabe village was established.  In 1906
 In 1983 (Shouwa 58), Shikabe Town was established.
 	[See the note of Matsumae Town for 2nd-class municipality.]
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Shikabe is located near the mouth of the Shikabe 
 River.  National Route 278 (Esan-kokudou) runs.  At the foot of Mt. 
@@ -2378,7 +2378,7 @@ Village (2nd-class municipality) was established.
 route of the Hakodate Main Line.  In 1970 (Shouwa 45), Sawara Town was 
 established.
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Mori is located between the Torizaki River and the 
 Mori River.  National Route 278 (Esan-kokudou) branches off from 
@@ -2650,7 +2650,7 @@ Village (2nd-class municipalities) was established.  In 1962 (Shouwa
 Kumaishi from the Edo era to the Meiji period.  The peak of Kumaishi's 
 population was 10,049 in 1962 (Shouwa 37).  
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Yakumo is located near the mouth of the Yuurappu 
 River.  It was the former Yakumo Town's town hall.  National Route 277 
@@ -2826,7 +2826,7 @@ Oshamanbe Town was established.
 	[See the note of Matsumae Town for 1st-class and 2nd-class 
 municipalities.]
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Oshamanbe is located near the mouth of the Oshamanbe 
 River.  National Route 37 (Shizukari-kokudou) branches off from 
@@ -3065,7 +3065,7 @@ was established by the merger of seven villages.  In 1967 (Shouwa 42),
 Kaminokuni Town was established.
 	[See the note of Matsumae Town for 2nd-class municipality.]
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Kaminokuni is located near the mouth of the Amanogawa 
 River.  National Route 228 (Matsumae-kokudou) runs along the sea.  #4  
@@ -3331,7 +3331,7 @@ established by the merger of 26 towns in Esashi and Gokatte [\u4E94
 ``B.'' #6  #7
 	[See the note of Matsumae Town for 1st-class municipality.]
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Esashi, Hiyama sub-prefectural bureau, and the Port of 
 Esashi are located to the south.  The port is the terminus of National 
@@ -3622,7 +3622,7 @@ established by the merger of seven villages.  In 1963 (Shouwa 38),
 Assabu Town was established.
 	[See the note of Matsumae Town for 2nd-class municipality.]
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Assabu is located near the confluence of the 
 Assabu River and the An-noro River.  The town hall was built at the 
@@ -3847,7 +3847,7 @@ established by the merger of five villages.  In 1965 (Shouwa 40), Otobe
 Town was established.
 	[See the note of Matsumae Town for 2nd-class municipality.]
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Otobe is located near the mouth of the Hime River.  
 National Route 229 (Hiyama-kokudou) runs along the sea.  The national 
@@ -4047,7 +4047,7 @@ was established by the merger of four villages.  In 1966 (Shouwa 41),
 Okushiri Town was established.
 	[See the note of Matsumae Town for 2nd-class municipality.]
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Okushiri is located in Okushiri district to the east.  
 Other built-up areas are located in Aonae district to the south and 
@@ -4214,7 +4214,7 @@ administrative office was built in Higashi-setana village).
 	In 1919 (Taishou 8), Setana Village (1st-class municipality) 
 was established.  In 1921 (Taishou 10), Setana Town was established.
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Setana is located near the mouth of the Toshibetsu 
 River (Shiribeshi-toshibetsu River).  It used to be the town hall of 
@@ -4422,7 +4422,7 @@ established.  At the time, Toshibetsu was renamed to Imakane.
 	[See the note of Matsumae Town for 1st-class and 2nd-class 
 municipalities.] 
 
-TOWN HALL & TRAFFIC
+TOWN HALL, TRAFFIC
 
 The town hall of Imakane is located along the middle reaches of the 
 Shiribeshi-toshibetsu River.  National Route 230 (Pirika-kokudou or 
@@ -4636,17 +4636,17 @@ gain, river.''
 (5) Nihei lab 2020-2025.  Iburi. ``Hokkaidou Atlas & Gazetteer'' No. 2 
     HTTP://2242.MOOO.COM/HOK/2.TXT
 
-(6) Nihei lab 2021-2025a.  Map 1 Hokkaidou, Map 2 Oshima, Hiyama, 
-    Shiribeshi, Map 3 Iburi, Ishikari, Hidaka, & Map 4 Sapporo. 
+(6) Nihei lab 2021-2025a.  Map 1 Hokkaidou; Map 2 Oshima, Hiyama, 
+    Shiribeshi; Map 3 Iburi, Ishikari, Hidaka; Map 4 Sapporo. 
     ``Hokkaidou Atlas & Gazetteer'' No. 3 
     HTTP://2242.MOOO.COM/HOK/3.TXT
 
-(7) Nihei lab 2021-2025b.  Map 5 Sorachi, Rumoi, Map 6 Kamikawa, Souya, 
-    Map 7 Tokachi, Okhotsk, Map 8  Kushiro, Nemuro, & Map 9. 
+(7) Nihei lab 2021-2025b.  Map 5 Sorachi, Rumoi; Map 6 Kamikawa, Souya, 
+    Map 7 Tokachi, Okhotsk; Map 8  Kushiro, Nemuro; Map 9. 
     ``Hokkaidou Atlas & Gazetteer'' No. 4 
     HTTP://2242.MOOO.COM/HOK/4.TXT
 
-(8) Nihei lab 2021-2026.  Oshima & Hiyama.  ``Hokkaidou Atlas & 
+(8) Nihei lab 2021-2026.  Oshima, Hiyama.  ``Hokkaidou Atlas & 
     Gazetteer'' No. 5 HTTP://2242.MOOO.COM/HOK/5.TXT
 
 (9) Nihei lab 2023-2025a.  Sorachi.  ``Hokkaidou Atlas & Gazetteer'' 
