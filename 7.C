@@ -1,18 +1,18 @@
 #include<stdio.h>
 
 /* ``hokkaidou'' is a game to check gazetteer in hokkaidou island. 
-   Ver 260228 */
+   Version 260509 */
 
 int main() {
 int a;
 FILE *fp = fopen("5.TXT", "r");  /* Original HTTP://2242.MOOO.COM/HOK/5.TXT */
 
 /* Set the first line (top of a box) for these words in 5.TXT */
-int OSHIMA=242, HIYAMA=344, SHIRIBESHI=0000, IBURI=0000, HIDAKA=0000; 
-int ISHIKARI=00000, MATSUMAE=484, FUKUSHIMA=790, SHIRIUCHI=961, KIKONAI=1131; 
-int HOKUTO=1310, HAKODATE=1530, NANAE=2030, SHIKABE=2291, MORI=2395; 
-int YAKUMO=2655, OSHAMANBE=2872, KAMINOKUNI=3096, ESASHI=3375, ASSABU=3676; 
-int OTOBE=3925, OKUSHIRI=4134, SETANA=4248, IMAKANE=4527, SHIMAMAKI=0000; 
+int OSHIMA=290, HIYAMA=411, SHIRIBESHI=0000, IBURI=0000, HIDAKA=0000; 
+int ISHIKARI=00000, MATSUMAE=569, FUKUSHIMA=922, SHIRIUCHI=1131, KIKONAI=1335; 
+int HOKUTO=1535, HAKODATE=1774, NANAE=2347, SHIKABE=2649, MORI=2764; 
+int YAKUMO=3059, OSHAMANBE=3316, KAMINOKUNI=3586, ESASHI=3950, ASSABU=4315; 
+int OTOBE=4593, OKUSHIRI=4831, SETANA=4964, IMAKANE=5286, SHIMAMAKI=0000; 
 int KUROMATSUNAI=0000, SUTTSU=0000, RANKOSHI=0000, NISEKO=0000, MAKKARI=0000;
 int RUSUTSU=0000, KIMOBETSU=0000, KYOUGOKU=0000, KUCCHAN=0000, KYOUWA=0000;
 int IWANAI=0000, TOMARI=0000, KAMOENAI=0000, SHAKOTAN=0000, FURUBIRA=0000;
@@ -27,7 +27,7 @@ int EBETSU=00000, SHIN_SHINOTSU=00000, SAPPORO=00000, SAPPORO_MINAMI=00000;
 int SAPPORO_TEINE=00000, SAPPORO_NISHI=00000, SAPPORO_CHUUOU=00000; 
 int SAPPORO_TOYOHIRA=00000, SAPPORO_KIYOTA=00000, SAPPORO_KITA=00000; 
 int SAPPORO_KITA_HOKKAIDOU_UNIV=00000, SAPPORO_HIGASHI=00000; 
-int SAPPORO_SHIROISHI=00000, SAPPORO_ATSUBETSU=00000, SOURCE=4711;
+int SAPPORO_SHIROISHI=00000, SAPPORO_ATSUBETSU=00000, SOURCE=5474;
 
 printf (
 "Hokkaidou Gazetteer; South & Central ---> x_Abira x_Akaigawa 3_Assabu \n" 
@@ -64,7 +64,7 @@ while ((c = fgetc (fp)) != EOF) { \
            if (c == '\n') idx++; \
            if (idx == pgsz){ \
                line += pgsz; \
-               printf ("\n ---> line %d, continue (Enter), quit (q)? ", line); \
+               printf ("\n---> line %d, continue (Enter), quit (q)? ", line); \
                int ch; \
                if ((ch = getchar()) == 'q') break; \
                idx = 0; \

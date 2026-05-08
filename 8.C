@@ -55,7 +55,7 @@ while ((c = fgetc (fp)) != EOF) { \
            if (c == '\n') idx++; \
            if (idx == pgsz){ \
                line += pgsz; \
-               printf ("\n ---> line %d, continue (Enter), quit (q)? ", line); \
+               printf ("\n---> line %d, continue (Enter), quit (q)? ", line); \
                int ch; \
                if ((ch = getchar()) == 'q') break; \
                idx = 0; \
