@@ -15,7 +15,7 @@ Copyright ( c ) 2021-2026 Nihei lab, Department of Tourism Science,
 Tokyo Metropolitan University.  Permission to copy and modify this file 
 for any purpose is hereby granted, provided that the copyright notice 
 and this permission notice appear in all copies.  THE FILE IS PROVIDED 
-``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES.  VERSION 260113. 
+``AS IS'' AND THE AUTHOR DISCLAIMS ALL WARRANTIES.  VERSION 260119. 
 ------------------------------------------------------------------------
  _________
 |         |
@@ -70,16 +70,21 @@ BIBLIOGRAPHY ...................................... ( ok )   Searchable
 |                | 
  ---------------- 
 I worked for Hokkaidou University from 2010 to 2021.  At the time, I 
-guided many excursions.  This file was made from the excursion notes.  
-( by T. Nihei ) 
+guided many excursions.  I made this file based on my excursion notes.  
+This is for virtual excursions that transcend time and space.  ( by T. 
+Nihei ) 
 
-Place names are written as they are pronounced, for example, Hokkaido 
---> Hokkaidou.  This is because this file is for oral explanation ( by 
-Nihei lab 2025 ). 
+In this file, place names are written as they are pronounced, for 
+example, Hokkaido --> Hokkaidou.  This is because the content is for 
+oral explanation ( by Nihei lab 2025 ). 
 
 Some place names are displayed in UTF codes.  To convert UTF codes to 
 characters, use the ``echo'' command on a terminal emulator, for 
 example ; echo $'\u5317\u7ADC' 
+
+Or, these online command-line interpreters are available ;
+http://codapi.org/shell/
+http://www.tutorialspoint.com/compilers/online-bash-compiler.htm
 
 ACKNOWLEDGMENTS 
 
@@ -92,16 +97,16 @@ stories about old life in Sapporo.
 |  MAP  |
 |       |
  -------
-Map 1  Hokkaidou = HTTP://2242.MOOO.COM/HOK/M1.PNG ( Nihei lab 2021-
+Map 1  Hokkaidou --> HTTP://2242.MOOO.COM/HOK/M1.PNG ( Nihei lab 2021-
 2025a )
 
-Map 2  Oshima, Hiyama, Shiribeshi = HTTP://2242.MOOO.COM/HOK/M2.PNG 
+Map 2  Oshima, Hiyama, Shiribeshi --> HTTP://2242.MOOO.COM/HOK/M2.PNG 
 ( Nihei lab 2021-2025a )
 
-Map 3  Iburi, Ishikari, Hidaka = HTTP://2242.MOOO.COM/HOK/M3.PNG 
+Map 3  Iburi, Ishikari, Hidaka --> HTTP://2242.MOOO.COM/HOK/M3.PNG 
 ( Nihei lab 2021-2025a )
 
-Map 4  Sapporo = HTTP://2242.MOOO.COM/HOK/M4.TIF ( Nihei lab 2021-
+Map 4  Sapporo --> HTTP://2242.MOOO.COM/HOK/M4.TIF ( Nihei lab 2021-
 2025a )
  _________________
 |                 |
@@ -110,9 +115,9 @@ Map 4  Sapporo = HTTP://2242.MOOO.COM/HOK/M4.TIF ( Nihei lab 2021-
  -----------------
 1. 1902 = nineteen oh two.
 2. 2006 = two thousand and six.
-3. 41* ( * = \u00B0 ) 23.87' North = forty one degrees, twenty three 
-   point eight seven minutes north ( latitude ).
-4. 9.1* ( * = \u00B0 ) C = nine point one degrees Celsius.  
+3. 41* 23.87' North = forty one degrees, twenty three point eight seven 
+   minutes north ( latitude ).  ( * = \u00B0. )
+4. 9.1 *C = nine point one degrees Celsius.  ( * \u00B0 ) 
 
 5. National Route 228 = national route two hundred twenty eight ( two 
    twenty eight ).
@@ -178,8 +183,8 @@ Map 4  Sapporo = HTTP://2242.MOOO.COM/HOK/M4.TIF ( Nihei lab 2021-
 ( 20 ) tomatoes = ``tomato''
 ( 21 ) yams = ``yamaimo'' = \u5C71\u828B
 
-( Strawberries and yams are categorized in vegetables in Japanese 
-  statistics. )
+( Melons, watermelons, strawberries, and yams are categorized in 
+  vegetables in Japanese statistics. )
 
 9. Statistics of industrial crops ( ``kouguei-sakumotsu'' ).
 
@@ -305,10 +310,9 @@ Koeppen's climate classification, the coast of Matsumae Town is
 classified as Cfa ( humid subtropical ), whereas most areas in 
 Hokkaidou is classified as Dfb ( humid continental, cool summer ). 
 
-In the case of Hakodate City, the mean annual temperature is 9.1 
-degrees Celsius ( average from 1981 to 2010 ), the mean annual 
-precipitation is 1,152 millimeters, and the mean annual snowfall is 381 
-centimeters.  #2 
+In Hakodate City, the mean annual temperature is 9.1 degrees Celsius 
+( average from 1981 to 2010 ), the mean annual precipitation is 1,152 
+millimeters, and the mean annual snowfall is 381 centimeters.  #2 
 
 NAME 
 
@@ -322,7 +326,8 @@ Matsumae Domain ( Matsumae-han ) ruled this area.  The Tokugawa
 Shogunate also ruled this area at one point.  ( The Edo era continued 
 from the 17th to the 19th centuries. ) 
 
-( For the old 12 forts, see Kaminokuni Town in Hiyama sub-prefecture. )
+( For the former 12 forts, see Kaminokuni Town in Hiyama sub-
+  prefecture. )
 ( For the history of the Edo era, see Matsumae Town and Hakodate City 
   in Oshima sub-prefecture. ) 
 
@@ -375,11 +380,13 @@ Hokuto City 48,032, ( 3 ) Nanae Town 28,453, ( 4 ) Yakumo Town 18,896,
 Shikabe Town 4,767.  The sub-prefectural bureau is located in Hakodate 
 City.
 
-NOTE 
- 
-#1  Volcano Bay is called Funka-wan in Japanese.  The name ``Volcano 
-Bay'' was named in 1796 by William Robert Broughton.  He was a British 
-naval officer.  At the time, volcanoes erupted around the bay.
+NOTE
+
+#1
+
+Volcano Bay is called Funka-wan in Japanese.  The name ``Volcano Bay'' 
+was named in 1796 by William Robert Broughton.  He was a British naval 
+officer.  At the time, volcanoes erupted around the bay.
 
 Some students asked, ``Is Volcano Bay a caldera?''  It's not a 
 caldera, although the shape resembles a caldera.  There is no caldera 
@@ -391,21 +398,23 @@ elementary school, I heard that the world largest caldera was Aso
 Caldera in Kumamoto Prefecture.  Today, the world largest caldera is 
 located in Indonesia.
 
-#2  In the case of Tokyo ( Chiyoda Ward, the representative data of 
-Japan ), the mean annual temperature is 15.4 degrees Celsius ( average 
-from 1981 to 2010 ).  The mean annual rainfall is 1,529 millimeters.  
-The climate of Tokyo is classified as Cfa ( humid subtropical ) by 
-Koeppen's climate classification. 
+#2
 
-As for the coldest month, the mean temperature of Tokyo is 5.2 
+In Toukyou ( Chiyoda Ward, the representative data of Japan ), the mean 
+annual temperature is 15.4 degrees Celsius ( average from 1981 to 
+2010 ).  The mean annual rainfall is 1,529 millimeters.  The climate is 
+classified as Cfa ( humid subtropical ) by Koeppen's climate 
+classification. 
+
+As for the coldest month, the mean temperature of Toukyou is 5.2 
 degrees Celsius in January ( average from 1981 to 2010 ).  The mean 
 temperature of Hakodate is -2.6 degrees Celsius in January.
 
-As for the hottest month, the mean temperature of Tokyo is 26.4 degrees 
-Celsius in August.  The mean temperature of Hakodate is 22.0 degrees 
-Celsius in August. 
+As for the hottest month, the mean temperature of Toukyou is 26.4 
+degrees Celsius in August.  The mean temperature of Hakodate is 22.0 
+degrees Celsius in August. 
 
-In Hokkadou, it's cold after Obon ( 15th August ).  In Tokyo, it's 
+In Hokkadou, it's cold after Obon ( 15th August ).  In Toukyou, it's 
 still hot after the equinox ( 23rd September, ``Shuubun'' in 
 Japanese ). 
  _________________
@@ -431,9 +440,9 @@ Esashi Town and the coast of Okushiri island are classified as Cfa
 ( humid subtropical ).  The other coasts are classified as Cfb 
 ( temperate oceanic ).  The population is distributs along the coast.
 
-In the case of Esashi Town, the mean annual temperature is 10.1 degrees 
-Celsius ( average from 1981 to 2010 ), the mean annual precipitation is 
-1,197 millimeters, and the mean snowfall is 330 centimeters.  #2
+In Esashi Town, the mean annual temperature is 10.1 degrees Celsius 
+( average from 1981 to 2010 ), the mean annual precipitation is 1,197 
+millimeters, and the mean snowfall is 330 centimeters.  #2
 
 NAME   
 
@@ -447,7 +456,7 @@ HISTORY
 There used to be natural forests of Hiba trees in Hiyama. ( Hiba is a 
 kind of cypress. )  After the late 17th century, during the Edo era, 
 the Matsumae Domain felled Hiba trees.  The area was what is now Hiyama 
-sub-prefecture.  #4 #5
+sub-prefecture.  #4  #5
 
 Japanese immigration has a long history here.  In the mid 15th century, 
 the Andou clan built 12 forts.  The area was what are now Hiayama and 
@@ -481,7 +490,9 @@ All municipalities in Hiyama are designated as depopulated areas.
 
 NOTE 
   
-#1  Hiyama sub-prefecture is divided into two areas, the northern 
+#1
+
+Hiyama sub-prefecture is divided into two areas, the northern 
 and the southern parts.  In the middle part, there was Kumaishi Town, 
 which was merged to Yakumo Town in Oshima sub-prefecture.  
 
@@ -489,21 +500,25 @@ Oshima sub-prefecture is located on the Pacific Ocean side.  Hiyama
 sub-prefecture is located on the Sea of Japal side.  There were many 
 reasons for the merger across sub-prefectures. 
 
-#2  In the case of Tokyo ( Chiyoda Ward, the representative data of 
-Japan ), the mean annual temperature is 15.4 degrees Celsius ( average 
-from 1981 to 2010 ).  The mean annual rainfall is 1,529 millimeters.  
-The climate of Tokyo is classified as Cfa ( humid subtropical ) by 
-Koeppen's climate classification. 
+#2
 
-As for the coldest month, the mean temperature of Tokyo is 5.2 degrees 
-Celsius in January ( average from 1981-2010 ).  The mean temperature of 
-Esashi is -0.8 degrees Celsius in January.
+In Toukyou ( Chiyoda Ward, the representative data of Japan ), the 
+mean annual temperature is 15.4 degrees Celsius ( average from 1981 to 
+2010 ).  The mean annual rainfall is 1,529 millimeters.  The climate 
+is classified as Cfa ( humid subtropical ) by Koeppen's climate 
+classification. 
+
+As for the coldest month, the mean temperature of Toukyou is 5.2 
+degrees Celsius in January ( average from 1981-2010 ).  The mean 
+temperature of Esashi is -0.8 degrees Celsius in January.
  
-As for the hottest month, the mean temperature of Tokyo is 26.4 degrees 
-Celsius in August.  The mean temperature of Esashi is 22.6 degrees 
-Celsius in August.
+As for the hottest month, the mean temperature of Toukyou is 26.4 
+degrees Celsius in August.  The mean temperature of Esashi is 22.6 
+degrees Celsius in August.
   
-#3  Takeshirou Matsuura ( 1818-1888 ) was an explorer of Ezo ( old 
+#3
+
+Takeshirou Matsuura ( 1818-1888 ) was an explorer of Ezo ( old 
 Hokkaidou ) in the Edo era.  He documented place names in Ezo island 
 and published the book ``Ezo region county name survey report ( Ezochi-
 gunmei-no-gui-torishirabe-sho ).''  
@@ -522,19 +537,22 @@ located in what is now the Touhoku region.  In their home land, the
 clan built Hiyama Castle, which was located in what is now Akita 
 Prefecture. 
 	
-( For the old 12 forts, see Kaminokuni Town in Hiyama sub-prefecture. )
+( For the former 12 forts, see Kaminokuni Town in Hiyama sub-
+  prefecture. )
 ( Ezochi-gunmei-no-gui-torishirabe-sho = 
   \u8766\u5937\u5730\u90E1\u540D\u4E4B\u5100\u53D6\u8ABF\u66F8. )
  
-#4  The name ``Hi-yama'' means ``cypress mountain.''  In Honshuu 
-island, usually, cypress trees are called Hinoki.  In Hokkaidou island 
-and Aomori Prefecture, cypress trees are called Hiba.  Hinoki and 
-Hiba look alike, but they are different trees.
+#4
+
+The name ``Hi-yama'' means ``cypress mountain.''  In Honshuu island, 
+usually, cypress trees are called Hinoki.  In Hokkaidou island and 
+Aomori Prefecture, cypress trees are called Hiba.  Hinoki and Hiba look 
+alike, but they are different trees.
  
-Houryuuji Temple is the oldest wooden building in the country.  It was 
-rebuilt in 670.  The temple is made of Hinoki trees.  Temple carpenters 
-( ``miya-daiku'' ) consider Hinoki to be the best wood for construction 
-( by Nihei lab 2024-2025a ).
+Hou-ryuu-ji Temple ( Buddhist temple ) is the oldest wooden building in 
+the country.  It was rebuilt in 670.  The temple is made of Hinoki 
+trees.  Temple carpenters ( ``miya-daiku'' ) consider Hinoki to be the 
+best wood for construction ( by Nihei lab 2024-2025a ).
 
 Another name of Hiba trees is Hinoki-asunaro.  It means ``tomorrow, it 
 will be Hinoki trees'' in Japanese.  This means that the wood of Hiba 
@@ -563,7 +581,9 @@ butsu ).
 ( For the oldest building in Hokkaidou, see Kaminokuni Town in Hiyama 
   sub-prefecture. )
  
-#5  High school teacher Masao Kanamori says ; ``Hiyama's culture is 
+#5
+
+High school teacher Masao Kanamori says ; ``Hiyama's culture is 
 different from other parts in Hokkaidou.  You will see it when you 
 visit festivals.'' 
  _________________
@@ -692,8 +712,8 @@ zawa, and Kami-oyobe.  In 1940 ( Shouwa 15 ), Fukuyama Town was renamed
 Matsumae Town.  In 1954 ( Shouwa 29 ), Matsumae Town merged the 
 villages of Ooshima, Kojima, and Oosawa.  #5 
 
-( For the Boshin War, see Hakodate City in Oshima sub-prefecture. )
 ( For Tate Castle, see Assabu Town in Hiyama sub-prefecture. ) 
+( For the Boshin War, see Hakodate City in Oshima sub-prefecture. )
 ( Fukuyama = \u798F\u5C71.  Ooshima = \u5927\u5CF6.  Eramachi = 
   \u6C5F\u826F\u753A.  Haraguchi = \u539F\u53E3.  Kiyobe = 
   \u6E05\u90E8.  Kojima = \u5C0F\u5CF6.  Nebuta = \u6839\u90E8\u7530. 
@@ -729,23 +749,24 @@ FISHERIES = squid ( flying squid 540 tons in 2017, other squid 154 ),
 tuna 92, Pacific cod 61, Konbu kelp ( cultured ) 57, octopus 49, sharks 
 47, olive flounder 6, shrimp/prawns 5, walleye pollock 4, abalone 
 ( cultured ) 2, yellowtail 1, herring -, other fish 29+X, and other 
-marine animals 11. #8 
+marine animals 11.  #8 
 
 As for sightseeing, Matsumae Castle is famous for cherry blossoms.  In 
 the castle, there is a botanical garden with 10,000 cherry trees of 250 
 varieties.  #9 
 
-There are many temples in Matsumae, because it was a castle town.  In 
-the past, monks were like civil servants.  They could read and write.  
-They documented names of people and places.  Today, tourists can 
+There are many Buddhist temples in Matsumae, because it was a castle 
+town.  In the past, monks were like civil servants.  They could read 
+and write.  They documented names of people and places.  Today, 
 observe buildings and gardens in temples. 
  
 NOTE 
  
-#1  The southernmost of Hokkaidou island is Cape Shirakami.  It is 
-located along National Route 228 in Matsumae Town.  The latitude is 41 
-degrees 23.87 minutes north.  The longitude is 140 degrees 11.86 
-minutes east. 
+#1
+
+The southernmost of Hokkaidou island is Cape Shirakami.  It is located 
+along National Route 228 in Matsumae Town.  The latitude is 41 degrees 
+23.87 minutes north.  The longitude is 140 degrees 11.86 minutes east. 
 
 If small islands are counted, the southernmost of Hokkaidou Prefecture 
 is Kojima island.  Kojima island is also called Matsumae-kojima or 
@@ -766,11 +787,12 @@ shelters for fishing boats exist in these islands.  These islands are
 breeding grounds of seabirds such as murre ( mi'-ar ) ( ``umi-
 garasu'' ) and streaked shearwater ( ``oo-mizunagui-dori'' ).
 
-#2  Across the Tsugaru Strait, the distance between the Matsumae 
-Peninsula and the Tsugaru Peninsula is 19.5 kilometers.  ( The Tsugaru 
-Peninsula is located in Aomori Prefecture.  The length is measured 
-between Cape Shirakami in Matsumae Town and Cape Tappi-zaki in 
-Sotogahama Town. )
+#2
+
+Across the Tsugaru Strait, the distance between the Matsumae Peninsula 
+and the Tsugaru Peninsula is 19.5 kilometers.  ( The Tsugaru Peninsula 
+is located in Aomori Prefecture.  The length is measured between Cape 
+Shirakami in Matsumae Town and Cape Tappi-zaki in Sotogahama Town. )
 
 The distance between the Kameda Peninsula and the Shimokita Peninsula 
 is 19.0 kilometers.  ( The Kameda Peninsula is located in Hakodate 
@@ -785,10 +807,12 @@ shallower.
 ( For the Tsugaru Strait, see Hakaodate City in Oshima sub-
   prefecture. ) 
  
-#3  In 1457, the warlord Nobuhiro Takeda ended Koshamain's War.  
-Nobuhiro Takeda was a vassal of the Andou clan.  Then, he inherited the 
-Kakizaki clan, which was also a vassal of the Andou clan.  Around 1549, 
-his great-grandson, Suehiro Kakizaki, made peace with Ainu chiefs.  
+#3
+
+In 1457, the warlord Nobuhiro Takeda ended Koshamain's War.  Nobuhiro 
+Takeda was a vassal of the Andou clan.  Then, he inherited the Kakizaki 
+clan, which was also a vassal of the Andou clan.  Around 1549, his 
+great-grandson, Suehiro Kakizaki, made peace with Ainu chiefs.  
 
 In 1593, Yoshihiro Kakizaki, son of Suehiro Kakizaki, became 
 independent from the Andou clan.  He was able to ask Hideyoshi Toyotomi 
@@ -814,14 +838,18 @@ old family name.
 
 ( For Nobuhiro Takeda, see Kaminokuni Town in Hiyama sub-prefecture. ) 
  
-#4  In Hokkaidou, 1st-class ( ``ikkyuu'' ) municipalities and 2nd-class 
+#4
+
+In Hokkaidou, 1st-class ( ``ikkyuu'' ) municipalities and 2nd-class 
 ( ``nikyuu'' ) municipalities were designated from 1899 to 1943.  The 
 Hokkaidou government subsidized 2nd-class municipalities.  It was a 
 pioneering period. 
  
-#5  As for the former Sumiyaki-zawa village, the name ``Sumi-yaki-
-zawa'' means ``charcoal, burn, stream'' in Japanese.  The name evokes 
-an image of a rural area. 
+#5
+
+As for the former Sumiyaki-zawa village, the name ``Sumi-yaki-zawa'' 
+means ``charcoal, burn, stream'' in Japanese.  The name evokes an image 
+of a rural area. 
 
 Novelist Sei Itou was from Sumiyaki-zawa village.  He was influenced by 
 the Irish novelist James Joyce.  He was one of the translators of 
@@ -836,14 +864,18 @@ the guts.
 
 ( For Sei Itou, see Otaru City in Shiribeshi sub-prefecture. )
 
-#6  Fukuyama Castle is the former name of Matsumae Castle.  Fukuyama 
-Castle was designated as National Treasure ( Kokuhou ).  It burned down 
-in 1949.  Currently, the only national treasure in Hokkaidou is a clay 
+#6
+
+Fukuyama Castle is the former name of Matsumae Castle.  Fukuyama Castle 
+was designated as National Treasure ( Kokuhou ).  It burned down in 
+1949.  Currently, the only national treasure in Hokkaidou is a clay 
 figurine, which was dug out from a potato field.
 
 ( For national treasure, see Hakodate City in Oshima sub-prefecture. )
  
-#7  Matsumae Town is a sister city with Oumi-hachiman City in Shiga 
+#7
+
+Matsumae Town is a sister city with Oumi-hachiman City in Shiga 
 Prefecture and Yanagawa Town ( now Date City ) in Fukushima Prefecture. 
 The reasons date back to the Edo era as follows.
 
@@ -861,7 +893,9 @@ of the vassals became ``rounin'' ( jobless samurai ).  They lived in
 hardship for 14 years until the Matsumae Domain was returned to Ezo in 
 1821. 
 
-#8  Dried flying squid is called ``surume'' in Japanese.  Matsumae Town 
+#8
+
+Dried flying squid is called ``surume'' in Japanese.  Matsumae Town 
 and neighboring Fukushima Town are the largest producers of dried 
 flying squid in the country.
 
@@ -880,7 +914,9 @@ herring roe.  A variety of Matsumae-zuke are sold at the souvenir shop
 ``Dosanko Plaza'' in Sapporo Station.  In the past, when herring 
 catches were poor, Matsumae-zuke without herring roe was sold. 
 
-#9  These are famous cherry blossom sites in Hokkaidou ; ( 1 ) Matsumae 
+#9
+
+These are famous cherry blossom sites in Hokkaidou ; ( 1 ) Matsumae 
 Castle ( in Matsumae Town, Oshima sub-prefecture ), ( 2 ) Go-ryou-kaku 
 Castle ( in Hakodate City, Oshima sub-prefecture ), ( 3 ) Rows of 
 cherry trees that lead to Noboribetsu Hot Spring ( in Noboribetsu City, 
@@ -897,13 +933,13 @@ yoshino in Matsumae Castle, ( 2 ) Somei-yoshino in Go-ryou-kaku Castle,
 
 The cherry blossom season varies from year to year.  In Matsumae Town, 
 it will be from late April to mid May.  In Shizunai Town ( now Shin-
-hidaka Town ), it will be from early May to mid May.  ( In Tokyo, it 
+hidaka Town ), it will be from early May to mid May.  ( In Toukyou, it 
 will be from late March to early April. )
 
 One of the oldest Somei-yoshino trees in the country grows at Matsumae 
 Castle.  It was planted in 1882 ( Meiji 15 ).  Somei-yoshino is the 
 most famous cherry variety in the country.  It was bred in Somei 
-village near Edo ( now central Tokyo ) in the end of the Edo era.  
+village near Edo ( now central Toukyou ) in the end of the Edo era.  
 Somei village was located near present-day Ikebukuro.
 
 Somei-yoshino was named after Mt. Yoshino, a famous cherry blossom site 
@@ -976,10 +1012,10 @@ established by the merger of Yoshioka, Reihige, and Miyanouta villages.
 In 1944 ( Shouwa 19 ), Fukushima Town was established.  In 1955 
 ( Shouwa 30 ), Fukushima Town and Yoshioka Village were merged.
 
-( For Koshamain's war, see Kaminokuni Town in Hiyama sub-prefecture. )
-( For the Tate Domain, see Matsumae Town in Oshima sub-prefecture. ) 
 ( For 1st-class and 2nd-class municipalities, see the note of Matsumae 
   Town. )
+( For Koshamain's war, see Kaminokuni Town in Hiyama sub-prefecture. )
+( For the Tate Domain, see Matsumae Town in Oshima sub-prefecture. ) 
 
 ( Shirafu = \u767D\u7B26.  Yoshioka = \u5409\u5CA1.  Reihige = 
   \u793C\u9AED.  Miyanouta = \u5BAE\u6B4C. )
@@ -1030,10 +1066,12 @@ which means the hometown of Sumou champions.
 
 NOTE  
 
-#1  The book ``Fukushima Town history ( Fukushima-chou-shi ), volume 
-2'' published in 1995 states the etymology of Fukushima as follows ; 
-``Once upon a time, Orikanai village was on the verge of 
-being abandoned, because of a large fire and poor fishing catches.  
+#1
+
+The book ``Fukushima Town history ( Fukushima-chou-shi ), volume 2'' 
+published in 1995 states the etymology of Fukushima as follows ; 
+``Once upon a time, Orikanai village was on the verge of being 
+abandoned, because of a large fire and poor fishing catches.  
 
 ( continue ) --> At the time, there was an oracle from Tsukisaki 
 Shrine, which said, `The name Orikanai must be changed to Fukushima.'  
@@ -1050,10 +1088,13 @@ signified the Fukushima River.  Seawater entered the estuary at high
 tide, or the river mouth meandered in a U-shape.  The etymology is the 
 same as Horokanai Town in Kamikawa sub-prefecture. 
 
-#2  These are old shrines in Fukushima Town ; ( 1 ) Tsukisaki Shrine, 
-reconstructed in 1492, ( 2 ) Fukushima Daijinguu Shrine, reconstructed 
-in 1573, ( 3 ) Shirafu Daijinguu Shrine, established in 1655 by the 
-Matsumae Domain, and ( 4 ) Kamaya Shrine, established in 1772. 
+#2
+
+These are old Shintou shrines in Fukushima Town.  ( 1 ) Tsukisaki 
+Shrine, reconstructed in 1492, ( 2 ) Fukushima Daijinguu Shrine, 
+reconstructed in 1573, ( 3 ) Shirafu Daijinguu Shrine, established in 
+1655 by the Matsumae Domain, and ( 4 ) Kamaya Shrine, established in 
+1772. 
 
 Shirafu Daijinguu Shirine preserves the traditional dance ``Shirafu-
 arauma-odori ( Shirafu, wild horse, dance ).''  The dance represented 
@@ -1064,9 +1105,11 @@ Kamaya Shrine is located in Shiogama district.  The name ``Shio-gama''
 is Japanese, which means ``salt, pot.''  It was derived from the 
 production of salt for sardine fishing.
 
-#3  The mountain's name ``Dai-sen-guen'' is Japanese.  It means 
-``large, thousand, houses.''  It signified that there were 1,000 houses 
-of gold miners.  During the Edo era, the Tokugawa Shogunate banned 
+#3
+
+The mountain's name ``Dai-sen-guen'' is Japanese.  It means ``large, 
+thousand, houses.''  It signified that there were 1,000 houses of gold 
+miners.  During the Edo era, the Tokugawa Shogunate banned 
 Christianity, but the regulation was loose in Ezo island ( now 
 Hokkaidou ), because the island was seen as an outer land 
 ( ``gaichi'' ). 
@@ -1076,20 +1119,24 @@ in Ezo island were executed.  At the site of the gold mine in Mt. Dai-
 sen-guen, there is an inscription that reads ``Christian martyrdom 
 ( ma'r-ta-dam ).''
 
-( For gold, see Naka-tonbetsu Town in Rumoi sub-prefecture. )
+( For gold, see Naka-tonbetsu Town in Souya sub-prefecture. )
  
-#4  As for the Fukuyama trail ( Fukuyama-kaidou ), the name 
-``Fukuyama'' means the former castle town of the Matsumae Domain.  The 
-Fukuyama trail connected Fukuyama Castle ( Matsume Castle ) and the 
-Port of Hakodate.  Matsumae Domain's samurai traveled the trail.
-The distance was 100 kilometers.
+#4
+
+As for the Fukuyama trail ( Fukuyama-kaidou ), the name ``Fukuyama'' 
+means the former castle town of the Matsumae Domain.  The Fukuyama 
+trail connected Fukuyama Castle ( Matsume Castle ) and the Port of 
+Hakodate.  Matsumae Domain's samurai traveled the trail.  The distance 
+was 100 kilometers.
 
 The Fukuyama trail was located in Ezo ( now Hokkaidou Prefecture ).  
 The Matsumae trail was located in Tsugaru ( now Aomori Prefecture ).
 
 ( For Matsumae trail, see Hokuto City in Oshima sub-prefecture. )
 
-#5  The Seikan Tunnel is an undersea railway tunnel, whose length is 54 
+#5
+
+The Seikan Tunnel is an undersea railway tunnel, whose length is 54 
 kilometers.  The Channel Tunnel or Le tunnel sous la Mance between 
 England and France is 50 kilometers.  Gotthard Base Tunnel in 
 Switzerland is 57 kilometers.  Cf. The total length of tunnels in a 
@@ -1111,13 +1158,14 @@ immigrants settled in the 12th century.
 ( For the Seikan undersea tunnel, see Kikonai Town and Hakodate City in 
   Oshima sub-prefecture. ) 
 
-#6  Cedar trees are not common in Hokkaidou island.  So, cedar pollen 
-fever is rare.  But, white birch ( ``Shira-kanba'' ) and alder ( ``Han-
-no-ki'' ) cause pollen fever, although the effects are weaker than 
-cedar.
+#6
+
+Cedar trees are not common in Hokkaidou island.  So, cedar pollen fever 
+is rare.  But, white birch ( ``Shira-kanba'' ) and alder ( ``Han-no-
+ki'' ) cause pollen fever, although the effects are weaker than cedar.
 
 I didn't hear about pollen fever when I was a child.  It was a good 
-time.  ( I caught pollen fever after I moved to Tokyo.  When I remove 
+time.  ( I caught pollen fever after I moved to Toukyou.  When I remove 
 the motorbike cover, yellow dust ( pollen ) rises up like smoke.  )
 
 In the past, cedar trees were small.  In addition, people may have 
@@ -1152,7 +1200,7 @@ The name ``Shiriuchi`` comes from ``cir-ot-i'' in Ainu language.  It
 means ``bird, exist, place.''  It signified the Shiriuchi River.  In 
 the Edo era, Shiriuchi was a hunting ground for hawks and falcons.  
 Young hawks and falcons were caught and shipped to Edo ( now central 
-Tokyo ) for falconry.  #1
+Toukyou ) for falconry.  #1
 
 HISTORY
 
@@ -1228,18 +1276,20 @@ is the vegetable included in Gyouza dumplings.  #4  #5
  
 NOTE  
  
-#1  In the Edo era, the Matsumae Domain traded hawks and falcons.  
-( In Japanese, hawk is ``taka'' and falcon is ``hayabusa.'' )  There 
-were many bird-catching places in Ezo ( now Hokkaidou ).  Shiriuchi was 
-one of the best places. 
+#1
+
+In the Edo era, the Matsumae Domain traded hawks and falcons.  ( In 
+Japanese, hawk is ``taka'' and falcon is ``hayabusa.'' )  There were 
+many bird-catching places in Ezo ( now Hokkaidou ).  Shiriuchi was one 
+of the best places. 
 
 Hawk catchers ( ``taka-machi'' ) searched for the nests of hawk and 
 falcon nests in summer.  They wintered in Ezo, caught hawk chicks in 
 spring, and handed them to the Matsumae Domain.
 
-Young hawks and falcons were shipped to Edo ( now central Tokyo ).  The 
-Tokugawa Shogunate trained them for falconry.  Feathers of hawks were 
-also traded for making arrow fletchings. 
+Young hawks and falcons were shipped to Edo ( now central Toukyou ).  
+The Tokugawa Shogunate trained them for falconry.  Feathers of hawks 
+were also traded for making arrow fletchings. 
 
 Ainu people also caught hawks and falcons.  They hid in huts nearby 
 streams.  Using salmon as lure, Ainu hunters caught the birds by 
@@ -1256,21 +1306,23 @@ washi'' ) inhabit in western Hokkaidou.  Their feathers were also
 traded in the Edo era.  Ainu people called Pacific sea eagles 
 ``kapatcir-kamuy,'' which means ``flat-bird, god.''
 
-#2  Shiriuchi has a long history of Japanese immigration.  Wakimoto 
-Shrine in Kitsune-goshi district was established in 1239.  Raikou 
-Shrine in the center of the town was established in 1244.  Shiriuchi 
-Hot Spring was discovered by gold miners in 1247.  These are the oldest
-ones in Hokkaidou.
+#2
 
-In the past, priests at shrines were like village chiefs.  They 
-documented names of places and poeple.  ( Many shrines in Tokyo are 
-newer than those in Shiriuchi ( by Nihei lab 2023-2025 ). )  
+Shiriuchi has a long history of Japanese immigration.  Wakimoto Shrine 
+in Kitsune-goshi district was established in 1239.  Raikou Shrine in 
+the center of the town was established in 1244.  Shiriuchi Hot Spring 
+was discovered by gold miners in 1247.  These are the oldest ones in 
+Hokkaidou.
 
+In the past, priests at Shintou shrines were like village chiefs.  They 
+documented names of places and poeple.  ( Many Shintou shrines in 
+Toukyou are newer than those in Shiriuchi ( by Nihei lab 2023-2025 ). ) 
+ 
 Fort Wakimoto-date was located in Wakimoto district in Shiriuchi Town.  
 It was located near Cape Kitsune-goshi.  The fort was destroyed by the 
 Ainu forces during Koshamain's War. 
 
-( For gold, see Naka-tonbetsu Town in Rumoi sub-prefecture. )
+( For gold, see Naka-tonbetsu Town in Souya sub-prefecture. )
 ( For Koshamain's War, see Kaminokuni Town in Hiyama sub-prefecture. )
  
 Cape Kitsune-goshi is located to the south of Wakimoto district.  
@@ -1283,9 +1335,11 @@ Japanese, which means ``arrow, go through.''  Cape Yagoshi is a sea
 cliff whose altitude is 121 meters.  The road along the sea is a dead 
 end.   
 
-#3  At the observatory of Shiriuchi Roadside Station, there is a time 
-table for the Shinkansen trains ( bullet trains ) entering and leaving 
-the undersea Seikan Tunnel.
+#3
+
+At the observatory of Shiriuchi Roadside Station, there is a time table 
+for the Shinkansen trains ( bullet trains ) entering and leaving the 
+undersea Seikan Tunnel.
 
 The former Shiriuchi Station on the Kaikyou Line became Yu-no-sato 
 Signal Station.  The signal station is the end of the undersea tunnel.  
@@ -1297,7 +1351,9 @@ is Shiriuchi Hot Spring.
 
 ( For the Kaikyou Line, see Kikonai Town in Oshima sub-prefecture. )
  
-#4  Oysters are cultivated in the open sea in Shiriuchi.  It's a unique 
+#4
+
+Oysters are cultivated in the open sea in Shiriuchi.  It's a unique 
 method.  Generally, oysters are cultivated along the coast.  Shiriuch 
 Oysters are advertised at tasting events in Susukino.  ( Susukino is 
 the largest entertainment district in Hokkaidou.  The location is 
@@ -1308,23 +1364,24 @@ Shiriuchi Thermal Power Plant.  The location is Motomachi district.
 The power plant uses heavy oil and Orimulsion ( ori-ma'l-sion ).  
 Orimulsion is a new fossil fuel. 
 
-In summer, the power plant sells electricity to Tokyo Electric Power 
-Company.  Tokyo metropolitan areas consume a huge amount of electricity 
-in summer.  The climate is hot and humid.
+In summer, the power plant sells electricity to Toukyou Electric Power 
+Company.  Toukyou metropolitan areas consume a huge amount of 
+electricity in summer.  The climate is hot and humid.
 
 The electricity is transmitted through the undersea Seikan Tunnel.  The 
 power cables are direct current ( ``choku-ryuu'' ).  Direct current is 
-suitable for high voltage and long-distance transmission.  
-(  Generally, electricity is transmitted as alternating current 
-( ``kouku-ryuu'' ). )
- 
-#5  Shiriuchi is the hometown of Saburou Kitajima, a famous Enka 
-singer.  Enka is a traditional style Japanese music.  There is Saburou 
-Kitajima Memorial Museum in Hakodate City. 
+suitable for high voltage and long-distance transmission.  ( Generally, 
+electricity is transmitted as alternating current ( ``kouku-ryuu'' ). )
+  
+#5
 
-When I guided an excursion in Tokyo, we passed by the Enka singer's 
+Shiriuchi is the hometown of Saburou Kitajima, a famous Enka singer.  
+Enka is a traditional style Japanese music.  There is Saburou Kitajima 
+Memorial Museum in Hakodate City. 
+
+When I guided an excursion in Toukyou, we passed by the Enka singer's 
 residence.  It was near the former site of another Enka singer's 
-residence.  Students did not know them.  Time has passed.  
+residence.  Students didn't know them.  Time has passed.  
 
 This is a lyric from one of Kitajima's songs ;
 ``Yosaku-wa-ki-wo-kiru, hey hey hoo
@@ -1373,9 +1430,11 @@ In 1919 ( Taishou 8 ), Kikonai Village ( 1st-class municipality ) was
 established.  In 1942 ( Shouwa 17 ), Kikonai Town was established.  #1  
 #2
 
-( For the old 12 forts, see Kaminokuni Town in Hiyama sub-prefecture. ) 
 ( For 1st-class and 2nd-class, see the note of Matsumae Town 
   municipalities. )
+( For the former 12 forts, see Kaminokuni Town in Hiyama sub-
+  prefecture. ) 
+
 ( Kamatani = \u91DC\u8C37.  Izumisawa = \u6CC9\u6CA2.  Sakkari = 
   \u672D\u82C5. )
 
@@ -1426,7 +1485,9 @@ however, the location is Hokkaidou island.
  
 NOTE 
  
-#1  In 1869 ( Meiji 2), during the Boshin War, the battle of Kikonai 
+#1
+
+In 1869 ( Meiji 2), during the Boshin War, the battle of Kikonai 
 happened.  The Meiji government forces advanced from Esashi to 
 Hakodate.  The former Tokugawa Shogunate forces counter-attacked. 
 
@@ -1445,10 +1506,13 @@ ambassador to Korea.
   Nakahama_Manjir%C5%8D )
 ( For the Boshin War, see Hakodate City in Oshima sub-prefecture. ) 
 
-#2  In 1871 ( Meiji 4 ), Kanrin-maru ( a ship ) sank at Cape Saraki in 
+#2
+
+In 1871 ( Meiji 4 ), Kanrin-maru ( a ship ) sank at Cape Saraki in 
 Kikonai.  Along National Route 228, there is a monument to the ship 
 that reads, ``End of Kanrin-mauru ( Kanrin-maru-shuuen-no-chi ).''
-The anchor of the ship is displayed in Kikonai Town's museum. 
+The anchor of the ship is displayed in Kikonai Town's museum.  
+( Thinking about an anchor calms me down. ) 
 
 Kanrin-maru was a battleship, which the Tokugawa Shogunate purchased 
 from the Netherlands.  It was the first Japanese ship that crossed the 
@@ -1469,10 +1533,12 @@ At the time, Kanrin-maru carried 401 immigrants from Shiroishi Castle
 in the Sendai Domain ( now Miyagui Prefecture ) to Hokkaidou.  No one 
 died in the the shipwreck.
   
-#3  Hokkaidou Shinkansen opened in 2016.  It is operated by JR 
-Hokkaidou.  In the same year, the Esashi Line changed to the Dou-nan 
-Isaribi Railway.  The operation was transferred from JR Hokkaidou to 
-South Hokkaidou Railway Company ( Dou-nan-isaribi-tetsudou ). 
+#3
+
+Hokkaidou Shinkansen opened in 2016.  It is operated by JR Hokkaidou.  
+In the same year, the Esashi Line changed to the Dou-nan Isaribi 
+Railway.  The operation was transferred from JR Hokkaidou to South 
+Hokkaidou Railway Company ( Dou-nan-isaribi-tetsudou ). 
 
 The Esashi Line ran along the Tsugaru Strait.  It connected Go-ryou-
 kaku Station in Hakodate City and Kikonai Station.  In the past, the 
@@ -1514,7 +1580,9 @@ In the past, many politicians promised many railways.
 ( For the undersea tunnel, see Fukushima Town in Oshima sub-
   prefecture. )
 
-#4  Kikonai was a transportation hub in the Matsumae Peninsula. 
+#4
+
+Kikonai was a transportation hub in the Matsumae Peninsula.  
 Woodworking factories were operated near the station.  In the past, 
 even television sets were made from wooden boards.  Today, in Japanese 
 offices, all desks and chairs are made of steel.  ( My office is like a 
@@ -1525,13 +1593,15 @@ desk and wooden door in the office.  When I visited a professor in Sao
 Paulo, Brazil, I also found a wooden desk, wooden chairs, and a wooden 
 book shelf in the office.
 
-#5  As for dairy farming in Kikonai, in 1897 ( Meiji 30 ), a milk 
+#5
+
+As for dairy farming in Kikonai, in 1897 ( Meiji 30 ), a milk 
 collection facility was built.  Horse-drawn carriage transported raw 
 milk to Toubetsu Trappist Monastery.  In 1919 ( Taishou 8 ), condensed 
 milk butter ( ``ren-nyuu'' butter ) was produced in Kikonai.
-
+ 
+( For dairy farming, see Eniwa City in Ishikari sub-prefecture. ) 
 ( For the monastery, see Hokuto City in Oshima sub-prefecture. )
-( For dairy farming,  see Eniwa City in Ishikari sub-prefecture. ) 
  _________________
 |                 |
 |     HOKUTO      |
@@ -1581,10 +1651,11 @@ established by the merger of Moheji and Ishibetsu villages.  In 1918
 Kamiiso Town merged Mobetsu Village.  In 1957 ( Shouwa 32 ), Oono Town 
 was established.
 
-( For the former 12 forts in south Hokkaidou, see Kaminokuni Town in 
-  Esashi sub-prefecture. ) 
 ( For 1st-class and 2nd-class municipalities, see the note of Matsumae 
   Town. ) 
+( For the former 12 forts in south Hokkaidou, see Kaminokuni Town in 
+  Esashi sub-prefecture. ) 
+
 ( Moheji = \u8302\u8FBA\u5730.  Ishibetsu = \u77F3\u5225.  Mobetsu = 
   \u8302\u5225. ) 
 
@@ -1604,9 +1675,9 @@ Esashi Town.  Shin-hakodate-hokuto Station on the Hokkaidou Shinkansen
 is located near the border with Nanae Town.  It used to be Oshima-oono 
 Station on the Hakodate Main Line.   
 
+( For Fukuyama-kaidou, see Fukushima Town in Oshima sub-prefecture. )
 ( For the Dou-nan Isaribi Railway, see Kikonai Town in Oshima sub-
   prefecture. ) 
-( For Fukuyama-kaidou, see Fukushima Town in Oshima sub-prefecture. )
 
 INDUSTRY 
 
@@ -1644,7 +1715,9 @@ tree-lined avenues.  #5
 
 NOTE 
 
-#1  The former Kamiiso Town was located along Hakodate Bay.  The name 
+#1
+
+The former Kamiiso Town was located along Hakodate Bay.  The name 
 ``Kamiiso'' was derived from Kamiiso county, which was established in 
 1869 ( Meiji 2 ).  The county's name was suggestion by Takeshirou 
 Matsuura, who explored Ezo ( now Hokkaidou ) in the Edo era.
@@ -1671,14 +1744,16 @@ Fukuyama trail ( Fukuyama-kaidou ) was located in Ezo ( now Hokkaidou )
 and connected Matsumae and Hakodate.  Fukuyama was the castle town of 
 the Matsumae Domain.
 
+( For Fukuyama-kaidou, see Fukushima Town in Oshima sub-prefecture. )
 ( For Matsumae Island Village Record, see Hakodate City in Oshima sub-
   prefecture. )
-( For Fukuyama-kaidou, see Fukushima Town in Oshima sub-prefecture. )
  
-#2  We took a bus excursion that traveled on National Route 228 
-( Fukuyama-kaidou ).  I saw many concrete wave-breaking blocks along 
-the coast of Hokuto City.  Hokuto is one of the largest cement 
-producing municipalities in the country.
+#2
+
+We took a bus excursion that traveled on National Route 228 ( Fukuyama-
+kaidou ).  I saw many concrete wave-breaking blocks along the coast of 
+Hokuto City.  Hokuto is one of the largest cement producing 
+municipalities in the country.
 
 Wave-breaking blocks are known as Tetrapods.  The name was the patent 
 of Neyrpic, a French company.  I heard this story from Professor Tsuguo 
@@ -1693,13 +1768,16 @@ were easy to install, but they were less durable.  The metal hook
 corrodes ( co-ro'-ds ).''
 
 ( Professor Tsuguo Sunamura, taken in 1995 --> HTTP://2242.MOOO.COM/
-  POSI/95IZU/INDEX.HTM --> 1452.JPG ; Tetrapods with metal hooks --> 
-  1473.JPG ) 
+  POSI/95IZU/1452.JPG ; 
+  Tetrapods with metal hooks, taken in 1995 --> HTTP://2242.MOOO.COM/
+  POSI/95IZU/1473.JPG ) 
 
-#3  As for cement industry in Hokuto City, Taiheiyou Cement Kamiiso 
-Factory extracts limestone at Garou Mine.  The cement is transported to 
-cargo ships via a long jetty.  The length is two kilometers.  The jetty
-makes a long line on the map.  
+#3
+
+As for cement industry in Hokuto City, Taiheiyou Cement Kamiiso Factory 
+extracts limestone at Garou Mine.  The cement is transported to cargo 
+ships via a long jetty.  The length is two kilometers.  The jetty makes 
+a long line on the map.  
  
  In 1884 ( Meiji 17 ), a cement factory was established.  In 1890 
 ( Meiji 23 ), Hokkaidou Cement was established.  In 1915 ( Taishou 4 ), 
@@ -1721,9 +1799,11 @@ in 1923 ( Taishou 12 ) to prevent it from burning by fire.  ( I like
 old utility poles, although tourist destinations remove utility 
 poles. ) 
 
-#4  The former Oono Town is the birth place of paddy rice cultivation 
-in Hokkaidou.  It started in the Edo era.  There is a stone monument 
-that commemorates the first paddy rice.  The inscription reads ; 
+#4
+
+The former Oono Town is the birth place of paddy rice cultivation in 
+Hokkaidou.  It started in the Edo era.  There is a stone monument that 
+commemorates the first paddy rice.  The inscription reads ; 
 
 ``In 1692, a farmer Sakuemon opened a paddy filed of 450 tsubo ( 0.15 
 hectares ) using natural water and gained rice of 10-hyou.''  ( One 
@@ -1753,13 +1833,15 @@ climate paddy rice cultivation.  In the Meiji period, he obtained rice
 seeds in Oono village, and succeeded in paddy rice cultivation in the 
 Ishikari Plain.
 
-( For Sontoku Ninomiya's thoughts, see Hokuryuu Town in Sorachi sub-
-  prefecture and Toyokoro Town in Tokachi sub-prefecture. ) 
 ( For rice cultivation under a cold climate, see Kita-hiroshima City in 
   Ishikari sub-prefecture. )
+( For Sontoku Ninomiya's thoughts, see Hokuryuu Town in Sorachi sub-
+  prefecture and Toyokoro Town in Tokachi sub-prefecture. ) 
 
-#5  Toubetsu Trappist Monastery sells butter, ice cream, and cookies.  
-The monastery was established in 1896 ( Meiji 29 ).  The monks started 
+#5
+
+Toubetsu Trappist Monastery sells butter, ice cream, and cookies.  The 
+monastery was established in 1896 ( Meiji 29 ).  The monks started 
 dairy farming.  Dairy farming spread to farmers in neighboring Kikonai 
 village in the Meiji period.
 
@@ -1791,7 +1873,7 @@ Bay, Tsugaru Strait, and the Pacific Ocean.  It occupies the southeast
 of the Oshima Peninsula.  This part is called the Kameda Peninsula. 
 
 Mt. Hakodate stands from Hakodate Bay.  The height is 334 meters.  
-( Tokyo Tower is 333 meters. )  The area of Hakodate was newly formed 
+( Toukyou Tower is 333 meters. )  The area of Hakodate was newly formed 
 in 2004 by the merger of Hakodate City, Toi Town, Minami-kayabe Town, 
 Esan Town, and Todohokke Village.  #1  #2  #3 
 
@@ -1834,11 +1916,11 @@ former 1st-class municipality ).  Zenigame-zawa Village was located
 near Hakodate Airport.  In 1973 ( Shouwa 48 ), Hakodate City merged 
 Kameda City.  #6
 
+( For 1st-class municipality, see the note of Matsumae Town. )
 ( For the Andou clan and Koshamain's War, see Kaminokuni Town in Hiyama 
   sub-prefecture. ) 
 ( For Ward  ( ``ku'' ) in Hokkaidou, see Kushiro Town in Kushiro sub-
   prefecture. )
-( For 1st-class municipality, see the note of Matsumae Town. )
 
 ( Yunokawa = \u6E6F\u5DDD.  Zenigame-zawa = \u92AD\u4E80\u6CA2. 
   Kameda = \u4E80\u7530. ) 
@@ -1894,9 +1976,9 @@ slopes ( ``saka-michi'' ) filmed in movies and TV dramas.  #10
 
 Go-ryou-kaku Castle was built inland to avoid artillery from foreign 
 ships.  In 1854, the Tokugawa Shogunate singed the Japan-US Treaty of 
-Peace and Amity.  From 1857 to 1866, they constructed Go-ryou-kaku.  
-Go-ryou-kaku became the last castle of the Tokugawa Shogunate forces.  
-It fell during the Boshin War.
+Peace and Amity ( Nichibei-washin-jouyaku ).  From 1857 to 1866, the
+Tokugawa Shogunate constructed Go-ryou-kaku Castle.  It became the last 
+castle of the shogunate and fell during the Boshin War.
 
 Today, tourists enjoy climbing up an observation tower in front of the 
 castle.  The height of the tower is 100 meters.  Visitors can look down 
@@ -1915,9 +1997,10 @@ Hakodate Station.  #12
 
 NOTE
   
-#1  Mt. Hakodate is also called Ga-gyuu-san in Japanese.  It means 
-``lying-cow mountain.''  The shape of the mountain resembles a lying 
-cow.
+#1  
+
+Mt. Hakodate is also called Ga-gyuu-san in Japanese.  It means ``lying-
+cow mountain.''  The shape of the mountain resembles a lying cow.
 
 In the Meiji period, the top of Mt. Hakodate was removed by 14 meters, 
 because guns were placed.  Mt. Hakodate was a military base from the 
@@ -1927,7 +2010,7 @@ Some people say that the nature of Mt. Hakodate remains, because only
 military personnel entered the mountain.  But, after the fort called 
 Hako-date was built in the 15th century, people cut down native trees.  
 In the past, trees were used not only as building materials but also 
-as energy ( firewood ).
+as energy ( firewood ). 
 
 Today, cedar trees can be seen along the tourist road of Mt. Hakodate.  
 Buses go on the road and a ropeway runs above it.  The ceder forest 
@@ -1954,7 +2037,9 @@ Hakodate Station in the Shouwa period.  Currently, it is located in
 front of Go-ryou-kaku Castle.  When I visited Hakodate in 2013, I found 
 many ``For Rent'' signs on the second floor near Hakodate Station.
  
-#2  The Tsugaru Strait has two necks.  ( A neck is a narrow part of the 
+#2
+
+The Tsugaru Strait has two necks.  ( A neck is a narrow part of the 
 sea. )  The east neck is located between the Kameda Peninsula and the 
 Shimokita Peninsula.  ( The Kameda Peninsula is located in Hakodate 
 City and the Shimokita Peninsula is located in Aomori Prefecture. )
@@ -1965,13 +2050,16 @@ Town and the Tsugaru Peninsula is located in Aomori Prefecture. )  The
 Seikan Tunnel was constructed under the west neck.  The west neck is 
 longer but shallower.
 
-( For the Tsugaru Strait, see Matsumae Town in Oshima sub-prefecture. ) 
 ( For the Seikan undersea tunnel, see Fukushima Town in Oshima sub-
   prefecture. ) 
+( For the Tsugaru Strait, see Matsumae Town in Oshima sub-prefecture. ) 
    
-#3  The former Toi Town ( now Hakodate City ) was located in the 
-southern end of the Kameda Peninsula.  The name ``Toi'' comes from 
-``toi-o-i'' in Ainu language.  It means ``edible soil, exist, place.''  
+#3
+
+The former Toi Town ( now Hakodate City ) was located in the southern 
+end of the Kameda Peninsula.  The name ``Toi'' comes from ``toi-o-i'' 
+in Ainu language.  It means ``edible soil, exist, place.''  
+
 It signified that there was diatomite ( dai'-ato-maito ).  Diatomite is 
 called ``keisoudo'' in Japanese.  It is a fossil of diatom 
 ( ``keisou'' ).  It's edible.
@@ -2004,6 +2092,7 @@ Strait is good.  The tuna eat flying squid.
   \u677E\u524D\u5CF6\u90F7\u5E33. )
 
 * * * 
+
 The former Minami-kayabe Town ( now Hakodate City ) was located to the 
 east of the Kameda Peninsula.  The name ``Minami-kayabe'' means 
 ``south, kayabe.''
@@ -2031,6 +2120,7 @@ by war ).
   Usujiri = \u81FC\u5C3B. ) 
 
 * * *
+
 The former Esan Town ( now Hakodate City ) was located in the eastern 
 end of the Kameda Peninsula.  The area faces the Tsugaru Strait.
 
@@ -2053,6 +2143,7 @@ name was changed to Esan.  It was named after Mt. Esan.
 ( Esan = \u6075\u5C71.  Shirikishinai = \u5C3B\u5CB8\u5185. )
 
 * * *
+
 The former Todohokke ( \u6934\u6CD5\u83EF ) Village in Hakodate City 
 was located in the eastern end of the Kameda Peninsula.  It was the 
 smallest municipality in Hokkaidou.  The area was 25 square kilometers, 
@@ -2068,7 +2159,9 @@ After the Meiji period, in 1880 ( Meiji 13 ), the administrative office
 of Todohokke village was established.  In 1919 ( Taishou 8 ), Todohokke 
 Village ( 2nd-class municipality ) was established.
  
-#4  The Port of Hakodate was a natural port.  Japanese people called it 
+#4
+
+The Port of Hakodate was a natural port.  Japanese people called it 
 ``tsuna-shirazu ( rope, no need ).''  They also called it Tomoe Port 
 ( spiral port ) due to the spiral-like topography.
 
@@ -2079,7 +2172,7 @@ opened.  ( Shimoda is located in the Izu Peninsula, Shizuoka
 Prefecture. )
 
 ( The name ``Japan'' is English.  In Japanese, it is called ''Nihon.''  
-So, the name ``the Sea of Japan'' is 100 percent English. )  
+  So, the name ``the Sea of Japan'' is 100 percent English. )  
 
 Before the treaty was concluded, the commander of the East India 
 Squadron, Matthew Perry, had appeared in many ports in Japan.  Japanese 
@@ -2089,25 +2182,28 @@ Susquehanna.  It was called the black ship ( ``kuro-fune'' ).
  
 ( For steamers, see Takikawa City in Sorachi sub-prefecture. )
 
-In 1859, the Treaty of Amity and Commerce between Japan and the United 
-States of America ( Nichibei-syuukou-tsuushou-jouyaku ) was concluded.  
-It was concluded between the Tokugawa Shogunate and the United States 
-of America.  
+In 1858, the Ansei Five-Power Treaties ( Ansei-gokakoku-jouyaku ) was 
+signed between Japan (the Tokugawa Shogunate), the USA, the UK, Russia, 
+the Netherlands, and France.  The most influential of the treaties was 
+the Treaty of Amity and Commerce Between the United States and Japan 
+( Nichibei-shuukou-tsuushou-jouyaku).
 
 Then, along with Hakodate, the ports of Kanagawa ( now Yokohama ), 
 Nagasaki, Hyougo ( now Koube ), and Niigata were opened.  The Port of 
 Shimoda was closed instead of Kanagawa.  Foreign settlements were built 
-near the ports.  Cities of Edo ( now central Tokyo ) and Oosaka were 
+near the ports.  Cities of Edo ( now central Toukyou ) and Oosaka were 
 opened for foreign visitors.  
 
 Thus, Japanese isolationist policy was ended, due to the effort 
 ( pressure ) of Matthew Perry.  The isolationist policy continued for 
 250 years.  It was a period that resembled a perfect closed circle.
 
-#5  The Boshin War was a civil war between the new Meiji government 
-forces and the former Tokugawa Shogunate forces.  The final phase is 
-called the Hakodate War.  The former Tokugawa Shogunate forces aimed 
-to establish the Republic of Ezo.  ( Ezo is what is now Hokkaidou. ) 
+#5
+
+The Boshin War was a civil war between the new Meiji government forces 
+and the former Tokugawa Shogunate forces.  The final phase is called 
+the Hakodate War.  The former Tokugawa Shogunate forces aimed to 
+establish the Republic of Ezo.  ( Ezo is what is now Hokkaidou. ) 
 
 ( For the Boshin War, see Kikonai Town, Matsumae Town, Mori Town in 
   Oshima sub-prefecture, Assabu Town, Esashi Town, and Otobe Town in 
@@ -2133,8 +2229,8 @@ special forces of the Tokugawa Shogunate.
 Shinpachi Nagakura ( 1839-1915 ) was the strongest swordsman in 
 Shinsen-gumi.  There is a small plaque to him near the main gate of 
 Hokkaidou University.  He was born and raised in the Edo branch of the 
-Matsumae Domain.  ( Edo was the center of today's Tokyo.  The Matsumae 
-Domain ruled what is now south Hokkaidou in the Edo era. ) 
+Matsumae Domain.  ( Edo was the center of today's Toukyou.  The 
+Matsumae Domain ruled what is now south Hokkaidou in the Edo era. ) 
 
 Shinpachi Nagakura learned several swordsmanship schools in Edo.  Then, 
 he fled the Matsumae Domain and joined Shinsen-gumi.  After Shinsen-
@@ -2154,15 +2250,16 @@ Of all the swordsmanship schools that Shinpachi Nagakura learned, he
 got the highest rank ( ``menkyo-kaiden'' ) in Shintou-munen-ryuu.  
 Shintou-munen-ryuu features powerful sword strokes. 
 
-( For Takeaki Enomoto, see Utashinai City in Sorachi sub-prefecture. ) 
 ( For Shinpachi Nagakura, see Tsukigata Town in Sorachi sub-
   prefecture. ) 
+( For Takeaki Enomoto, see Utashinai City in Sorachi sub-prefecture. ) 
  
-#6  As for the former Kameda City ( now Hakodate City ), the name 
-``Kame-da'' is Japanese.  It means ``turtle, paddy field.''  It's a 
-good-luck name.  According to an old Chinese legend, turtle 
-( ``kame'' ) lives 10,000 years and cranes ( ``tsuru'' ) live 1,000 
-years.  
+#6
+
+As for the former Kameda City ( now Hakodate City ), the name ``Kame-
+da'' is Japanese.  It means ``turtle, paddy field.''  It's a good-luck 
+name.  According to an old Chinese legend, turtle ( ``kame'' ) lives 
+10,000 years and cranes ( ``tsuru'' ) live 1,000 years.  
 
 Kameda is a very old name whose Kanji characters were written on a map 
 drawn in the 1660s.  The place may have been called ``Kanmete'' in the
@@ -2196,11 +2293,12 @@ means ``Kameda main town'' in Japanese.
 ( For 1st-class and 2nd-class municipalities, see the note of Matsumae 
   Town. ) 
 
-#7  The Seikan train ferry operated from 1908 ( Meiji 41 ) to 1988 
-( Shouwa 63 ).  In September 1954, the train ferry Touya-maru was sunk 
-in the Touya-maru Typhoon ( Typhoon Marie ).  The shipwreck killed 
-1,155 people.  Then, plans for the Seikan undersea tunnel moved 
-forward.
+#7
+
+The Seikan train ferry operated from 1908 ( Meiji 41 ) to 1988 ( Shouwa 
+63 ).  In September 1954, the train ferry Touya-maru was sunk in the 
+Touya-maru Typhoon ( Typhoon Marie ).  The shipwreck killed 1,155 
+people.  Then, plans for the Seikan undersea tunnel moved forward.
 
 There is a famous song called Tsugaru-kaikyou-fuyu-gueshiki ( Tsugaru 
 Strait Winter Scene ).  The lyrics depict the people on the Sikan train 
@@ -2218,7 +2316,9 @@ close, because they are located in the same prefecture.  But, it takes
 4 hours by express train, 4 hours by expressway, and 5.5 hours by bus.  
 The route goes around Uchiura Bay ( Volcano Bay ).
 
-#8  The Exclusive Economic Zone ( EEZ, a 200 nautical mile zone ) was 
+#8
+
+The Exclusive Economic Zone ( EEZ, a 200 nautical mile zone ) was 
 activated in the 1980s.  ( 200 nautical mile is about 370 kilometers. ) 
 It ended North Ocean Fishing ( deep-sea fishing, ``hokuyou-gyogyou'' in 
 Japanese ).
@@ -2237,11 +2337,13 @@ Incidentally, there is ``mother'' in ``sea'' in French and Japanese.
 Namely, ``mer'' and ``mere'' ( m\u00E8re ) and  ``haha'' ( \u6BCD ) 
 and ``umi'' ( \u6D77 ). 
  
-#9  As for trade in Hakodate City, the main importing countries are 
-Russia ( coal, fish ), China ( fish ), and South Korea ( petroleum 
-products ).  The main exporting country is Panama ( flag-of-convenience 
-ships ) ( as of 2011, by Hakodate Customs ).  Coal from Russia is used 
-in the cement industry in Hokuto City.
+#9
+
+As for trade in Hakodate City, the main importing countries are Russia 
+( coal, fish ), China ( fish ), and South Korea ( petroleum products ).
+The main exporting country is Panama ( flag-of-convenience ships ) ( as 
+of 2011, by Hakodate Customs ).  Coal from Russia is used in the cement 
+industry in Hokuto City.
 
 As for ship-building, Hakodate Dock manufactures bulk carriers, cement 
 carriers, and fishing boats.  As for fishery, squid are caught near the 
@@ -2249,7 +2351,9 @@ coast from June to December.  During the fishing season, fishing lamps
 float on the sea.  It is a fantastic scene.  ( The fishing lamps taken 
 in 1998 --> HTTP://2242.MOOO.COM/POSI/98HOK/INDEX.HTM  --> 6052.JPG )
 
-#10  Traditional port cities are leaning topographically.  For example, 
+#10
+
+Traditional port cities are leaning topographically.  For example, 
 Hakodate, Nagasaki, Sao Fransisco, and Rio de Janeiro ( by Nihei lab 
 2023-2025 ).  Slopes in Hakodate are straight and lead to the sea.  The 
 landscape is unique.  Japan is a mountainous country and many roads 
@@ -2257,11 +2361,13 @@ curve along contours.
 
 ( For straight roads, see Yuni Town in Sorachi sub-prefecture. )
  
-#11  The center of Hakodate suffered many fires.  Large fires occurred 
-in 1879 ( Meiji 12 ), 1899 ( Meiji 32 ), 1907 ( Meiji 40 ), 1934 
-( Shouwa 9 ), and 1945 ( Shouwa 25, air raids ).  There is a buffer 
-zone near the city hall, where Tochi-no-ki ( horse chestnut, 
-marronnier ) trees are planted.
+#11
+
+The center of Hakodate suffered many fires.  Large fires occurred in 
+1879 ( Meiji 12 ), 1899 ( Meiji 32 ), 1907 ( Meiji 40 ), 1934 ( Shouwa 
+9 ), and 1945 ( Shouwa 25, air raids ).  There is a buffer zone near 
+the city hall, where Tochi-no-ki ( horse chestnut, marronnier ) trees 
+are planted.
 
 In Honshuu island, people say ``Mochi-no-ki trees prevent the spread of 
 fire.''  Mochi-no-ki is bird-lime holly, a kind of forever-
@@ -2274,11 +2380,13 @@ The bird sings in a beautiful sound.  There are competitions of the
 bird singing ( ``naki-awase'' ).  Today, capturing wild birds is 
 prohibited by law. 
   
-#12  I visited Hakodate in May 2013 and May 2017.  In both years, a 
-Toshizou Hijikata Look-alike Contest was held at Go-ryou-kaku Castle.  
-The winner in 2017 was a woman.  Toshizou Hijikawa was the commander of 
-the former Tokugawa Shogunate forces.  He dead in Hakodate at the end 
-of the Boshin War. 
+#12
+
+I visited Hakodate in May 2013 and May 2017.  In both years, a Toshizou 
+Hijikata Look-alike Contest was held at Go-ryou-kaku Castle.  The 
+winner in 2017 was a woman.  Toshizou Hijikawa was the commander of the 
+former Tokugawa Shogunate forces.  He dead in Hakodate at the end of 
+the Boshin War. 
 
 As for tram in Hakodate, a very old car runs.  In the old car, a young 
 ticket seller is on board.  If you see a red tram, you will be happy.  
@@ -2384,8 +2492,8 @@ HISTORY
  
 Mishima Shrine was built in 1532, during the Muromachi era.  It was 
 around the time that a Japanese village was established.  ( When a 
-Japanese village was established, a shrine was established ( by Nihei 
-lab 2023-2025 ). )
+Japanese village was established, a Shintou shrine was established ( by 
+Nihei lab 2023-2025 ). )
 
 During the Edo era, Nanae was a Japanese village.  It was governed by 
 the Matsumae Domain.  ( Edo era continued from 1603 to 1868. ) 
@@ -2448,10 +2556,12 @@ Views of Japan.  Niyama Ski Ground is located next to Niyama Station.
 
 NOTE
  
-#1  As for Nanae Governmental Farm, in 1863, the Gaertner brothers 
-rented the land and started Western-style farming.  They came from 
-Prussia ( now Germany ).  The farm area was 990 hectares.  ( Cf. 
-Hokkaidou University Ranch in Hidaka sub-prefecture is 470 hectares. )  
+#1
+
+As for Nanae Governmental Farm, in 1863, the Gaertner brothers rented 
+the land and started Western-style farming.  They came from Prussia 
+( now Germany ).  The farm area was 990 hectares.  ( Cf. Hokkaidou 
+University Ranch in Hidaka sub-prefecture is 470 hectares. )  
 
 The Gaertner brothers primarily engaged in trade and consulship.  They 
 also cultivated apples, pears, gooseberries, cherries, and vegetables.  
@@ -2469,8 +2579,8 @@ government bought the land back.  On the former site, Nanae Government
 Farm ( Nanae-kan-en ) opened.  
 
 To introduce Western-style farming to Hokkaidou, the Meiji government 
-established five government farms in Tokyo and Hokkaidou.  The 
-locations were Aoyama and Azabu in Tokyo, and Nanae, Sapporo, and 
+established five government farms in Toukyou and Hokkaidou.  The 
+locations were Aoyama and Azabu in Toukyou, and Nanae, Sapporo, and 
 Nemuro in Hokkaidou.  Nanae Government Farm was the largest.
 
 An English writer Isabella Lucy Bird visited Nanae Government Farm in 
@@ -2484,24 +2594,30 @@ stone wall remains near Nanae Elementary School.
 
 ( For Isabella Lucy Bird, see Mori Town in Oshima sub-prefecture. )
  
-#2  Mt. Nanae ( 779 meters ) rises near the town hall of Nanae.  From 
-the mountain, Hakodate's night view can be seen.  The scene is another 
-side of Hakodate's night view ( Hakodate-ura-yakei ).
+#2
 
-#3  Oonuma Station on the Hakodate Main Line is a junction between 
-Oonuma main route and Sawara branch route.  Another branch route exists 
-to the south, between Oonuma Station and Nanae Station.  It's Fujishiro 
-branch route, which was built by Japanese National Railways in 1966.
-It was planned before motorization, to increase transport capacity.  
+Mt. Nanae ( 779 meters ) rises near the town hall of Nanae.  From the 
+mountain, Hakodate's night view can be seen.  The scene is another side 
+of Hakodate's night view ( Hakodate-ura-yakei ).
 
-( For Sawara branch route, see Mori Town in Oshima sub-prefecture. )
+#3
+
+Oonuma Station on the Hakodate Main Line is a junction between Oonuma 
+main route and Sawara branch route.  Another branch route exists to the 
+south, between Oonuma Station and Nanae Station.  It's Fujishiro branch 
+route, which was built by Japanese National Railways in 1966.  It was 
+planned before motorization, to increase transport capacity.  
+
 ( For motorization, see the note of Otobe Town in Oshima sub-
   prefecture. )
+( For Sawara branch route, see Mori Town in Oshima sub-prefecture. )
 
-#4  Red pine trees ( Aka-matsu ) along National Route 5 are large.  
-They ere reminiscent of old trails in Honshuu island.  In 1876 ( Meiji 
-9 ), the red pine trees were transplanted from Go-ryou-kaku Castle to 
-the roadside. 
+#4
+
+Red pine trees ( Aka-matsu ) along National Route 5 are large.  They 
+ere reminiscent of old trails in Honshuu island.  In 1876 ( Meiji 9 ), 
+the red pine trees were transplanted from Go-ryou-kaku Castle to the 
+roadside. 
 
 The pine trees were transplanted to make a scenic road, because Emperor 
 Meiji would visit Nanae Government Farm.  Cf. Cherry trees along the 
@@ -2512,9 +2628,11 @@ welcome Emperor Meiji.
 ( For the Nijikken Road, see Shin-hidaka Town in Hidaka sub-
   prefecture. )
   
-#5  As for Guarana, some students are drinking Guarana during lectures 
-at Hokkaidou University.  Guarana is a popular drink in Brazil.  It's 
-like Brazilian Coca-cola. 
+#5  
+
+As for Guarana, some students are drinking Guarana during lectures at 
+Hokkaidou University.  Guarana is a popular drink in Brazil.  It's like 
+Brazilian Coca-cola. 
 
 Guarana is made from the berries of Guarana trees.  The berries are 
 small and red.  Guarana trees are native to the Amazon region, which 
@@ -2539,11 +2657,13 @@ Then, I said, ``Ah, Ga-ra-na.  Por farvor.'  Then, the stewardess gave
 me a bottle of water.  It must have sounded `Agua, ne?' ( Water, 
 OK? ).''
  
-#6  These are the New Three Scenic Views of Japan ( Shin-nihon-
-sankei ) ; Mihono-matsubara in Shizuoka Prefecture ( Honshuu island ), 
-Yabakei in Ooita Prefecture ( Kyuushuu island ), and Oonuma in 
-Hokkaidou Prefecture ( Hokkaidou island ).  They were designated in 
-1915 ( Taishou 4 ).
+#6
+
+These are the New Three Scenic Views of Japan ( Shin-nihon-sankei ) ; 
+Mihono-matsubara in Shizuoka Prefecture ( Honshuu island ), Yabakei in 
+Ooita Prefecture ( Kyuushuu island ), and Oonuma in Hokkaidou 
+Prefecture ( Hokkaidou island ).  They were designated in 1915 
+( Taishou 4 ).
 
 Today, they are nothing new.  Japanese people like putting ``shin 
 ( new )'' to things.  For exammple, Shin-kansen ( bullet train ), 
@@ -2560,9 +2680,11 @@ The original Three Scenic Views were selected in 1643, during the Edo
 era.  The Tokugawa Shogunate ruled the country.  It was a feudal 
 period.  Ordinary people couldn't travel freely.
 
-#7  Oonuma Quasi National Park includes three lakes ; Lake Oonuma, 
-Lake Konuma, and Lake Junsai.  The shapes of these lakes were formed by 
-the eruption of Mt. Komagatake in 1640.
+#7
+
+Oonuma Quasi National Park includes three lakes ; Lake Oonuma, Lake 
+Konuma, and Lake Junsai.  The shapes of these lakes were formed by the 
+eruption of Mt. Komagatake in 1640.
 
 In Lake Oonuma, smelt and shrimp are caught.  In Lake Junsai, Junsai 
 ( buds of watershield ) is harvested.  Junsai is tasty in Dashi 
@@ -2575,7 +2697,7 @@ walking.  In the Meiji period, an ice factory was located on the shore
 of Lake Oonuma.
 
 The factory cut ice cubes from Lake Oonuma in winter.  The ice cubes 
-were stored until summer and shipped from Hakodate to Tokyo ( by 
+were stored until summer and shipped from Hakodate to Toukyou ( by 
 Professor Katsuhiko Yamashita at the Meeting of Hokkaidou Geographical 
 Society in 2014. )  
 
@@ -2603,7 +2725,9 @@ blow.''  I agree.  When I die and become a ghost, I will not be in the
 dreary graveyard.  I will go to Daimaru department store and watch 
 people.
 
-#8  This is a legend about Lake Oonuma and Mt. Komagatake ; ``Masatane 
+#8
+
+This is a legend about Lake Oonuma and Mt. Komagatake ; ``Masatane 
 Aihara was the load of Fort Oodate in the 15th century.  The fort was 
 located in what is now Matsumae Town.  Aihara came to Ezo island ( now 
 Hokkaidou ) with Masasue Andou, Sueshigue Kakizaki, and Nobuhiro 
@@ -2642,10 +2766,10 @@ called Hangan-biiki ( Hougan-biiki ).  The word ``hangan'' means the
 job position of Yoshitsune Minamoto.  The word ``hiiki ( biiki )'' 
 means sympathy. 
 
-( For the old 12 forts built by the Andou clan, see Kaminokuni Town in 
-  Hiyama sub-prefecture. )
-( For Yoshitsune legend, see Biratori Town in Hidaka sub-prefecture. ) 
 ( For Hangan-date Rock, see Niikappu Town in Hidaka sub-prefecture. )
+( For the former 12 forts built by the Andou clan, see Kaminokuni Town 
+  in Hiyama sub-prefecture. )
+( For Yoshitsune legend, see Biratori Town in Hidaka sub-prefecture. ) 
  _________________
 |                 |
 |     SHIKABE     |
@@ -2654,7 +2778,9 @@ means sympathy.
  -----------------
 AREA 111 KM2 ( 2010 ), FOREST 90, CULTIVATED 1 ; COUNTY = KAYABE ; POP 
 4,767 ( 2010 ), 4,979 ( 1990 ) ; COUNTRY SIGN = GEYSER, PUMICE, & 
-MOUNTAIN.  LOCATION 
+MOUNTAIN.
+
+LOCATION 
  
 Shikabe ( shi-ka-be ) ( \u9E7F\u90E8 ) is a town in Oshima sub-
 prefecture, south Hokkaidou ( ``dou-nan'' ).  The Orito River and the 
@@ -2727,10 +2853,12 @@ It's a part of Shikabe Hot Spring.  #2
  
 NOTE 
  
-#1  The name ``Shikabe'' means ``Amur cork tree'' in Ainu language, 
-Amur cork tree was used as a yellow dye and also as an intestinal 
-medicine.  Amur cork tree is called ``Ki-hada'' in Japanese.  It means 
-``yellow, skin.''
+#1
+
+The name ``Shikabe'' means ``Amur cork tree'' in Ainu language, Amur 
+cork tree was used as a yellow dye and also as an intestinal medicine.  
+Amur cork tree is called ``Ki-hada'' in Japanese.  It means ``yellow, 
+skin.''
 
 Large Amur cork trees grow on the central lawn of Hokkaidou University. 
 In 2018, during Typhoon No. 21, their large branches were fell.  The 
@@ -2747,15 +2875,17 @@ teien ) .  There were Ainu villages in the forest.  Ainu's ritual
 sticks look like dread hair.  ( Japanese people make ritual sticks from 
 Sakaki ( broad-leaved evergreen tree ). )  
 
-( For Enju tree, see Abashiri City in Okhotsk sub-prefecture. )
 ( For Ainu culture, see Biratori Town in Hidaka sub-prefecture. )
+( For Enju tree, see Abashiri City in Okhotsk sub-prefecture. )
 ( For Sakaki tree, see Nihei lab 2023-2025. )
  
-#2  Shiakbe Station on the Hakodate Main Line was called Takamachi 
-Station in the past.  There was another Shikabe Station on the Oonuma-
-dentetsu Line.  The Oonuma-dentetsu Line ran from 1929 and 1952 along 
-the Orito River.  After the abolition of the railroad, Takamachi 
-Station was renamed Shikabe Station.
+#2
+
+Shiakbe Station on the Hakodate Main Line was called Takamachi Station 
+in the past.  There was another Shikabe Station on the Oonuma-dentetsu 
+Line.  The Oonuma-dentetsu Line ran from 1929 and 1952 along the Orito 
+River.  After the abolition of the railroad, Takamachi Station was 
+renamed Shikabe Station.
 
 The name ``Takamachi'' means ``hawk catcher'' in Japanese.  During the 
 Edo era, hawk catchers caught hawks and falcons for falconry.
@@ -2887,11 +3017,12 @@ department stores' station-lunch festivals.  #9
 
 NOTE
 
-#1  Mori Town belongs to Kayabe county ( Kayabe-gun ).  The name 
-``Kayabe ( \u8305\u90E8 )'' comes from ``kaya-un-pe'' in Ainu 
-language.  It means ``sail, exist, place.''  It signified Mt. 
-Komagatake.  Ainu people viewed the shape of the mountain as a sailing 
-ship.
+#1
+
+Mori Town belongs to Kayabe county ( Kayabe-gun ).  The name ``Kayabe 
+( \u8305\u90E8 )'' comes from ``kaya-un-pe'' in Ainu language.  It 
+means ``sail, exist, place.''  It signified Mt. Komagatake.  Ainu 
+people viewed the shape of the mountain as a sailing ship.
 
 Komagatake Hazard Map was published in 1983.  It was the first volcanic
 hazard map in the country.  The map included the towns of Mori, 
@@ -2905,9 +3036,11 @@ classmates work for consulting companies.
 
 ( For Mt. Komagatake, see Nanae Town in Oshima sub-prefecture. )
 
-#2  The pronunciation of ``Mori Town'' in Japanese is ``Mori-machi.'' 
-All other towns in Hokkaidou are pronounced ``-chou,'' for example, 
-Kayabe-chou, Yakumo-chou, and Oshamanbe-chou.
+#2
+
+The pronunciation of ``Mori Town'' in Japanese is ``Mori-machi.''  All 
+other towns in Hokkaidou are pronounced ``-chou,'' for example, Kayabe-
+chou, Yakumo-chou, and Oshamanbe-chou.
 
 The municipality decides the pronunciation.  It is said that ``-machi'' 
 is located mainly in eastern Japan and ``-chou'' is located mainly in 
@@ -2920,9 +3053,9 @@ decided the name ``Mori-machi'' in 1987.
   prefecture. )
 
 The river name ``Torizaki'' comes from ``torii ( shrine gate )'' in 
-Japanese.  There was a shrine in the forest.  It had many Torii gates.  
-The place was called Torii-ga-saki, which means ``shrine gate, of, 
-cape'' ( by Kenji Kimura 1798.  ``Ezo-nikki ( Ezo diary )'' ).
+Japanese.  There was a Shintou shrine in the forest.  It had many Torii 
+gates.  The place was called Torii-ga-saki, which means ``shrine gate, 
+of, cape'' ( by Kenji Kimura 1798.  ``Ezo-nikki ( Ezo diary )'' ).
 
 On the map published by Takeshirou Matsuura in 1859 ( http://
 koukita.github.io/touzaiezo/map/ ), the river is written as Torisaki-
@@ -2930,8 +3063,10 @@ kawa.  It's an old name.
 
 ( For Japanese river names, see Setana Town in Hiyama sub-prefecture. )
    
-#3  The first immigrants came to Sawara ( now Mori Town ) from Kanita 
-in 1532.  Kanita was located in what is now Sotogahama Town in Aomori 
+#3
+
+The first immigrants came to Sawara ( now Mori Town ) from Kanita in 
+1532.  Kanita was located in what is now Sotogahama Town in Aomori 
 Prefecture  ( by ``Sawara Town history ( Sawara-chou-shi )'' published 
 in 2000 ). 
 
@@ -2947,7 +3082,9 @@ stem.''  This may signify that the reed is long or stiff.
 ( 3 ) The name comes from ``sawara ( suna-hara )'' in Japanese.  It 
 means ``sandy, field.'' 
 
-#4  In the beginning of the Meiji period, the former Tokugawa Shogunate 
+#4
+
+In the beginning of the Meiji period, the former Tokugawa Shogunate 
 forces landed on the coast of Washinoki.  It was the beggining of the 
 Hakodate War.  The Hakodate War was the final phase of the Boshin War 
 ( civil war ).
@@ -2962,15 +3099,17 @@ Kaiten.  Kaiyou was made in the Netherlands.  Kaiten was made in
 Prussia ( now Germany ).  The battleship Kaiyou was sunk in Esashi.  
 The battleship Kaiten was sunk in Hakodate.  
 
-( For the Boshin War, see Hakodate City in Oshima sub-prefecture. )
 ( For battleship Kaiyou, see Esashi Town in Hiyama sub-prefecture. ) 
+( For the Boshin War, see Hakodate City in Oshima sub-prefecture. )
 ( For the local wind Taba-kaze, see Easahi Town in Hiyama sub-
   prefecture. )
 
-#5  National Route 5 runs along a railway.  The highway connects 
-Hakodate and Sapporo.  Its predecessor opened in 1873 ( Meiji 6 ).  
-The old route was called the Sapporo Main Road ( Sapporo-hondou ).  It 
-crossed Uchiura Bay ( Volcano Bay ) by ferry.
+#5
+
+National Route 5 runs along a railway.  The highway connects Hakodate 
+and Sapporo.  Its predecessor opened in 1873 ( Meiji 6 ).  The old 
+route was called the Sapporo Main Road ( Sapporo-hondou ).  It crossed 
+Uchiura Bay ( Volcano Bay ) by ferry.
 
 There was a ferry line between Mori to Muroran. It operated from 1872 
 to 1893 and again from 1908 to 1928.  It was called Shin-ran ( \u68EE
@@ -2987,18 +3126,22 @@ any moment.''  But, she liked the view from the inn.
   Toyoura Town in Iburi sub-prefecture, and Biratori Town in Hidaka 
   sub-prefecture. ) 
 
-#6  The Sawara branch route of the Hakodate Main Line connects Mori 
-Station and Oonuma Station.  The branch route passes through the former 
-Shikabe Town.  It was constructed during the Second World War to 
-increase transportation capacity.
+#6
+
+The Sawara branch route of the Hakodate Main Line connects Mori Station 
+and Oonuma Station.  The branch route passes through the former Shikabe 
+Town.  It was constructed during the Second World War to increase 
+transportation capacity.
 
 The branch route was constructed using two existing railroads ; Oshima-
 kaigan-tetsudou ( Oshima Coastal Railway ) and Oonuma-dentetsu ( Oonuma 
 Electric Railway ).  In June 1945, the branch route opened.  In August 
 1945, Japan surrendered to the war.
 
-#7  As for animal husbandry, there are swine farms in Mori Town.  They 
-are managed by NH Foods ( Nippon Ham Foods ).  The company's processing 
+#7
+
+As for animal husbandry, there are swine farms in Mori Town.  They are 
+managed by NH Foods ( Nippon Ham Foods ).  The company's processing 
 plant is located in neighboring Yakumo Town.  As for food processing, 
 Nichirei Foods produces croquettes and minced cutlets.  Maruha Nichiro 
 produces salmon flakes and minced chicken. 
@@ -3009,7 +3152,7 @@ started in 1920 ( Taishou 9 ).
 
 At the time, Kuzuhara-shoukai Co. ( now Nichirei Foods ) produced 
 frozen fish using a charcoal gas engine.  The frozen fish was sold in 
-Tokyo.  The company's freezing plant was constructed by American 
+Toukyou.  The company's freezing plant was constructed by American 
 father-and-son engineers.  The company also owned reefer ships.
 
 Regarding frozen food, the first home refrigerator was sold by GE 
@@ -3020,8 +3163,10 @@ My parents used a Hitachi refrigerator.  It lasted 50 years.  The next
 one was broken in two years.  Nowadays, companies pursue profit.  
 Refrigerators that never break are bad for them. 
 
-#8  Hokkaidou Electric Power ( Hokuden ) runs a geothermal power plant 
-in Mori Town.  It is located on the slope of Nigorikawa caldera.  
+#8
+
+Hokkaidou Electric Power ( Hokuden ) runs a geothermal power plant in 
+Mori Town.  It is located on the slope of Nigorikawa caldera.  
 Geothermal power generation is suitable to the small volcanic country.  
 There is no fuel cost.
 
@@ -3030,8 +3175,10 @@ output is small compared to the size of the building.  ( 2 )
 Construction cost is high.  ( 3 ) Many volcanoes are located in 
 national parks, so nature conservation laws restrict the construction. 
 
-#9  Abe-shouten ( Abe Store ) started to sell Ika-meshi ( squid rice ) 
-at Mori Station in 1941.  It was during the Second World War.  Trains 
+#9
+
+Abe-shouten ( Abe Store ) started to sell Ika-meshi ( squid rice ) at 
+Mori Station in 1941.  It was during the Second World War.  Trains 
 stopped at Mori Station for a long tie because it was the junction of 
 the Hakodate Main Line and the Oshima Coastal Railway ( Oshima-kaigan-
 tetsudou ).
@@ -3199,8 +3346,10 @@ police officers guided them.
 
 NOTE
  
-#1  Yoshikatsu Tokugawa asked land granting because he intended to 
-make jobs for the former samurais in the Owari Domain ( now Aichi 
+#1
+
+Yoshikatsu Tokugawa asked land granting because he intended to make 
+jobs for the former samurais in the Owari Domain ( now Aichi 
 Prefecture ).  His offer was accepted in 1879 ( Meiji 11 ) and Tokugawa 
 Farm was established in Yuurappu district in Yamakoshinai village.  The 
 area was 496 hectares.
@@ -3246,7 +3395,9 @@ enactment the law, the landlord had to transfer the land to the tenant
 farmer.  The landlord still says, ``I hate them ( the family ) very 
 much.  I want to kill them.'' 
   
-#2  National Route 277 runs near the town hall of Yakumo.  It crosses 
+#2
+
+National Route 277 runs near the town hall of Yakumo.  It crosses 
 Unseki Pass and reaches Kumaishi.  Unseki Pass divides Pacific Ocean 
 side and the Sea of Japan side. 
 
@@ -3264,10 +3415,12 @@ Yakumo Town hall, it takes about an hour by car.  The current Yakumo
 Town hall is located in Oshima sub-prefecture.  There were many reasons 
 for the merger beyond the sub-prefecture border.  
 
-#3  During the Taishou period ( 1912-1926 ), farmers in Yakumo 
-cultivated mainly potatoes.  The potatoes were processed into potato 
-starch and exported abroad.  The export declined due to the Great 
-Depression.  After the 1930s, dairy farming increased. 
+#3  
+
+During the Taishou period ( 1912-1926 ), farmers in Yakumo cultivated 
+mainly potatoes.  The potatoes were processed into potato starch and 
+exported abroad.  The export declined due to the Great Depression.  
+After the 1930s, dairy farming increased. 
 
 Nowadays, Yakumo is the main dairy farming region in south Hokkaidou.  
 The main breed of dairy cow is Holstein.  It is the largest breed among 
@@ -3280,27 +3433,33 @@ white spots around its nose.
 
 ( For dairy cow, see Eniwa City in Ishikari sub-prefecture. )
 
-#4  As for fishery in Yakumo, the main catches in Pacific Ocean side 
-are farmed scallops, salmon, right-eye flounder, and farmed Konbu kelp. 
-The main catches in the Sea of Japan side are walleye pollock, squid, 
-and farmed abalone.  For the abalone culture, deep sea water is used.
-Deep sea water is rich in minerals and low in bacteria. 
+#4
+
+As for fishery in Yakumo, the main catches in Pacific Ocean side are 
+farmed scallops, salmon, right-eye flounder, and farmed Konbu kelp. The 
+main catches in the Sea of Japan side are walleye pollock, squid, and 
+farmed abalone.  For the abalone culture, deep sea water is used.  Deep 
+sea water is rich in minerals and low in bacteria. 
   
 Abalone is expensive.  The shell is hard.  Inside the shell is mother-
 of-peal ( ``shinju-sou'' ).  The shell has holes.  They are for 
 breathing.  ( They are not eyes.  Scallops have eyes. )
 
-#5  As for chicken, I think chicken tastes better in Hokkaidou. 
-Chickens can grow healthy under a cool climate, without sweating.
+#5
+
+As for chicken, I think chicken tastes better in Hokkaidou.  Chickens 
+can grow healthy under a cool climate, without sweating.
 
 In Hokkaidou, fried chicken is called ``zangui.''  The word would have 
 come from Chinese.  In Japanese, fried chicken is generally 
 called ``kara-ague.''  It means ``Tang ( old China ), deep fried.''
 
-#6  A meat processing factory is located in Yakumo Town.  Swine farms 
-are located in mountainous areas in Mori Town and Imakane Towns.  In 
-the past, Brazilians worked at the meat processing factory.  There was 
-a Brazilian restaurant in the center of Yakumo Town. 
+#6
+
+A meat processing factory is located in Yakumo Town.  Swine farms are 
+located in mountainous areas in Mori Town and Imakane Towns.  In the 
+past, Brazilians worked at the meat processing factory.  There was a 
+Brazilian restaurant in the center of Yakumo Town. 
 
 Masao Kanamori who instructed a brass band club at a local high school 
 said ; ``I sometimes went to the Brazilian restaurant.  There were 
@@ -3344,7 +3503,7 @@ During the Edo era, in 1669, the Ainu forces advanced from Hidaka to
 Matsumae.  It was the revolt of Shakushain ( Shakushain-no-tatakai ).  
 The leader of the Ainu forces was Shakushain, a chief of Ainu people.  
 The Ainu forces were defeated by the gun corps of the Matsumae Domain 
-along the Kun-nui River. #4 
+along the Kun-nui River.  #4 
  
 In 1773, the Matsumae Domain built a guardhouse ( ``ban-sho'' ) and 
 Inari Shrine.  ( Incidentally, in 2022, water gushed out from the Inari 
@@ -3407,9 +3566,11 @@ Station is Kani-meshi ( crab rice ).  #7
 
 NOTE 
 
-#1  Oshima Peninsula is located in the south of Hokkaidou.  The area 
-lies south of a line connecting Oshamanbe, Kuromatsunai Basin, and 
-Suttsu Bay.
+#1
+
+Oshima Peninsula is located in the south of Hokkaidou.  The area lies 
+south of a line connecting Oshamanbe, Kuromatsunai Basin, and Suttsu 
+Bay.
 
 As for Oshamanbe River, Natural gas is extracted in the lower reaches.
 Futamata Radium Hot Spring is located in the upper reaches.  It's a 
@@ -3422,7 +3583,9 @@ Oshamanbe and Yakumo and transported to Muroran for use in steel mills.
  
 ( For iron mining, see Kyougoku Town in Shiribeshi sub-prefecture. )
 
-#2  In Ainu language, rivers are called ``nay'' or ''pet.''  The word 
+#2
+
+In Ainu language, rivers are called ``nay'' or ''pet.''  The word 
 ``nay'' means a stream, whose course is changeable, for example, 
 Wakkanai, Utashinai, and Kikonai.
 
@@ -3439,9 +3602,10 @@ The name ``Futamata-gawa'' means ``bifurcation ( baifu-ca'tion )
 river.''  The name ``Futamata-zawa'' means ``bifurcation stream.'' 
 Names were simple in the past.
 
-#3  These are rivers with funny names in Oshamanbe ; 
-( 1 ) The Kyuushi-battari River, which sounds like ``sudden death 
-river'' in Japanese.
+#3
+
+These are rivers with funny names in Oshamanbe ; ( 1 ) The Kyuushi-
+battari River, which sounds like ``sudden death river'' in Japanese.
 
 ( 2 ) The Warui River, which means ``bad river'' in Japanese.  It was 
 bad because salmons did not appear in autumn and timbers could not be 
@@ -3503,7 +3667,9 @@ Japanese name that means ``disappointment stream.''  It was an old
 place name around Asarigawa Hot Spring.  There were hopes and 
 disappointments in the pioneering years.
 
-#4  Shakushain was a chief of Ainu people.  Before the revolt of 
+#4
+
+Shakushain was a chief of Ainu people.  Before the revolt of 
 Shakushain, there were conflicts between Ainu chiefs.  A rumor spread 
 among Ainu people like this, ``An Ainu messenger who attempted to 
 borrow weapons from the Matsumae Domain was poisoned to death.''
@@ -3521,8 +3687,10 @@ people and Japanese people.  Japanese people obtained goods at unfairly
 low prices.  Also, the eruption of Mt. Tarumae in 1667 may have caused 
 food shortages.
   
-#5  As for the population of Oshamanbe, the percentage of residents 
-aged 18 to 19 is relatively high.  This is because Tokyo University of 
+#5
+
+As for the population of Oshamanbe, the percentage of residents aged 18 
+to 19 is relatively high.  This is because Toukyou University of 
 Science has Oshamanbe Campus.  Students enroll in April and leave in 
 February.
 
@@ -3535,7 +3703,7 @@ population density in the country, Hokkaidou looks like a black
 continent ( HTTP://MOOO.COM/NOTE/INTF1.JPG ).
 
 Today, most people live in cities.  A professor who moved from a suburb 
-of Tokyo to Hokkaidou said that he could sell his house for more than 
+of Toukyou to Hokkaidou said that he could sell his house for more than 
 he paid for it.  City residents consume rather than produce.  
 
 ( For depopulation, see Otaru City in Shiribeshi sub-prefecture. )
@@ -3547,8 +3715,8 @@ country and overseas.
 Hokkaidou university has 18,000 students.  It's more than the 
 population of most towns and villages in Hokkaidou.  Students live in 
 Hokkaidou for four years and more.  Quite a number of them find jobs in 
-Hokkaidou.  ( Tokyo Metropolitan University, where I'm working now, has 
-8,500 students. )
+Hokkaidou.  ( Toukyou Metropolitan University, where I'm working now, 
+has 8,500 students. )
 
 In the case of University of Tsukuba, where I studied, there were 
 international students from Taiwan in the the 1980s.  My teachers 
@@ -3567,9 +3735,11 @@ talked with a professor from Beijing.  He said, ``Today, Chinese
 students also want to go the USA and Europe, but Japan is still 
 popular, because tuition fees are low.''
 
-#6  The eastern end of Oshamanbe Town is Rebungue Pass.  Rebungue Pass 
-is a steep sea cliff located on the border with Toyoura Town.  In the 
-Edo era, Rebungue Pass was counted as one of the three most difficult 
+#6
+
+The eastern end of Oshamanbe Town is Rebungue Pass.  Rebungue Pass is a 
+steep sea cliff located on the border with Toyoura Town.  In the Edo 
+era, Rebungue Pass was counted as one of the three most difficult 
 passes in Ezo.  ( Ezo is the old name for Hokkaidou. )  
 
 Two other difficult passes were Saru Pass in Erimo Town ( Hidaka sub-
@@ -3578,7 +3748,9 @@ prefecture ).
 
 ( For Rebungue Pass, see Toyoura Town in Iburi sub-prefecture. )
 
-#7  The shape of the Port of Kun-nui is like a wine glass.  This shape 
+#7
+
+The shape of the Port of Kun-nui is like a wine glass.  This shape 
 makes it easy for fishermen to moor their fishing boats.  Kun-nui is 
 located at the innermost part of Uchiura Bay.  The tidal range is 
 large.  A long sandy beach appears at low tide.  In the past, fishermen 
@@ -3632,8 +3804,8 @@ the 16th century, the main fort in Ezo moved from Kaminokuni to
 Matsumae. 
 
 During the Edo era ( 1603-1868 ), Kaminokuni was governed by the 
-Matsumae Domain.  Kaminokuni was a village of temples, shrines, and 
-fishing. 
+Matsumae Domain.  Kaminokuni was a village of Buddhist temples, Shintou 
+shrines, and fishing. 
 
 ( For the Andou clan, see Hakodate City and Nanae Town in Oshima sub-
   prefecture. )  
@@ -3697,7 +3869,9 @@ stand on the hill.  #8  #9
 
 NOTE
 
-#1  As for exiles in the early 13th century, thieves, pirates, and 
+#1
+
+As for exiles in the early 13th century, thieves, pirates, and 
 political prisoners were caught in the western country.  They were 
 taken to the eastern country ( now Kantou region ).  After their trial, 
 they were exiled to remote areas and islands including Ezo ( now 
@@ -3714,9 +3888,11 @@ in what is now south Hokkaidou.  But, most of the area was unknown.
 Hokkaidou is a large island.  The climate is too cold to live for 
 Japanese people before the Edo era. 
 
-#2  This is about Koshamain's War.  In 1456, an Ainu man asked a 
-Japanese blacksmith to make a large knife.  The knife is called 
-``makiri'' in Japanese.
+#2
+
+This is about Koshamain's War.  In 1456, an Ainu man asked a Japanese 
+blacksmith to make a large knife.  The knife is called ``makiri'' in 
+Japanese.
 
 When the knife was made, the Ainu man quarreled over the quality and 
 the price.  The blacksmith got angry and stabbed the Ainu man to death 
@@ -3742,8 +3918,10 @@ Koshamain and his son to death with a bow.  The Koshamain's war ended.
 However, the conflict between Ainu people and Japanese people 
 continued. Mobetsu-date was also destroyed by the Ainu forces in 1508.
 
-#3  Masasue Andou built 12 forts in Ezo ( old Hokkaidou ) and returned 
-to his homeland.  Then, he built Hiyama Castle in what is now Noshiro 
+#3
+
+Masasue Andou built 12 forts in Ezo ( old Hokkaidou ) and returned to 
+his homeland.  Then, he built Hiyama Castle in what is now Noshiro 
 City, Akita Prefecture. 
 
 Among the vassals of the Andou clan were the Kakizaki clan and the 
@@ -3762,10 +3940,12 @@ what is now Matsumae Town. )  His descendant, Yoshihiro Kakizaki,
 founded the Matsumae Domain in the Edo era. 
 
 ( For the Matsumae Domain, see Matsumae Town in Oshima sub-
-   prefecture. )
+  prefecture. )
 
-#4  As for the Amanogawa River in Kaminokuni Town, the Kanji characters
-are the same as the Milky Way.  This is a story about the Milky Way 
+#4
+
+As for the Amanogawa River in Kaminokuni Town, the Kanji characters are 
+the same as the Milky Way.  This is a story about the Milky Way 
 ( Amanogawa ) in Kaminokuni Town ;
  
 In 1614, Geronimo de Angelis, who was a Jesuit missionary from Sicily 
@@ -3780,7 +3960,9 @@ comes from ``to-ka'' in Ainu language.  It means ``pond, shore.''
 ( Amanogawa = \u5929\u306E\u6CB3.  Tcuga = T\u00E7uga.  Tsuga = 
   \u5929\u6CB3. ) 
   
-#5  The built-up area of Kaminokuni Town faces the sea.  In July 1993, 
+#5
+
+The built-up area of Kaminokuni Town faces the sea.  In July 1993, 
 Okushiri earthquake occurred.  At the time, tidal waves reached the 
 coast of Hiyama sub-prefecture.
 
@@ -3791,9 +3973,11 @@ Kaminokuni.  In Okushiri island, more than 200 people died.
 ( For Okushiri earthquake, see Okushiri Town in Hiyama sub-
   prefecture. ) 
  
-#6  As for paddy rice cultivation in Kaminokuni Town, paddy fields 
-stretch out in front of the mountains.  The landscape is like the 
-countryside of Honshuu island.
+#6
+
+As for paddy rice cultivation in Kaminokuni Town, paddy fields stretch 
+out in front of the mountains.  The landscape is like the countryside 
+of Honshuu island.
 
 According to 2015 Census of Agriculture and Forestry, the average paddy 
 rice cultivation area per farm is as follows ; 
@@ -3810,6 +3994,8 @@ established in Kaminokuni town hall.  ( A crop failure is called
 
 ( For paddy rice cultivation, see Uryuu Town in Sorachi sub-
   prefecture. ) 
+( For average cultivated area per farm, see Uryuu Town in Sorachi sub-
+  prefecture. ) 
   
 At the time of the crop failure, I was a university student.  I ate 
 Thai rice in the university canteen.  The Japanese government urgently 
@@ -3821,10 +4007,10 @@ farmers nor the government produce surplus.  Japanese people like
 ``new rice.''  ( ``New rice'' is called ``shin-mai'' in Japanese. ) 
 
 ( The just-in-time method was adopted by Toyota Motor.  It was during 
-the post-war period of material shortages.  Meanwhile, the mass-
-production method was adopted by Ford Motor in the USA.  The company 
-lead the world's first motorization at the beginning of the 20th 
-century. )
+  the post-war period of material shortages.  Meanwhile, the mass-
+  production method was adopted by Ford Motor in the USA.  The company 
+  lead the world's first motorization at the beginning of the 20th 
+  century. )
 
 ( For motorization, see the note of Otobe Town in Oshima sub-
   prefecture. ) 
@@ -3836,12 +4022,12 @@ the summer, a large cooler was installed in the laboratory, however, we
 didn't use it.
 
 When I was a child, if the temperature rose by 30 degrees Celsius, it 
-was a hot day.  Nowadays, the temperature in Tokyo becomes above 36.5 
+was a hot day.  Nowadays, the temperature in Toukyou becomes above 36.5 
 degrees Celsius every day in summer.  ( Higher than body temperature. )
 
 The year 2025 was a rice shortage.  It was not caused by a cold summer. 
-( The summer was hot in Tokyo. )  The cause lay in the market.  It was 
-an imbalance between supply and demand.
+( The summer was hot in Toukyou. )  The cause lay in the market.  It 
+was an imbalance between supply and demand.
 
 International students from Asian countries were surprised by the 
 rising price of rice in supermarkets.  My wife bought Government 
@@ -3854,10 +4040,12 @@ said, ``You will be fine!  But, the children won't!''  I think I
 understood why Marie Antoinette was criticized when she said, ``Let 
 them eat cake, instead of bread.''  Arguments over food are scary. 
  
-#7  Edible mountain plants are called ``sansai'' in Japanese.  On May 
-19, 2013, I traveled from Kikonai to Kaminokuni on a bus excursion.  I 
-saw several cars parked in the mountains.  People went into the 
-mountains to pick edible mountain plants.
+#7
+
+Edible mountain plants are called ``sansai'' in Japanese.  On May 19, 
+2013, I traveled from Kikonai to Kaminokuni on a bus excursion.  I saw 
+several cars parked in the mountains.  People went into the mountains 
+to pick edible mountain plants.
 
 According to a graduation thesis submitted to Faculty of Letters at 
 Hokkaidou University, fern pickers used to come Kaminokuni Town from 
@@ -3874,17 +4062,20 @@ earned over one million yen in one season by picking wild edible
 mountain plants ( by Takeo Ichikawa 1993.  ``Four seasons and life of 
 Japan ( Nihon-no-shiki-to-kurashi ).'' Kokon-shoin. )
 
-#8  These are old buildings in Kaminokuni.  ( 1 ) Joukokuji Temple, 
-a Buddhist temple built in 1443 ; The year was around time that Fort 
-Hanazawa ( Hanazawa-date ) was built.  The temple is located at 
-the foot of the hill where where Fort Hanazawa stood.
+#8
 
-The existing building was rebuild in 1758.  The name ``Joukoku'' is 
-Japanese.  The meaning is the same as ``Kaminokuni.''  
+These are old buildings in Kaminokuni.  ( 1 ) Joukokuji Temple, a 
+Buddhist temple built in 1443.  The year was around time that Fort 
+Hanazawa ( Hanazawa-date ) was built.
 
-( 2 ) Tategami-hachiman Shrine, built in 1473 ; The year was around the 
-time that Fort Katsuyama ( Katsuyama-ate ) was built.  The names 
-``Tategami'' and ``Hachiman'' are Japanese.  These signify gods of war.
+The temple is located at the foot of the hill where where Fort Hanazawa 
+stood.  The existing building was rebuild in 1758.  The name 
+``Joukoku'' is Japanese.  The meaning is the same as ``Kaminokuni.''  
+
+( 2 ) Tategami-hachiman Shrine, a Shintou shrine built in 1473.  The 
+year was around the time that Fort Katsuyama ( Katsuyama-ate ) was 
+built.  The names ``Tategami'' and ``Hachiman'' are Japanese.  These 
+signify gods of war.
 
 The existing building was rebuild in 1699.  It was moved from the top 
 of a hill to the foot of the hill in 1895.  The name was changed from 
@@ -3899,18 +4090,18 @@ century, during the Edo era.  This is the oldest residence in Hokkaidou
 
 These buildings are designated as National Important Cultural 
 Properties ( Juuyou-bunka-zai ).  Regarding the oldest building in 
-the country, it's Houryuuji Temple in Nara Prefecture.  It was rebuilt 
-in the 7th century.
+the country, it's Hou-ryuu-ji Temple in Nara Prefecture.  It was 
+rebuilt in the 7th century.
 
-( For Houryuuji temple, see Hiyama sub-prefecture. )
+( For Hou-ryu-uji temple, see Hiyama sub-prefecture. )
  
 Temples and shrines last longer than ordinary houses.  The main 
-buildings of temples and shrines do not have water facilities such as 
-kitchens and bathrooms.  
+buildings of temples and shrines don't have water facilities such as 
+kitchens and bathrooms. 
  
-There are many temples and shrines in old towns.  Kaminokuni is one of 
-them.  Kaminokuni was the original place of the Matsumae Domain, which 
-ruled Ezo ( now Hokkaidou ) during the Edo era.
+There are many Buddhist temples and Shintou shrines in old towns.  
+Kaminokuni is one of them.  Kaminokuni was the original place of the 
+Matsumae Domain, which ruled Ezo ( now Hokkaidou ) during the Edo era.
  
 In the past, monks in temples and priests in shrines were like civil 
 servants.  They recorded people's names and place names.  Ordinary 
@@ -3918,7 +4109,9 @@ people couldn't read and write. In addition, in the past, many people
 were born and many people died.  Monks and priests treat funeral 
 services.
 
-#9  There are old legends in Kaminokuni Town.  Ookura herring is one of 
+#9
+
+There are old legends in Kaminokuni Town.  Ookura herring is one of 
 them.  The story has been told since the 1590s, before the Edo era ;
 
 ``In a certain year, people couldn't catch herring until the end of 
@@ -3984,8 +4177,9 @@ Esashi Town in Souya sub-prefecture.  #2
 HISTORY
 
 In 1216, Ubagami-daijinguu Shrine was established.  It's one of the 
-oldest shrines in Hokkaidou.  In the late 17th century, during the Edo 
-era, the Matsumae Domain built a port to transport cypress.  #3  #4
+oldest Shintou shrines in Hokkaidou.  In the late 17th century, during 
+the Edo era, the Matsumae Domain built a port to transport cypress.  
+#3  #4
 
 Herring fishing thrived in the Edo era.  When fishing season began, 
 fishermen gathered from Honshuu island.  The Port of Esashi was 
@@ -4052,7 +4246,7 @@ other fish 51, and other marine animals 20 ( including sea cucumbers ).
 
 These are tourist destinations in Esashi ; 
 ( 1 ) Kamome island, which means ``seagull island'' in Japanese.  ( For 
-tourist destinations on the island, see note No. 8. )  
+tourist destinations on the island, see note No. 8. ) 
 ( 2 ) Kaiyou Memorial Hall, which is a museum that recreates a sunken 
 ship. 
 ( 3 ) The former Nakamura residence, which was an old merchant's 
@@ -4061,10 +4255,12 @@ mansion.
  
 NOTE  
   
-#1  As for the vegetation in Esashi Town, Hiyama Ancient Forest 
-( Hiyama-koji-no-mori ) is designated as National Natural Monument 
-( Tennen-kinen-butsu ).  The forest is located near the border with 
-Kaminokuni Town.  It's far from the center of Easashi Town.
+#1
+
+As for the vegetation in Esashi Town, Hiyama Ancient Forest ( Hiyama-
+koji-no-mori ) is designated as National Natural Monument ( Tennen-
+kinen-butsu ).  The forest is located near the border with Kaminokuni 
+Town.  It's far from the center of Easashi Town.
 
 The main trees in the protected forest are Hiba ( a kind of cypress ) 
 and Ao-todomatsu ( Blue Sakhalin fir ).  Hiba is also called Hinoki-
@@ -4080,28 +4276,34 @@ plant was imported from Europe to Japan during the Meiji period ( 1868-
 
 ( For Hiba tree, see Hiyama sub-prefecture. ) 
  
-#2  As for the name ``Esashi,'' there is another interpretation.  It 
-says that the name comes from ``e-sas-us'' in Ainu language, which 
-means ``eat, Konbu kelp, exist.''  There is a legend like this ; ``Long 
-ago, there was a famine ( fe'-min ).  Ainu people in the north coast 
-came here.  They could survive by eating Konbu kelp.''
+#2
+
+As for the name ``Esashi,'' there is another interpretation.  It says 
+that the name comes from ``e-sas-us'' in Ainu language, which means 
+``eat, Konbu kelp, exist.''  There is a legend like this ; ``Long ago, 
+there was a famine ( fe'-min ).  Ainu people in the north coast came 
+here.  They could survive by eating Konbu kelp.''
 
 ( For Konbu kelp, see Shin-hidaka Town in Hidaka sub-prefecture. )
 
-#3  The festival of Ubagami-daijinguu Shrine has been held since 1644. 
+#3
+
+The festival of Ubagami-daijinguu Shrine has been held since 1644.  
 It's one of the oldest festivals in Hokkaidou.  A high school teacher 
 said, ``If you see festivals, you will see the culture.  Dou-nan 
 ( south Hokkaidou ) is different from other parts of Hokkaidou.'' 
 
-#4  Takeshirou Matsuura was an explorer in the Edo era.  He recorded 
-place names and their locations in Ezo ( now Hokkaidou ).  
+#4
 
-He spent a winter in Esashi in 1846.  It was during his 2nd survey of 
-Ezo.  He earned travel expenses by carving seals ( ``in'' ( \u5370 ) ) 
-in Esashi.
+Takeshirou Matsuura was an explorer in the Edo era.  He recorded place 
+names and their locations in Ezo ( now Hokkaidou ).  He spent a winter 
+in Esashi in 1846.  It was during his 2nd survey of Ezo.  He earned 
+travel expenses by carving seals ( ``in'' ( \u5370 ) ) in Esashi.
   
-#5  Esashi-oiwake is a folk song from Esashi.  It was a song for 
-herring fishing in the Edo era.  These are example lyrics ;
+#5
+
+Esashi-oiwake is a folk song from Esashi.  It was a song for herring 
+fishing in the Edo era.  These are example lyrics ;
 
 ``Kuniwo hanarete ah ezogashima yansano-ee, 
   ikuyo nezameno namimakura.''
@@ -4115,7 +4317,7 @@ herring fishing in the Edo era.  These are example lyrics ;
 
 ``Esashi-no gogatsuwa edonimo naito, 
   hokoru nishin-no haru-no umi.''
-  ( May in Esashi is nowhere even in Edo ( now Tokyo ), 
+  ( May in Esashi is nowhere even in Edo ( now Toukyou ), 
     proud of the spring sea of herring. )
 
 ( For the song ``Souran-bush,'' which was sung during herring fishing, 
@@ -4142,8 +4344,10 @@ herring for eat ) and transported to ``naichi ( main island ).''
 ( For herring fishing, see Yoichi Town in Shiribeshi sub-prefecture, 
   Otobe Town, and Kaminokuni Town in Esashi sub-prefecture. )
   
-#6  As for the former Gokatte village, the Gokatte River and the Port 
-of Gokatte are located south of the built-up area of Esashi.
+#6
+
+As for the former Gokatte village, the Gokatte River and the Port of 
+Gokatte are located south of the built-up area of Esashi.
 
 Gokkate-ya-youkan is a souvenir from Esashi.  ``Youkan'' is sweet bean 
 paste.  In the Edo era, Gokatte-gumi came from Nanbu.  Gokatte-gumi was 
@@ -4154,10 +4358,12 @@ Gokkate-gumi fell Hiba trees.  They also succeeded in cultivating
 adzuki-beans in Ezo ( old hokkaidou ).  They made sweet adzuki-bean 
 paste and presented it to the lord of the Matsumae Domain.
   
-#7  As for the former Tomari Village in Esashi Town, the administrative 
+#7
+
+As for the former Tomari Village in Esashi Town, the administrative 
 office ( ``kochou-yakuba'' ) of Tomari village was built in 1878 
 ( Meiji 11 ) ( by ``2016 Esashi Town education promotion plan ( 2016 
-Esashi-chou-kyouiku-suishin-keikaku}.'' )  In 1906 ( Meiji 39 ), Tomari 
+Esashi-chou-kyouiku-suishin-keikaku).'' )  In 1906 ( Meiji 39 ), Tomari 
 Village ( 2nd-class municipality ) was established.
 
 Before 1955, there were three Tomari villages in Hokkaidou ; ( 1 ) 
@@ -4179,7 +4385,9 @@ She pointed to Kunashir island.  I replied, ``This is a national
 university.  I could buy only this map.''  Kunashir island is a 
 disputed island.
 
-#8  Kamome island is a linked island connected to the mainland by a 
+#8
+
+Kamome island is a linked island connected to the mainland by a 
 tombolo.  The word ``tombolo'' is a geographic term that means a sand 
 bar connecting an island with to mainland.  It comes from the Italian 
 word for ``pillow.''
@@ -4201,13 +4409,15 @@ set by the Matsumae Domain in 1852.  Around the time, American whaling
 ships and Russian ships frequently appear in the waters around Japan.  
 ( 6 ) Sand beaches ; Two sand beaches are open in summer.  
 
-( For Yoshitsune legend, see Biratori Town in Hidaka sub-prefecture and 
-  Otobe Town in Hiyama sub-prefecture. )
 ( For the end of isolationist policy, see Hakodate City in Oshima sub-
   prefecture. )
+( For Yoshitsune legend, see Biratori Town in Hidaka sub-prefecture and 
+  Otobe Town in Hiyama sub-prefecture. )
  
-#9  Kaiyou was a battleship of the Tokugawa Shogunate.  It was made in 
-the Netherlands.  During the Boshin War, the former Tokugawa Shogunate 
+#9
+
+Kaiyou was a battleship of the Tokugawa Shogunate.  It was made in the 
+Netherlands.  During the Boshin War, the former Tokugawa Shogunate 
 forces advanced from Hakodate to Matsumae, and then to Esashi.  The 
 battleship Kaiyou also set sail from Hakodate to Matsumae, and then to 
 Esashi.  
@@ -4228,11 +4438,12 @@ counties.
  
 ( For the Boshin War, see Hakodate City in Oshima sub-prefecture. )
 
-#10  The local wind ``Taba-kaze'' sank the battleship Kaiyou.  It blows 
-from the northwest in winter.  Japanese fishermen feared the wind.  
-They believed that the wind had a soul.  So, they called the wind Tama-
-kaze ( soul wind ).  The pronunciation changed from Tama-kaze to Taba-
-kaze.
+#10
+
+The local wind ``Taba-kaze'' sank the battleship Kaiyou.  It blows from 
+the northwest in winter.  Japanese fishermen feared the wind.  They 
+believed that the wind had a soul.  So, they called the wind Tama-kaze 
+( soul wind ).  The pronunciation changed from Tama-kaze to Taba-kaze.
 
 Houses in Esashi were surrounded by fences in winter.  The fences were 
 made of tree branches.  The sound of the wind hitting the fences was 
@@ -4277,11 +4488,13 @@ herring decreased.  ( Incidentally, the average height of a man
 was about 5-shaku ( 152 centimeters ) in the Edo era.  Japanese people 
 said, ``Living within one's bodies ( means ).'' )
  
-#11  As for old buildings in Esashi, the former Nakamura's residence 
-has been designated as National Important Cultural Property ( Juuyou-
-bunka-zai ).  The residence was built from the end of the Edo era to 
-the Meiji period  ( more than 150 years ago ).  The owner was a 
-merchant from Oumi ( now Shiga Prefecture ).
+#11
+
+As for old buildings in Esashi, the former Nakamura's residence has 
+been designated as National Important Cultural Property ( Juuyou-bunka-
+zai ).  The residence was built from the end of the Edo era to the 
+Meiji period  ( more than 150 years ago ).  The owner was a merchant 
+from Oumi ( now Shiga Prefecture ).
 
 The Nakamura's residence was a shipping wholesaler.  Buildings in the 
 residence are connected by passages.  The architecture is called 
@@ -4351,7 +4564,7 @@ Woodcutters from the main island ( now Honshuu island ) immigrated.  In
 the beginning of the Meiji period, in 1868 ( Meiji 1 ), the Matsumae 
 Domain built Tate Castle.  The location was in the upper reaches of the 
 Assabu River.  The castle was used during the Boshin War ( 1868-1869 ). 
- #2  #3  
+#2  #3  
 
 In 1876 ( Meiji 9 ), the administrative office ( ``kochou-yakuba'' ) of 
 Gamushi village was established.  It was a continuation of village 
@@ -4406,11 +4619,13 @@ long and smooth.  #6
  
 NOTE
    
-#1  The name ``Assabu'' originates from an Ainu word meaning 
-``starling.'' Starling is called Muku-dori in Japanese.  The word 
-``muku-dori'' means ``Muku tree, bird.''  Muku tree is a kind of 
-deciduous broad-leaved tree.  ( Stalings in Japan are white-cheeked 
-starlings or grey starlings. ) 
+#1
+
+The name ``Assabu'' originates from an Ainu word meaning ``starling.'' 
+Starling is called Muku-dori in Japanese.  The word ``muku-dori'' means 
+``Muku tree, bird.''  Muku tree is a kind of deciduous broad-leaved 
+tree.  ( Stalings in Japan are white-cheeked starlings or grey 
+starlings. ) 
 
 In Hokkaidou island, starling is also called Sakura-dori, which means 
 ``cherry tree, bird.''  The bird migrates from the south during the 
@@ -4422,8 +4637,10 @@ The sky was filled with birds.
 
 ( For cherry blossom, see Matsumae Town in Oshima sub-prefecture. )
 
-#2  Cypress trees in Hokkaido island are ``Hiba.''  Cypress trees in 
-Honshu island are ``Hinoki'' and ``Hiba.''  Both are conifer evergreen
+#2
+
+Cypress trees in Hokkaido island are ``Hiba.''  Cypress trees in Honshu 
+island are ``Hinoki'' and ``Hiba.''  Both are conifer evergreen 
 conifers. 
 
 ( For cypress tree, see Hiyama sub-prefecture. )
@@ -4469,15 +4686,17 @@ using plastic sleds.  People have used sleigh and sled since antiquity
 
 ( For sleigh, see Naie Town in Sorach sub-prefecture. )
   
-#3  In 1868 ( Meiji 1 ), during the Boshin War, the Matsumae Domain 
-built Tate Castle.  The location was inland to avoid naval artillery.  
+#3
+
+In 1868 ( Meiji 1 ), during the Boshin War, the Matsumae Domain built 
+Tate Castle.  The location was inland to avoid naval artillery.  
 Matsumae Castle ( Fukuyama Castle ) was located along the coast. 
 
 ( For the same reason, the capital of the Choushuu Domain moved from 
-Hagui to Yamaguchi.  Hagui is located along the Sea of Japan and 
-Yamaguchi is inland.  ( Yamaguchi is now the capital of Yamaguchi 
-Prefecture. )  The relocation took place in 1863.  The Tokugawa 
-Shogunate ended in 1867. )
+  Hagui to Yamaguchi.  Hagui is located along the Sea of Japan and 
+  Yamaguchi is inland.  ( Yamaguchi is now the capital of Yamaguchi 
+  Prefecture. )  The relocation took place in 1863.  The Tokugawa 
+  Shogunate ended in 1867. )
  
 In December 1868 ( Meiji 1 ), the former Tokugawa Shogunate forces 
 advanced to Matsumae Castle.  The Matsumae Domain's forces escaped to 
@@ -4520,16 +4739,19 @@ new schools, and new religions.
 ( For new religion, see Hokkaidou University in Kita Ward, Sapporo 
   City, Ishikari sub-prefecture. )
   
-#4  As for the name ``Gamushi,'' there is Gamushi Hot Spring along the 
+#4
+
+As for the name ``Gamushi,'' there is Gamushi Hot Spring along the 
 tributary of the An-noro River.  The name ``Gamushi'' comes from 
 ``kamuy-us-i'' in Ainu language.  It means ``god, exist, place.''  The 
 word ``god'' means bear.  Ainu people considered bears to be gods.
 
 ( For bear, see Noboribetsu City in Iburi sub-prefecture. ) 
    
-#5  Local specialties of Assabu Town are ``shining black soybeans 
-( Hikari-kuro-daizu )'' and ``black-bean pudding ( Kuro-mame-
-purin }. '' 
+#5
+ 
+Local specialties of Assabu Town are ``shining black soybeans ( Hikari-
+kuro-daizu )'' and ``black-bean pudding ( Kuro-mame-purin ).'' 
 
 When I did field survey in Hokkaidou, I heard that black soybeans are 
 well-suited for machine harvesting, because the black color conceals 
@@ -4541,16 +4763,18 @@ introduced to soybean cultivation ( by T. Nihei 2007.  The regional
 bases carrying the upland farming of Tokachi, Hokkaidou.  ``Jinbun-
 chirigaku-kenkyuu'' http://www.researchgate.net/publication/388527604 )
 
-#6  The potato cultivar ``May-queen'' was bred in 1900 by the British 
-seed company Sutton & Sons.  May-queen was named after the queen who 
-was chosen at the May Day festival.  May-queen was imported to Japan 
-from the USA during the Taishou period ( 1912-1925 ).  
+#6
 
-In 1928 ( Shouwa 3 ), Hiyama Agricultural Experiment Station 
-designated May-queen and Danshaku as recommended potato cultivars.  
-Then, the two cultivars spread among farmers.  The agricultural 
-experiment station was located in Gamushi district, Assabu Village.  
-The word ``Danshaku'' means ``baron.''  
+The potato cultivar ``May-queen'' was bred in 1900 by the British seed 
+company Sutton & Sons.  May-queen was named after the queen who was 
+chosen at the May Day festival.  May-queen was imported to Japan from 
+the USA during the Taishou period ( 1912-1925 ).  
+
+In 1928 ( Shouwa 3 ), Hiyama Agricultural Experiment Station designated 
+May-queen and Danshaku as recommended potato cultivars.  Then, the two 
+cultivars spread among farmers.  The agricultural experiment station 
+was located in Gamushi district, Assabu Village.  The word ``Danshaku'' 
+means ``baron.''  
 
 ( For Danshaku potato, see Imakane Town in Hiyama sub-prefecture and 
   Kucchan Town in Shiribeshi sub-prefecture. )
@@ -4617,9 +4841,9 @@ map published in 1859 ; http://koukita.github.io/touzaiezo/map/ ).  #2
 HISTORY 
 
 In the Edo era, the area was governed by the Matsumae Domain.  Herring 
-fishing thrived.  According to oral tradition, Hanaiso-suwa Shrine was 
-established in 1617 ( Guen-na 3 ).  The shrine's name is recorded in a 
-document written in 1704.  #3
+fishing thrived.  According to oral tradition, Hanaiso-suwa Shrine 
+( Shintou shrine ) was established in 1617 ( Guen-na 3 ).  The shrine's 
+name is recorded in a document written in 1704.  #3
 
 After the Meiji period, in 1869 ( Meiji 2 ), the Meiji government 
 forces landed in Otobe.  It was during the Boshin War.  ( Boshin War 
@@ -4690,9 +4914,11 @@ hura.  Shira-fura is a white coastal cliff.  #6
 
 NOTE
  
-#1  Otobe Town belongs to Nishi county.  The Kanji characters for 
-Nishi ( \u723E\u5FD7 ) are difficult to pronounce even for Japanese 
-people.  The name was decided in the beginning of the Meiji period.
+#1
+
+Otobe Town belongs to Nishi county.  The Kanji characters for Nishi 
+( \u723E\u5FD7 ) are difficult to pronounce even for Japanese people.  
+The name was decided in the beginning of the Meiji period.
 
 Takeshirou Matsuura, an explorer of Ezo ( now Hokkaidou ), suggested 
 the name ``Nishi ( West )'' for the county's name, because the area 
@@ -4705,14 +4931,16 @@ Toshikazu Sasaki eds. 1988.  ``Ainu language place name material
 collection ( Ainu-go-chimei-shiryou-shuusei ).''  Soufuu-kan ISBN 
 4883230368 ).
  
-#2  The name ``Otohe'' means ``river mouth, swamp, exist, thing'' in 
-Ainu language.  As the name suggests, there were many swamps and ponds 
-in the lower reaches of the Otohe River ( now Hime River ).  They were 
+#2
+
+The name ``Otohe'' means ``river mouth, swamp, exist, thing'' in Ainu 
+language.  As the name suggests, there were many swamps and ponds in 
+the lower reaches of the Otohe River ( now Hime River ).  They were 
 reclaimed and turned into paddy fields and a built-up area.
 
 The current river name ``Hime'' means ``princess'' or ``noble lady'' in 
 Japanese.  It refers to Shizuka-gozen in the case of Otobe Town.  
- Shizuka-gozen was a ``mekake ( concubine )'' of Yoshitsune Minamoto.
+Shizuka-gozen was a ``mekake ( concubine )'' of Yoshitsune Minamoto.
 
 Yoshitsune Minamoto was a commander of the Minamoto clan in the 12th 
 century.  He was killed in battle in Oushuu ( now Touhoku region ), but 
@@ -4730,11 +4958,13 @@ Oiran-buchi in Minami Ward, Sapporo City, Ishikari sub-prefecture.  The
 name ``Oiran-buchi'' means ``Oiran ( courtesan ), abyss.''  In the 
 past, a courtesan committed suicide by drowning in the river. )
 
+( For river name, see Oshamanbe Town in Oshima sub-prefecture. ) 
 ( For Yoshitsune legend, see Biratori Town in Hidaka sub-prefecture and 
   Esashi Town in Hiyama sub-prefecture. )
-( For river name, see Oshamanbe Town in Oshima sub-prefecture. ) 
  
-#3  During the Tenmei period ( 1781-1789 ) in the Edo era, Otobe was 
+#3
+
+During the Tenmei period ( 1781-1789 ) in the Edo era, Otobe was 
 Sengoku-basho of herring.  The word ``sengoku-basho'' means ``a trading 
 place that has 1,000-koku catches of herring.''  The word ``koku'' is 
 an old unit of volume.  One ``koku'' was equivalent to 150 kg of dried 
@@ -4758,7 +4988,9 @@ After 1917 ( Taishou 6 ), schools of herring disappeared from Otobe.
 ( For herring fishing, see Yoichi Town in Shiribeshi sub-prefecture and 
   Esashi Town in Hiyama sub-prefecture. )
  
-#4  In December 1868 ( Meiji 1 ), during the Boshin War, the Tokugawa 
+#4
+
+In December 1868 ( Meiji 1 ), during the Boshin War, the Tokugawa 
 Shogunate forces advanced to the castle town of the Matsumae Domain 
 ( now Matsumae Town ).  It was November of the lunar calendar used at 
 the time.
@@ -4773,10 +5005,12 @@ Matsumae soldiers by dressing them in farmer's clothes.
 ( For the end of the Matsumae Domain, see Assabu Town in Hiyama sub-
   prefecture. )
  
-#5  A bus stop ``Otobe-juuji-gai'' is located near the town hall.  The 
-name ``juuji-gai'' is Japanese.  It means ``cross, road.''  The word 
-``juu-ji'' means ``ten, character.''  The shape of the Kanji character 
-for ten ( ``juu'' ( \u5341 ) ) is a cross.
+#5
+
+A bus stop ``Otobe-juuji-gai'' is located near the town hall.  The name 
+``juuji-gai'' is Japanese.  It means ``cross, road.''  The word ``juu-
+ji'' means ``ten, character.''  The shape of the Kanji character for 
+ten ( ``juu'' ( \u5341 ) ) is a cross.
 
 The place name``Juuji-gai'' can be found also in Fukagawa, Hakodate, 
 Kushiro, Okushiri, Otaru, Shikaoi, Rumoi, and Yoichi in Hokkaidou.
@@ -4804,12 +5038,14 @@ started in the early 20th century.
 
 ( For crank-shaped road, see Toubetsu Town in Ishikari sub-
   prefecture. )
-( For straight road, see Yuni Town in Sorachi sub-prefecture. )
 ( For motorization, see the note of Kaminokuni Town in Oshima sub-
   prefecture. )
+( For straight road, see Yuni Town in Sorachi sub-prefecture. )
  
-#6  Fishing ports in Otobe are old.  The name ``Guen-na-dai'' signifies 
-the Guen-na period ( 1615-1624 ) in the Edo era.  A fishing ground was 
+#6
+
+Fishing ports in Otobe are old.  The name ``Guen-na-dai'' signifies the 
+Guen-na period ( 1615-1624 ) in the Edo era.  A fishing ground was 
 built in the period.  Near the fishing port of Toyohama, Hanaiso-suwa 
 Shrine is located. It was built in 1617.  
 
@@ -4817,13 +5053,14 @@ The fishing port of Toyohama was included in the former Kabashira
 village.  Cape Shibi-no-saki, a tourist site, was also included in 
 Kabashira village.  
 
-Ka-bashira is a funny name.  It means ``mosquito, pillar'' in Japanese. 
+Kabashira is a funny name.  It means ``mosquito, pillar'' in Japanese. 
 The name comes from ``kapara-sirar'' in Ainu language, which  means 
 ``flat, rock.''
 
-I remember seeing a large mosquito pillar in a hotel room in a tropical
-country.  ( A mosquito pillar is not a mosquito trap.  A lot of 
-mosquitoes fly and form a pillar. ) 
+When I see the name ``Kabashira ( mosquito, pillar ), I remember seeing 
+a large mosquito pillar in a hotel room in a tropical country.  ( A 
+mosquito pillar is not a mosquito trap.  A lot of winged insects such 
+as non-biting midges  ( mi'giz ) fly and form a pillar. )  
 
 As for Shira-fura cliff, I guess that the name comes from ``sirar-hu-
 ra'' in Ainu language, which means ``rock, raw, intestine.''  The 
@@ -4907,11 +5144,13 @@ remote island fascinates some people a lot.  #1  #2  #3
 
 NOTE  
 
-#1  In the past, Okushiri was the island of alcohol prohibition.  
- ( Alcohol prohibition is called ``kinshu'' in Japanese. )  When the 
-herring catch was poor, fishermen drunk, and quarreled too much.  So, 
-village chiefs ( ``kochou'' ) banned drinking alcohol.  Prohibition 
-lasted from 1885 to 1890.
+#1
+
+In the past, Okushiri was the island of alcohol prohibition.  ( Alcohol 
+prohibition is called ``kinshu'' in Japanese. )  When the herring catch 
+was poor, fishermen drunk, and quarreled too much.  So, village chiefs 
+( ``kochou'' ) banned drinking alcohol.  Prohibition lasted from 1885 
+to 1890.
 
 Today, rice wine ( ``sake'' ) and wine are the specialties of Okushiri. 
 There even is an ``Ordinance to promote toasts with Okushiri's local 
@@ -4920,8 +5159,10 @@ rice wine.''  ( Japanese people became more polite when drinking. )
 ( For rice wine, see Asahikawa City in Kamikawa sub-prefecture. ) 
 ( For wine, see Ikeda Town in Tokachi sub-prefecture. )
 
-#2  In July 1993, Okushiri earthquake happened and killed 230 people.  
-The magnitude was 7.8.  The disaster was due to tidal waves 
+#2
+
+In July 1993, Okushiri earthquake happened and killed 230 people.  The 
+magnitude was 7.8.  The disaster was due to tidal waves 
 ( ``tsunami'' ), fires, and landslides.  Geologically, Okushiri island 
 is located near the boundary between the Eurasian Plate and North 
 American Plate.  
@@ -4936,6 +5177,7 @@ In 1998, the town declared ``completion of recovery.''  In 2001, the
 Tsunami Museum opened in Aonae district.  
  
 * * *
+
 As for tidal waves, the Sanriku Coast in the Touhoku region was hit by 
 tidal waves.  During the massve tidal waves in 2011, all children at an 
 elementary school along the coast could escape.  Grandparents taught 
@@ -4952,11 +5194,13 @@ I am not part of nature.  I am the subject that perceives nature.  I
 see the rain and think, ``Pluit, ergo sum ( It's raining, therefore I 
 am ).'' 
 
-#3  These are strange shaped rocks in Okushiri island ; ( 1 ) Nabe-
-tsuru Rock  ( the handle of an iron pot rock ), ( 2 ) Kabuto Rock 
-( warrior's helmet rock ), ( 3 ) Hoya Rock ( sea pineapple rock ), 
-( 4 ) Mottate Rock ( erection rock ), and ( 4 ) Muean-jima ( lonely 
-island ).  There are unique stories with unique rocks.
+#3  
+
+These are strange shaped rocks in Okushiri island ; ( 1 ) Nabe-tsuru 
+Rock  ( the handle of an iron pot rock ), ( 2 ) Kabuto Rock ( warrior's 
+helmet rock ), ( 3 ) Hoya Rock ( sea pineapple rock ), ( 4 ) Mottate 
+Rock ( erection rock ), and ( 4 ) Muean-jima ( lonely island ).  There 
+are unique stories with unique rocks.
 
 The shape of Nabe-tsuru Rock was changed by the major earthquake of 
 1993.  It was restored.  ( If you study geology, you will understand 
@@ -5126,24 +5370,28 @@ from locally grown rice.  #5
  
 NOTE  
 
-#1  Among Hokkaidou's northern tip, southern tip, eastern tip, and 
-western tip, the western tip is the most difficult to visit.  It's a 
-steep sea cliff at Cape Obana.  Including small islands, the western 
-tip is Oshima-ooshima island in Matsumae Town, Oshima sub-prefecture.  
-It's an uninhabited island. 
+#1
 
-Oota Shrine at Cape Obana is one of the oldest shrines in Hokkaidou.  
-It was established around 1441.  It is one of the most difficult 
-shrines to visit. 
+Among Hokkaidou's northern tip, southern tip, eastern tip, and western 
+tip, the western tip is the most difficult to visit.  It's a steep sea 
+cliff at Cape Obana.  Including small islands, the western tip is 
+Oshima-ooshima island in Matsumae Town, Oshima sub-prefecture.  It's an 
+uninhabited island. 
+
+Oota Shrine at Cape Obana is one of the oldest Shintou shrines in 
+Hokkaidou.  It was established around 1441.  It is one of the most 
+difficult shrines to visit. 
 
 The shrine is located at the top of a rocky mountain.  Bears live. 
 Visitors are like climbers.  They will pray at the shrine for a safety 
 descent down the mountain.  In the past, mountaineering was a religious 
 training. 
 
-#2  On the map published by Takeshirou Matsuura in 1859, Haha-gawa 
-( now Baba River ) and Setaruheshi-nai are written together 
-( http://koukita.github.io/touzaiezo/map/ ).
+#2
+
+On the map published by Takeshirou Matsuura in 1859, Haha-gawa ( now 
+Baba River ) and Setaruheshi-nai are written together ( http://
+koukita.github.io/touzaiezo/map/ ).
 
 Tadashi Okudaira wrote that the upper course of the Baba River was 
 called the Setanai River.  Sanbon-sugui-iwa Rocks, which Ainu people 
@@ -5184,17 +5432,21 @@ water subsided, sea urchins and flounders were left on the road.''
 ( For Okushiri earthquake, see Okushiri Town in Hiyama sub-
   prefecture. )  
  
-#3  National Route 229 runs along the coast.  But, near Cape Obana, 
-which is the western tip of Hokkaidou island, the highway runs inland.
-Cape Obana was the border between the former Taisei Town and the former 
+#3
+
+National Route 229 runs along the coast.  But, near Cape Obana, which 
+is the western tip of Hokkaidou island, the highway runs inland.  Cape 
+Obana was the border between the former Taisei Town and the former 
 Kita-hiayama Town.  There are strangely shaped rocks along the national
 highway ; Mother Bear and Cub Rocks, Mammoth Rock, and Raccoon Rock.
  
-#4  Guinko Oguino ( 1851-1913 ) was born in Tawarase village ( now 
-Kumagaya City, Saitama Prefecture ).  In 1885, she passed medical 
-practitioner's examination and opened a clinic for gynecology and 
-obstetrics.  She became the first female medical doctor in the country. 
-Her clinic was located in Yushima, Tokyo.
+#4  
+
+Guinko Oguino ( 1851-1913 ) was born in Tawarase village ( now Kumagaya 
+City, Saitama Prefecture ).  In 1885, she passed medical practitioner's 
+examination and opened a clinic for gynecology and obstetrics.  She 
+became the first female medical doctor in the country.  Her clinic was 
+located in Yushima, Toukyou.
 
 In 1891, her husband, Yukiyoshi Shikata, started developing Immanuel 
 district.  Immanuel was located in what is now Imakane Town, Hiyama 
@@ -5212,7 +5464,7 @@ Shiribeshi-toshibetsu River. )
 In 1903, she went to Sapporo.  She wanted to open a larger clinic in 
 Sapporo, however, she was told that her medical technique was 20 years' 
 behind.  She was disappointed and returned to Setana.  In 1905, her 
-husband died. In 1908, she returned to Tokyo. 
+husband died. In 1908, she returned to Toukyou. 
 
 As for a medical doctor, I lived in a teachers' apartment in Sapporo.  
 Next to the apartment was a clinic for internal medicine and 
@@ -5229,7 +5481,9 @@ After his sudden death, one of his sons came from a hospital and
 succeeded the clinic for about a year.  Then, the clinic was demolished 
 and an apartment was built.
  
-#5  A student submitted a graduation thesis to Faculty of Letters, 
+#5
+
+A student submitted a graduation thesis to Faculty of Letters, 
 Hokkaidou University.  It was about rice wine production in Setana 
 Town.  The following is an excerpt ( e'x-cerpt ). 
 	
@@ -5275,14 +5529,15 @@ Nada's rice wine was shipped to Ezo ( now Hokkaidou ) by North-bound
 ships.  It is said that the rice wine transported by ship tastes 
 better.  ( In the past, rice wine was not heat-treated. ) 
 
+( For Kirara 397, see Uryuu Town in Sorachi sub-prefecture and Pippu 
+  Town in Kamikawa sub-prefecture. )
+( For not-heat-treated rice wine, see the note of Akabira City in 
+  Sorachi sub-prefecture )
+
 ( For rice wine, see Asahikawa City in Kamikawa sub-prefecture, Mashike 
   Town in Rumoi sub-prefecture, and Kuriyama Town in Sorachi sub-
   prefecture. )  
-( For not-heat-treated rice wine, see the note of Akabira City in 
-  Sorachi sub-prefecture )
 ( For wine, see Ikeda Town in Tokachi sub-prefecture. )
-( For Kirara 397, see Uryuu Town in Sorachi sub-prefecture and Pippu 
-  Town in Kamikawa sub-prefecture. )
  __________________
 |                  |
 |     IMAKANE      |
@@ -5297,17 +5552,19 @@ LOCATION
 
 Imakane ( i-ma-ka-ne ) ( \u4ECA\u91D1 ) is a town in Hiyama sub-
 prefecture, south Hokkaidou ( ``dou-nan'' ).  Imakane is located 
-inland in the Oshima Peninsula.  The area corresponds to the midstream 
-to upstream of the Shiribeshi-toshibetsu River, which flows to the Sea 
-of Japan.  ( The downstream is Setana Town.  Local residents call the 
-river Toshibetsu River. )
+inland in the Oshima Peninsula.
+
+The area corresponds to the middle to upper reaches of the Shiribeshi-
+toshibetsu River, which flows to the Sea of Japan.  ( The downstream 
+area is Setana Town. )  ( The Shiribeshi-toshibetsu River is called 
+the Toshibetsu River by local residents. )
 
 NAME 
 
 The name ``Imakane'' is Japanese.  It is derived from two pioneers, 
 Toujirou Imamura and Ishirou Kanamori ( Ima- and Kane- ).  Both 
-were graduates of Tokyo Professional School ( now Waseda University ).  
-#1
+were graduates of Toukyou Professional School ( now Waseda 
+University ).  #1
 
 HISTORY 
 
@@ -5328,9 +5585,9 @@ In 1929 ( Shouwa 4 ), Toshibetsu Village ( 1st-class municipality ) was
 established.  In 1947 ( Shouwa 22 ), Imakane Town was established.  At 
 the time, Toshibetsu was renamed Imakane.
 
-( For gold, see Naka-tonbetsu Town in Rumoi sub-prefecture. )
 ( For 1st-class and 2nd-class municipalities, see the note of Matsumae 
   Town. )
+( For gold, see Naka-tonbetsu Town in Souya sub-prefecture. )
  
 TOWN HALL, TRAFFIC
 
@@ -5366,9 +5623,11 @@ for sea cow fossils excavated from the dam construction site.  #6
 
 NOTE   
  
-#1  As for the name Imakane, local post office is called ``Imagane'' 
-( not Imakane ).  The former railroad station was also Imagane.  But, 
-the name on the topographical map is Imakane.  ( Topographical maps are 
+#1
+
+As for the name Imakane, local post office is called ``Imagane'' ( not 
+Imakane ).  The former railroad station was also Imagane.  But, the 
+name on the topographical map is Imakane.  ( Topographical maps are 
 published by Geographical Survey Institute. )
 
 Imakane's former name was Toshibetsu.  The name comes from ``tus-pet'' 
@@ -5384,7 +5643,9 @@ Ministry of Land, Infrastructure, Transport and Tourism.
 ( For the cleanest rivers, see Rankoshi Town in Shiribeshi sub-
   prefecture. )
 
-#2  A Christian group settled in Immanuel.  They wanted to make their 
+#2
+
+A Christian group settled in Immanuel.  They wanted to make their 
 utopia.  The name ``Immanuel'' means ``God with us'' in Hebrew.  
 Immanuel was located in what is now Kamioka district.  The name ``Kami-
 oka'' means ``god, hill'' in Japanese.
@@ -5396,8 +5657,10 @@ Christian group may have imagined Immanuel.
 
 ( For Guinko Oguino, see Setana Town in Hiyama sub-prefecture. )
 
-#3  Hana-ishi district is located near the Pirika Dam.  The word 
-``hana-ishi'' is Japanese.  It means ``agate ( a'get )'' in English and
+#3
+
+Hana-ishi district is located near the Pirika Dam.  The word ``hana-
+ishi'' is Japanese.  It means ``agate ( a'get )'' in English and
 ``menou'' in Japanese.  Hana-ishi was the largest agate mine in the 
 country in the Meiji period.  The agate was shipped to Fukui Prefecture 
 and carved into ornaments ( Wakasa-menou-zaiku ). 
@@ -5408,10 +5671,12 @@ shop.  He recommended me to buy agate chopstick rests.  He said,
 ``Agate is artificially colored, but this is natural.''  It was brown. 
 He was the president of a construction company and knew many things.
 
-#4  Near the center of Imakane Town, a loop bridge stands out.  The 
-bridge continues up to Hikaridai district, an agricultural area on a 
-hill.  The loop bridge looks like an expressway, but it is an 
-agricultural road called ``Nou-men-douro.''
+#4
+
+Near the center of Imakane Town, a loop bridge stands out.  The bridge 
+continues up to Hikaridai district, an agricultural area on a hill.  
+The loop bridge looks like an expressway, but it is an agricultural 
+road called ``Nou-men-douro.'' 
 --> http://maps.gsi.go.jp/#16/42.429863/140.024700
 
 The agricultural road ( Nou-men-douro ) is constructed using gasoline 
@@ -5420,19 +5685,21 @@ used for agricultural machinery.
 
 Other loop bridges in Hokkaidou are located in Sunagawa City ( Sorach 
 sub-prefecture ), Toyoura Town ( Iburi sub-prefecture ), and Asari 
-district in Otaru City ( Shiribeshi sub-prefecture ).
---> http://maps.gsi.go.jp/#16/43.486820/141.955290
+district in Otaru City ( Shiribeshi sub-prefecture ).  
+--> http://maps.gsi.go.jp/#16/43.486820/141.955290 
 --> http://maps.gsi.go.jp/#16/42.661910/140.744562
 --> http://maps.gsi.go.jp/#16/43.135989/141.040850
 
-#5  Danshaku is a potato cultivar for eat.  The word ``danshaku'' means 
+#5
+
+Danshaku is a potato cultivar for eat.  The word ``danshaku'' means 
 ``baron'' in Japanese.  ( Danshaku and May-queen are popular potato 
 cultivars for eat.  Kona-fubuki is popular potato cultivar for 
 processing.  The name ``Kona-fubuki'' means ``powder snowstorm.'' ) 
 
-( For potato, see Shihoro Town in Tokachi sub-prefecture. )
 ( For Danshaku potato, see Kucchan Town in Shiribeshi sub-prefecture. ) 
 ( For May-queen potato, see Assabu Town in Hiyama sub-prefecture. ) 
+( For potato, see Shihoro Town in Tokachi sub-prefecture. )
 
 Imakane potatoes have a reputation for quality.  The potato acreage per 
 farm is smaller than that of the municipalities in Tokachi sub-
@@ -5452,8 +5719,10 @@ impact on the next cultivation.  In Tokachi, stray potatoes are killed
 during the cold winter.  But, recently, not all stray potatoes are 
 killed because of climate change.
 
-#6  The Pirika Dam is 1,480 meters wide.  It's the widest concrete dam 
-in the country.  The dam was constructed between 1975 and 1991 at the 
+#6
+
+The Pirika Dam is 1,480 meters wide.  It's the widest concrete dam in 
+the country.  The dam was constructed between 1975 and 1991 at the 
 confluence of the three rivers ; the Shiribeshi-toshibetsu River, 
 the Pirikabetsu River, and the Chuushibetsu River.
 
@@ -5485,10 +5754,12 @@ Zero ( 0 ) means under 0.4 square kilometers. )
 ( 2 ) 2015 Census of Agriculture and Forestry by the Ministry of
 Agriculture, Forestry and Fisheries.  ( For crop areas ( hectares ) and 
 livestock populations ( head ).  The data was obtained from farmers 
-living in the municipality.  The category ``Fodder ( crop )'' includes 
-dent corn.  ``Flowers'' includes open-field and greenhouse cultivation. 
- ``Dairy cows'' includes heifers and dry cows.  ``X'' is concealed 
-data.  ``-'' is zero. )
+living in the municipality.
+
+The category ``Fodder ( crop )'' includes dent corn.  ``Flowers'' 
+includes open-field and greenhouse cultivation.  ``Dairy cows'' 
+includes heifers and dry cows.  ``X'' is concealed data.  ``-'' is 
+zero. )
 
 ( 3 ) 2017 Survey on Marine Fishery Production by the Ministry of 
 Agriculture, Forestry and Fisheries ( Heisei-29-nen-kaimen-gyogyou-
@@ -5506,31 +5777,28 @@ sign/cs/sign.pdf  ARCHIVE HTTP://2242.MOOO.COM/HOK/S19.PDF
 
 ( 6 ) cowsay. http://github.com/cowsay-org/cowsay
 
-( 7 ) Database of offprint ( by Nihei lab ).  HTTP://2242.MOOO.COM/
-cgi-bin/JOURNAL1.CGI
-
-( 8 ) GSI ( Geospatial Information Authority of Japan ) Maps.  http://
+( 7 ) GSI ( Geospatial Information Authority of Japan ) Maps.  http://
 maps.gsi.go.jp/
 
-( 9 ) Hokkaidou safety map 2014 by Hokkaidou Traffic Safety 
+( 8 ) Hokkaidou safety map 2014 by Hokkaidou Traffic Safety 
 Association.
 
-( 10 ) Inquiries with teachers, administrative offices, and companies 
-by T. Nihei.
+( 9 ) Inquiries with teachers, administrative offices, and companies by 
+T. Nihei.
 
-( 11 ) Japan Meteorological Agency.  ( For annual average climate data.
+( 10 ) Japan Meteorological Agency.  ( For annual average climate data.
 Basically, the data is an averagee from 1981 to 2010. )
 
-( 12 ) Kochou-yakuba ( \u6238\u9577\u5F79\u5834 ).  http://note.com/
+( 11 ) Kochou-yakuba ( \u6238\u9577\u5F79\u5834 ).  http://note.com/
 note_di2/n/n1239052cb53d
 
-( 13 ) Observations during excursions by T. Nihei.
+( 12 ) Observations during excursions by T. Nihei.
 
-( 14 ) Population Census by the Ministry of Internal Affairs and
+( 13 ) Population Census by the Ministry of Internal Affairs and
 Communication, Japan.  ( For population in 1990 and 2010, and areas 
 ( square kilometers ) of municipalities in 2010. )
 
-( 15 ) Wikipeida.
+( 14 ) Wikipeida.
  ________________
 |                | 
 |  BIBLIOGRAPHY  |
@@ -5543,50 +5811,56 @@ Communication, Japan.  ( For population in 1990 and 2010, and areas
 University Library ; ``Son-shi ( \u6751\u53F2 ),'' ``Chou-shi 
 ( \u753A\u53F2 ),'' and ``Shi-shi ( \u5E02\u53F2 ).''
 
-( 3 ) T. Nihei 2018.  ``The regional geography of Japan.''  Hokkaidou 
-University Press.  ISBN 9784832903739
+( 3 ) T. Nihei 2004.  Database of offprints ; certos acontecimentos sao 
+predestinados a acontecer.  HTTP://2242.MOOO.COM/cgi-bin/JOURNAL1.CGI
+( OLD ;  Database of offprints in geography ; a collection of Nihei 
+  laboratory.  http://www.labo-geo.jp/cgi-bin/journal2.cgi )
 
-( 4 ) Nihei lab 2019-2021.  Atsuma, Iburi, Mukawa.  ``Hokkaidou Atlas & 
+( 4 ) T. Nihei 2018.  ``The regional geography of Japan.''  Hokkaidou 
+University Press.  ISBN 9784832903739
+http://www.researchgate.net/publication/385491723
+
+( 5 ) Nihei lab 2019-2021.  Atsuma, Iburi, Mukawa.  ``Hokkaidou Atlas & 
 Gazetteer'' No. 1  HTTP://2242.MOOO.COM/HOK/1.TXT
 
-( 5 ) Nihei lab 2020-2025.  Iburi.  ``Hokkaidou Atlas & Gazetteer'' 
+( 6 ) Nihei lab 2020-2025.  Iburi.  ``Hokkaidou Atlas & Gazetteer'' 
 No. 2  HTTP://2242.MOOO.COM/HOK/2.TXT
 
-( 6 ) Nihei lab 2021-2025a.  Map 1 Hokkaidou ; Map 2 Oshima, Hiyama, 
+( 7 ) Nihei lab 2021-2025a.  Map 1 Hokkaidou ; Map 2 Oshima, Hiyama, 
 Shiribeshi ; Map 3 Iburi, Ishikari, Hidaka ; Map 4 Sapporo. 
 ``Hokkaidou Atlas & Gazetteer'' No. 3  HTTP://2242.MOOO.COM/HOK/3.TXT
 
-( 7 ) Nihei lab 2021-2025b.  Map 5 Sorachi, Rumoi ; Map 6 Kamikawa, 
+( 8 ) Nihei lab 2021-2025b.  Map 5 Sorachi, Rumoi ; Map 6 Kamikawa, 
 Souya, Map 7 Tokachi, Okhotsk ; Map 8  Kushiro, Nemuro ; Map 9. 
 ``Hokkaidou Atlas & Gazetteer'' No. 4  HTTP://2242.MOOO.COM/HOK/4.TXT
 
-( 8 ) Nihei lab 2021-2026.  Oshima, Hiyama.  ``Hokkaidou Atlas & 
+( 9 ) Nihei lab 2021-2026.  Oshima, Hiyama.  ``Hokkaidou Atlas & 
 Gazetteer'' No. 5  HTTP://2242.MOOO.COM/HOK/5.TXT
 
-( 9 ) Nihei lab 2023-2026.  Sorachi.  ``Hokkaidou Atlas & Gazetteer'' 
+( 10 ) Nihei lab 2023-2026.  Sorachi.  ``Hokkaidou Atlas & Gazetteer'' 
 No. 6  HTTP://2242.MOOO.COM/NOTE/6.TXT
 
-( 10 ) Nihei lab 2023-2025.  Tama Hills.  ``Campus Note'' No. 4
+( 11 ) Nihei lab 2023-2025.  Tama Hills.  ``Campus Note'' No. 4
 HTTP://2242.MOOO.COM/NOTE/NT.TXT
 
-( 11 ) Nihei lab 2024-2025a.  Excursion of mountain.  ``Campus Note'' 
+( 12 ) Nihei lab 2024-2025a.  Excursion of mountain.  ``Campus Note'' 
 No. 5  HTTP://2242.MOOO.COM/NOTE/TK.TXT
 
-( 12 ) Nihei lab 2024-2025b.  ``hokkaidou ( a game ).''  http://
+( 13 ) Nihei lab 2024-2025b.  ``hokkaidou ( a game ).''  http://
 github.com/niheit/hokkaidou 
 
-( 13 ) Nihei lab 2025.  Universal spelling method for place names in 
+( 14 ) Nihei lab 2025.  Universal spelling method for place names in 
 Japan.  ``Campus Note'' No. 15  HTTP://2242.MOOO.COM/NOTE/UN.TXT
 
-( 14 ) Nihon-chishi-kenkyuujo ed. 1979.  ``Hokkaidou.''  Ninomiya-
+( 15 ) Nihon-chishi-kenkyuujo ed. 1979.  ``Hokkaidou.''  Ninomiya-
 shoten. ISBN 9784817600028
 
-( 15 ) T. Okudaira, J. Okamoto, K. Yamashita, & Y. Himiyama 2007.  
-Place names in Hokkaidou in ``World encyclopedia ( Sekai-dai-hyakka-
-jiten ).''  Heibonsha.  http://www.excite.co.jp/dictionary/ency/
+( 16 ) T. Okudaira, J. Okamoto, K. Yamashita, & Y. Himiyama 2007.  
+Place names in Hokkaidou in ``The World Encyclopedia ( Sekai-dai-
+hyakka-jiten ).''  Heibonsha.  http://www.excite.co.jp/dictionary/ency/
 content/  ( Accessed in 2021 )
 
-( 16 ) K. Yamashita & K. Hirakawa eds. 2011.  ``Hokkaidou.''  Asakura-
+( 17 ) K. Yamashita & K. Hirakawa eds. 2011.  ``Hokkaidou.''  Asakura-
 shoten.  ISBN 9784254167634 
 
 

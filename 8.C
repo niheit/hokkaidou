@@ -1,20 +1,20 @@
 #include<stdio.h>
 
-/* ``hokkaidou'' is a game to check gazetteer in hokkaidou island. Ver 2602 */
+/* ``hokkaidou'' is a game to check gazetteer in hokkaidou island. Ver 2606 */
 
 int main() {
 int a;
 FILE *fp = fopen("6.TXT", "r");  /* Original HTTP://2242.MOOO.COM/HOK/6.TXT */
 
 /* Set the first line (top of a box) for these words in 6.TXT */
-int SORACHI=235, RUMOI_SUB=0000, KAMIKAWA_SUB=0000, SOUYA=0000; 
+int SORACHI=302, RUMOI_SUB=0000, KAMIKAWA_SUB=0000, SOUYA=0000; 
 int TOKACHI=0000, OKHOTSK=0000, KUSHIRO_SUB=00000, NEMURO_SUB=00000; 
-int NANPORO=302, NAGANUMA=466, YUNI=628, IWAMIZAWA=779, KURIYAMA=987; 
-int YUUBARI=1169, TSUKIGATA=1497, BIBAI=1702, MIKASA=1817, URAUSU=1992; 
-int NAIE=2098, ASHIBETSU=2238, SHIN_TOTSUKAWA=2384, SUNAGAWA=2606; 
-int KAMI_SUNAGAWA=2739, UTASHINAI=2833, URYUU=3004, TAKIKAWA=3273; 
-int AKABIRA=3503, HOKURYUU=3656, MOSEUSHI=3772, FUKAGAWA=3889; 
-int CHIPPUBETSU=4102, NUMATA=4247, MASHIKE=0000, RUMOI_CITY=0000, OBIRA=0000;
+int NANPORO=399, NAGANUMA=645, YUNI=904, IWAMIZAWA=1139, KURIYAMA=1466; 
+int YUUBARI=1731, TSUKIGATA=2289, BIBAI=2586, MIKASA=2789, URAUSU=3063; 
+int NAIE=3250, ASHIBETSU=3482, SHIN_TOTSUKAWA=3746, SUNAGAWA=4139; 
+int KAMI_SUNAGAWA=4344, UTASHINAI=4491, URYUU=4740, TAKIKAWA=5150; 
+int AKABIRA=5521, HOKURYUU=5761, MOSEUSHI=5953, FUKAGAWA=6125; 
+int CHIPPUBETSU=6435, NUMATA=6666, MASHIKE=0000, RUMOI_CITY=0000, OBIRA=0000;
 int TOMAMAE=0000, HABORO=0000, SHOSANBETSU=0000, ENBETSU=0000, TESHIO=00000;
 int HIMUKAPPU=0000, MINAMI_FURANO=0000, FURANO=0000, NAKA_FURANO=0000; 
 int KAMI_FURANO=0000, BIEI=0000, ASAHIKAWA=0000, HIGASHI_KAGURA=0000;
@@ -36,7 +36,7 @@ int KOSHIMIZU=00000, KIYOSATO=00000, SHARI=00000, SHIRANUKA=00000;
 int KUSHIRO_SHI=00000, TSURUI=00000, KUSHIRO_CHOU=00000, AKKESHI=00000; 
 int SHIBECHA=00000, TESHIKAGA=00000, HAMANAKA=00000, NEMURO_CITY=00000; 
 int BETSUKAI=00000, NAKA_SHIBETSU=00000, SHIBETSU_NEMURO=00000, RAUSU=00000;
-int SOURCE=4361;
+int SOURCE=6820;
 
 printf("Hokkaidou Gazetteer; Central, North, & East ---> x_Abashiri x_Aibetsu 3_Akabira \nx_Akkeshi x_Asahikawa 6_Ashibetsu x_Ashoro x_Betsukai 9_Bibai xx_Biei xx_Bifuka \nxx_Bihoro 13_Chippubetsu xx_Enbetsu xx_Engaru xx_Esashi 17_Fukagawa xx_Furano \nxx_Haboro xx_Hama-tonbetsu xx_Hamanaka xx_Higashi-kagura xx_Higashikawa \nxx_Hiroo xx_Hokkaidou 26_Hokuryuu xx_Honbetsu xx_Horokanai xx_Horonobe xx_Ikeda \n31_Iwamizawa xx_Kami-furano xx_Kami-shihoro 34_Kami-sunagawa \nxx_Kamikawa_sub-pref xx_Kamikawa_Town xx_Kenbuchi xx_Kitami xx_Kiyosato \nxx_Koshimizu xx_Kunneppu 42_Kuriyama xx_Kushiro_City xx_Kushiro_sub-pref \nxx_Kushiro_Town xx_Makubetsu xx_Mashike xx_Memuro 49_Mikasa xx_Minami-furano \nxx_Monbetsu 52_Moseushi 53_Naganuma 54_Naie xx_Naka-furano xx_Naka-satsunai \nxx_Naka-shibetsu xx_Naka-tonbetsu xx_Nakagawa 60_Nanporo xx_Nayoro \nxx_Nemuro_City xx_Nemuro_sub-pref xx_Nishi-okoppe 65_Numata xx_Obihiro xx_Obira \nxx_Oketo xx_Okhotsk xx_Okhotsk_highways xx_Okoppe xx_Oozora xx_Otofuke \nxx_Otoineppu xx_Oumu xx_Pippu xx_Rausu xx_Rebun xx_Rikubetsu xx_Rishiri \nxx_Rishiri-fuji xx_Rumoi_City xx_Rumoi_sub-pref xx_Sarabetsu xx_Saroma \nxx_Sarufutsu xx_Shari xx_Shibecha xx_Shibetsu_(Kamikawa) xx_Shibetsu_(Nemuro) \nxx_Shihoro xx_Shikaoi xx_Shimizu xx_Shimokawa xx_Shimukappu 96_Shin-totsukawa \nxx_Shintoku xx_Shiranuka xx_Shosanbetsu 100_Sorachi xxx_Souya 102_Sunagawa \nxxx_Taiki xxx_Takasu 105_Takikawa xxx_Takinoue xxx_Teshikaga xxx_Teshio \nxxx_Tokachi_plain xxx_Tokachi_sub-pref xxx_Tomamae xxx_Touma xxx_Toyokoro \nxxx_Toyotomi xxx_Tsubetsu 116_Tsukigata xxx_Tsurui xxx_Urahoro 119_Urausu \n120_Uryuu 121_Utashinai xxx_Wakkanai xxx_Wassamu 124_Yuni 125_Yuubari \nxxx_Yuubetsu ---> Enter No. ---> "); scanf("%d",&a);
 
