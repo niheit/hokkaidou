@@ -1,52 +1,55 @@
 #include<stdio.h>
 
-/* ``hokkaidou'' is a game to check gazetteer in hokkaidou island. 
-   Version 260606 */
+/* The tilte is ``hokkaidou.'' This is a game to check gazetteer in Hokkaidou 
+   Island.  Version 2610 */
 
 int main() {
 int a;
 FILE *fp = fopen("5.TXT", "r");  /* Original HTTP://2242.MOOO.COM/HOK/5.TXT */
 
 /* Set the first line (top of a box) for these words in 5.TXT */
-int OSHIMA=295, HIYAMA=420, SHIRIBESHI=0000, IBURI=0000, HIDAKA=0000; 
-int ISHIKARI=00000, MATSUMAE=589, FUKUSHIMA=958, SHIRIUCHI=1179, KIKONAI=1392; 
-int HOKUTO=1605, HAKODATE=1856, NANAE=2455, SHIKABE=2773, MORI=2894; 
-int YAKUMO=3206, OSHAMANBE=3475, KAMINOKUNI=3758, ESASHI=4143, ASSABU=4528; 
-int OTOBE=4817, OKUSHIRI=5068, SETANA=5208, IMAKANE=5541, SHIMAMAKI=0000; 
-int KUROMATSUNAI=0000, SUTTSU=0000, RANKOSHI=0000, NISEKO=0000, MAKKARI=0000;
-int RUSUTSU=0000, KIMOBETSU=0000, KYOUGOKU=0000, KUCCHAN=0000, KYOUWA=0000;
-int IWANAI=0000, TOMARI=0000, KAMOENAI=0000, SHAKOTAN=0000, FURUBIRA=0000;
-int NIKI=0000, YOICHI=0000, AKAIGAWA=0000, OTARU=0000, OTARU_EAST=0000;
-int OTARU_SOUTH=0000, OTARU_WEST=0000, TOYOURA=0000, TOUYAKO=0000, DATE=0000;
-int MURORAN=0000, SOUBETSU=0000, NOBORIBETSU=0000, SHIRAOI=0000; 
-int TOMAKOMAI=0000, ABIRA=0000, ATSUMA=0000, MUKAWA=0000, BIRATORI=0000;
-int ERIMO=0000, HIDAKA_TOWN=0000, NIIKAPPU=0000, SAMANI=0000, SHIN_HIDAKA=0000;
-int SHIN_HIDAKA_HOKKAIDOU_UNIV_RANCH=0000, URAKAWA=00000, KITA_HIROSHIMA=00000;
-int ISHIKARI_CITY=00000, ENIWA=00000, CHITOSE=00000, TOUBETSU=00000; 
-int EBETSU=00000, SHIN_SHINOTSU=00000, SAPPORO=00000, SAPPORO_MINAMI=00000; 
-int SAPPORO_TEINE=00000, SAPPORO_NISHI=00000, SAPPORO_CHUUOU=00000; 
-int SAPPORO_TOYOHIRA=00000, SAPPORO_KIYOTA=00000, SAPPORO_KITA=00000; 
-int SAPPORO_KITA_HOKKAIDOU_UNIV=00000, SAPPORO_HIGASHI=00000; 
-int SAPPORO_SHIROISHI=00000, SAPPORO_ATSUBETSU=00000, SOURCE=5743;
+int OSHIMA=332, HIYAMA=488, SHIRIBESHI=680, IBURI=0000, HIDAKA=0000; 
+int ISHIKARI=0000, MATSUMAE=799, FUKUSHIMA=1194, SHIRIUCHI=1425, KIKONAI=1650; 
+int HOKUTO=1873, HAKODATE=2141, NANAE=2791, SHIKABE=3244, MORI=3384; 
+int YAKUMO=3724, OSHAMANBE=4027, KAMINOKUNI=4330, ESASHI=4725, ASSABU=5133; 
+int OTOBE=5450, OKUSHIRI=5730, SETANA=5878, IMAKANE=6228, SHIMAMAKI=6449; 
+int KUROMATSUNAI=6737, SUTTSU=7152, RANKOSHI=7507, NISEKO=7759, MAKKARI=8114;
+int RUSUTSU=8583, KIMOBETSU=8955, KYOUGOKU=9257, KUCCHAN=9546, KYOUWA=10074;
+int IWANAI=10276, TOMARI=10732, KAMOENAI=10999, SHAKOTAN=11256, FURUBIRA=11637;
+int NIKI=11873, YOICHI=12296, AKAIGAWA=12889, OTARU=13284, OTARU_EAST=14184;
+int OTARU_SOUTH=14496, OTARU_WEST=14613, TOYOURA=00000, TOUYAKO=00000;
+int DATE=00000, MURORAN=00000, SOUBETSU=00000, NOBORIBETSU=00000;
+int SHIRAOI=00000, TOMAKOMAI=00000, ABIRA=00000, ATSUMA=00000, MUKAWA=00000;
+int BIRATORI=00000, ERIMO=00000, HIDAKA_TOWN=00000, NIIKAPPU=00000;
+int SAMANI=00000, SHIN_HIDAKA=00000, SHIN_HIDAKA_HOKKAIDOU_UNIV_RANCH=00000; 
+int URAKAWA=00000;
+int KITA_HIROSHIMA=00000, ISHIKARI_CITY=00000, ENIWA=00000, CHITOSE=00000;
+int TOUBETSU=00000, EBETSU=00000, SHIN_SHINOTSU=00000, SAPPORO=00000;
+int SAPPORO_MINAMI=00000, SAPPORO_TEINE=00000, SAPPORO_NISHI=00000;
+int SAPPORO_CHUUOU=00000, SAPPORO_TOYOHIRA=00000, SAPPORO_KIYOTA=00000; 
+int SAPPORO_KITA=00000, SAPPORO_KITA_HOKKAIDOU_UNIV=00000;
+int SAPPORO_HIGASHI=00000, SAPPORO_SHIROISHI=00000, SAPPORO_ATSUBETSU=00000; 
+int SOURCE=14763;
 
 printf (
-"Hokkaidou Gazetteer; South & Central ---> x_Abira x_Akaigawa 3_Assabu \n" 
-"x_Atsuma x_Biratori x_Chitose x_Date x_Ebetsu x_Eniwa xx_Erimo \n"
-"11_Esashi 12_Fukushima xx_Furubira 14_Hakodate xx_Hidaka sub-prefecture \n"
-"xx_Hidaka_Town 17_Hiyama 18_Hokuto xx_Iburi 20_Imakane xx_Ishikari_City \n"
-"xx_Ishikari_sub-prefecture xx_Iwanai 24_Kaminokuni xx_Kamoenai 26_Kikonai \n"
-"xx_Kimobetsu xx_Kita-hiroshima xx_Kucchan xx_Kyougoku xx_Kyouwa xx_Makkari \n"
-"33_Matsumae 34_Mori xx_Mukawa xx_Muroran 37_Nanae xx_Niikappu xx_Niki \n"
-"xx_Niseko xx_Noboribetsu 42_Okushiri 43_Oshamenbe 44_Oshima xx_Otaru \n"
-"xx_Otaru_east xx_Otaru_south xx_Otaru_west 49_Otobe xx_Rankoshi xx_Rusutsu \n"
-"xx_Samani xx_Sapporo xx_Sapporo_Atsubetsu, xx_Sapporo_Chuuou \n"
-"xx_Sapporo_Higashi xx_Sapporo_Kita xx_Sapporo_Kita_Hokkaidou_Univ \n"
-"xx_Sapporo_Kiyota xx_Sapporo_Minami xx_Sapporo_Nishi xx_Sapporo_Shiroishi \n"
-"xx_Sapporo_Teine xx_Sapporo_Toyohira 65_Setana xx_Shakotan 67_Shikabe \n"
-"xx_Shin-shinotsu xx_Shin-hidaka xx_Shin-hidaka_Hokkaidou_Univ_Ranch \n"
-"xx_Shiraoi xx_Shiribeshi 73_Shiriuchi xx_Soubetsu xx_Suttsu xx_Tomakomai \n"
-"xx_Tomari xx_Toubetsu xx_Touyako xx_Toyoura xx_Urakawa 82_Yakumo xx_Yoichi \n"
-"Enter No. ---> ");
+"Hokkaidou Gazetteer ; South & Central --> __Abira 2_Akaigawa 3_Assabu \n" 
+"__Atsuma __Biratori __Chitose __Date __Ebetsu __Eniwa ___Erimo \n"
+"11_Esashi 12_Fukushima 13_Furubira 14_Hakodate ___Hidaka sub-prefecture \n"
+"___Hidaka_Town 17_Hiyama 18_Hokuto ___Iburi 20_Imakane ___Ishikari_City \n"
+"___Ishikari_sub-prefecture 23_Iwanai 24_Kaminokuni 25_Kamoenai 26_Kikonai \n"
+"27_Kimobetsu ___Kita-hiroshima 29_Kucchan 30_Kuromatsunai 31_Kyougoku \n"
+"32_Kyouwa 33_Makkari 34_Matsumae 35_Mori ___Mukawa ___Muroran 38_Nanae \n"
+"___Niikappu 40_Niki 41_Niseko ___Noboribetsu 43_Okushiri 44_Oshamenbe \n"
+"45_Oshima 46_Otaru 47_Otaru_east 48_Otaru_south 49_Otaru_west 50_Otobe \n"
+"51_Rankoshi 52_Rusutsu ___Samani ___Sapporo ___Sapporo_Atsubetsu \n"
+"___Sapporo_Chuuou ___Sapporo_Higashi ___Sapporo_Kita \n"
+"___Sapporo_Kita_Hokkaidou_Univ ___Sapporo_Kiyota ___Sapporo_Minami \n"
+"___Sapporo_Nishi ___Sapporo_Shiroishi ___Sapporo_Teine ___Sapporo_Toyohira \n"
+"66_Setana 67_Shakotan 68_Shikabe 69_Shimamaki ___Shin-shinotsu \n"
+"___Shin-hidaka ___Shin-hidaka_Hokkaidou_Univ_Ranch ___Shiraoi \n"
+"74_Shiribeshi 75_Shiriuchi ___Soubetsu 77_Suttsu ___Tomakomai 79_Tomari \n"
+"___Toubetsu ___Touyako ___Toyoura ___Urakawa 84_Yakumo 85_Yoichi \n"
+"Enter No. --> ");
 scanf("%d",&a);
 
 /* Original http://stackoverflow.com/questions/36853463 */
@@ -78,27 +81,54 @@ while ((c = fgetc (fp)) != EOF) { \
      break; 
 
 switch(a){
-case 44: DISPLAY(OSHIMA, HIYAMA)
-case 17: DISPLAY(HIYAMA, MATSUMAE)
+case 45: DISPLAY (OSHIMA, HIYAMA)
+case 17: DISPLAY (HIYAMA, SHIRIBESHI)
+case 74: DISPLAY (SHIRIBESHI, MATSUMAE)
 
-case 33: DISPLAY(MATSUMAE, FUKUSHIMA)
-case 12: DISPLAY(FUKUSHIMA, SHIRIUCHI)
-case 73: DISPLAY(SHIRIUCHI, KIKONAI)
-case 26: DISPLAY(KIKONAI, HOKUTO)
-case 18: DISPLAY(HOKUTO, HAKODATE)
-case 14: DISPLAY(HAKODATE, NANAE)
-case 37: DISPLAY(NANAE, SHIKABE)
-case 67: DISPLAY(SHIKABE, MORI)
-case 34: DISPLAY(MORI, YAKUMO)
-case 82: DISPLAY(YAKUMO, OSHAMANBE)
-case 43: DISPLAY(OSHAMANBE, KAMINOKUNI)
+case 34: DISPLAY (MATSUMAE, FUKUSHIMA)
+case 12: DISPLAY (FUKUSHIMA, SHIRIUCHI)
+case 75: DISPLAY (SHIRIUCHI, KIKONAI)
+case 26: DISPLAY (KIKONAI, HOKUTO)
+case 18: DISPLAY (HOKUTO, HAKODATE)
+case 14: DISPLAY (HAKODATE, NANAE)
+case 38: DISPLAY (NANAE, SHIKABE)
+case 68: DISPLAY (SHIKABE, MORI)
+case 35: DISPLAY (MORI, YAKUMO)
+case 84: DISPLAY (YAKUMO, OSHAMANBE)
+case 44: DISPLAY (OSHAMANBE, KAMINOKUNI)
 
-case 24: DISPLAY(KAMINOKUNI, ESASHI)
-case 11: DISPLAY(ESASHI, ASSABU)
-case  3: DISPLAY(ASSABU, OTOBE)
-case 49: DISPLAY(OTOBE, OKUSHIRI)
-case 42: DISPLAY(OKUSHIRI, SETANA)
-case 65: DISPLAY(SETANA, IMAKANE)
-case 20: DISPLAY(IMAKANE, SOURCE)
+case 24: DISPLAY (KAMINOKUNI, ESASHI)
+case 11: DISPLAY (ESASHI, ASSABU)
+case  3: DISPLAY (ASSABU, OTOBE)
+case 50: DISPLAY (OTOBE, OKUSHIRI)
+case 43: DISPLAY (OKUSHIRI, SETANA)
+case 66: DISPLAY (SETANA, IMAKANE)
+case 20: DISPLAY (IMAKANE, SHIMAMAKI)
+
+case 69: DISPLAY (SHIMAMAKI, KUROMATSUNAI)
+case 30: DISPLAY (KUROMATSUNAI, SUTTSU)
+case 77: DISPLAY (SUTTSU, RANKOSHI)
+case 51: DISPLAY (RANKOSHI, NISEKO)
+case 41: DISPLAY (NISEKO, MAKKARI)
+case 33: DISPLAY (MAKKARI, RUSUTSU)
+case 52: DISPLAY (RUSUTSU, KIMOBETSU)
+case 27: DISPLAY (KIMOBETSU, KYOUGOKU)
+case 31: DISPLAY (KYOUGOKU, KUCCHAN)
+case 29: DISPLAY (KUCCHAN, KYOUWA)
+case 32: DISPLAY (KYOUWA, IWANAI)
+case 23: DISPLAY (IWANAI, TOMARI)
+case 79: DISPLAY (TOMARI, KAMOENAI)
+case 25: DISPLAY (KAMOENAI, SHAKOTAN)
+case 67: DISPLAY (SHAKOTAN, FURUBIRA)
+case 13: DISPLAY (FURUBIRA, NIKI)
+case 40: DISPLAY (NIKI, YOICHI)
+case 85: DISPLAY (YOICHI, AKAIGAWA)
+case  2: DISPLAY (AKAIGAWA, OTARU)
+case 46: DISPLAY (OTARU, OTARU_EAST)
+case 47: DISPLAY (OTARU_EAST, OTARU_SOUTH)
+case 48: DISPLAY (OTARU_SOUTH, OTARU_WEST)
+case 49: DISPLAY (OTARU_SOUTH, SOURCE)
+
+
  }
 }
